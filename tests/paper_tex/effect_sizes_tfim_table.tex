@@ -1,0 +1,139 @@
+\begin{table}[p]
+\centering
+\small
+\setlength{\tabcolsep}{3pt}
+\caption{Paired effect sizes for the transverse-field Ising model, computed as Fixed-mask MC minus each comparator, with 95\% bootstrap CIs and Holm-adjusted significance marks. Columns are those of Tables~\ref{tab:tfim-main}, \ref{tab:tfim-noise-conventions} and \ref{tab:decomp} (TFIM block).}
+\label{tab:effect-sizes-tfim}
+\begin{tabular}{lcc}
+\toprule
+ & \multicolumn{2}{c}{State RMSE} \\
+\cmidrule(lr){2-3}
+Comparator & ID & OOD \\
+\midrule
+\multicolumn{3}{l}{\emph{TFIM, family (i) accuracy and drift}} \\
+Fresh-mask MC & \makecell{0.0373\textsuperscript{*}\\ {\footnotesize [0.0334, 0.0415]}} & \makecell{0.00739\\ {\footnotesize [2.9e-5, 0.0147]}} \\
+Concrete & \makecell{0.0311\textsuperscript{*}\\ {\footnotesize [0.0267, 0.0355]}} & \makecell{$-$7.3e-5\\ {\footnotesize [$-$0.0155, 0.0160]}} \\
+Variational & \makecell{$-$0.0893\textsuperscript{*}\\ {\footnotesize [$-$0.0942, $-$0.0839]}} & \makecell{$-$0.0963\textsuperscript{*}\\ {\footnotesize [$-$0.103, $-$0.0889]}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic (ref.)} & \makecell{0.0386\\ {\footnotesize [0.0349, 0.0425]}} & \makecell{0.0281\\ {\footnotesize [0.0198, 0.0367]}} \\
+\bottomrule
+\end{tabular}%
+\par\medskip
+\begin{tabular}{lcc}
+\toprule
+Comparator & \makecell{Norm\\ drift} & \makecell{Energy\\ drift} \\
+\midrule
+\multicolumn{3}{l}{\emph{TFIM, family (i) accuracy and drift}} \\
+Fresh-mask MC & \makecell{0.109\textsuperscript{*}\\ {\footnotesize [0.0856, 0.134]}} & \makecell{0.199\textsuperscript{*}\\ {\footnotesize [0.150, 0.250]}} \\
+Concrete & \makecell{0.113\textsuperscript{*}\\ {\footnotesize [0.0890, 0.140]}} & \makecell{0.192\textsuperscript{*}\\ {\footnotesize [0.146, 0.238]}} \\
+Variational & \makecell{$-$0.145\textsuperscript{*}\\ {\footnotesize [$-$0.185, $-$0.111]}} & \makecell{$-$0.427\textsuperscript{*}\\ {\footnotesize [$-$0.522, $-$0.340]}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic (ref.)} & \makecell{0.134\\ {\footnotesize [0.109, 0.160]}} & \makecell{0.267\\ {\footnotesize [0.213, 0.322]}} \\
+\bottomrule
+\end{tabular}%
+\par\smallskip{\footnotesize Cells as in Table~\ref{tab:effect-sizes-classical}.}
+\end{table}
+\begin{table}[p]
+\centering
+\small
+\setlength{\tabcolsep}{3pt}
+\ContinuedFloat
+\caption{Paired effect sizes for the transverse-field Ising model (continued).}
+\begin{tabular}{lcc}
+\toprule
+ & \multicolumn{2}{c}{G-NLL ($\hat\epsilon$)} \\
+\cmidrule(lr){2-3}
+Comparator & ID & OOD \\
+\midrule
+\multicolumn{3}{l}{\emph{TFIM, family (ii) likelihood: G-NLL}} \\
+Fresh-mask MC & \makecell{1.281\textsuperscript{*}\\ {\footnotesize [1.187, 1.361]}} & \makecell{$-$3.657\textsuperscript{*}\\ {\footnotesize [$-$5.042, $-$2.073]}} \\
+Concrete & \makecell{0.944\textsuperscript{*}\\ {\footnotesize [0.876, 1.009]}} & \makecell{$-$1.521\\ {\footnotesize [$-$2.709, $-$0.443]}} \\
+Variational & \makecell{$-$0.383\textsuperscript{*}\\ {\footnotesize [$-$0.416, $-$0.348]}} & \makecell{$-$0.649\textsuperscript{*}\\ {\footnotesize [$-$0.679, $-$0.616]}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic (ref.)} & \makecell{1.461\\ {\footnotesize [1.436, 1.486]}} & \makecell{$-$3.332\\ {\footnotesize [$-$6.778, $-$0.450]}} \\
+\bottomrule
+\end{tabular}%
+\par\medskip
+\begin{tabular}{lcc}
+\toprule
+ & \multicolumn{2}{c}{G-NLL ($\epsilon$=0.10)} \\
+\cmidrule(lr){2-3}
+Comparator & ID & OOD \\
+\midrule
+\multicolumn{3}{l}{\emph{TFIM, family (ii) likelihood: G-NLL}} \\
+Fresh-mask MC & \makecell{1.013\textsuperscript{*}\\ {\footnotesize [0.975, 1.049]}} & \makecell{$-$4.594\textsuperscript{*}\\ {\footnotesize [$-$5.914, $-$3.002]}} \\
+Concrete & \makecell{0.861\textsuperscript{*}\\ {\footnotesize [0.794, 0.927]}} & \makecell{$-$6.589\textsuperscript{*}\\ {\footnotesize [$-$9.599, $-$3.625]}} \\
+Variational & \makecell{$-$0.731\textsuperscript{*}\\ {\footnotesize [$-$0.781, $-$0.679]}} & \makecell{$-$1.666\textsuperscript{*}\\ {\footnotesize [$-$1.726, $-$1.606]}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic (ref.)} & \makecell{1.145\\ {\footnotesize [1.105, 1.181]}} & \makecell{$-$9.578\\ {\footnotesize [$-$17.26, $-$3.147]}} \\
+\bottomrule
+\end{tabular}%
+\end{table}
+\begin{table}[p]
+\centering
+\small
+\setlength{\tabcolsep}{3pt}
+\ContinuedFloat
+\caption{Paired effect sizes for the transverse-field Ising model (continued).}
+\begin{tabular}{lcc}
+\toprule
+ & \multicolumn{2}{c}{Cov90 err ($\hat\epsilon$)} \\
+\cmidrule(lr){2-3}
+Comparator & ID & OOD \\
+\midrule
+\multicolumn{3}{l}{\emph{TFIM, family (ii) likelihood: Cov90 error}} \\
+Fresh-mask MC & \makecell{0.0156\textsuperscript{*}\\ {\footnotesize [0.00853, 0.0225]}} & \makecell{$-$0.132\textsuperscript{*}\\ {\footnotesize [$-$0.177, $-$0.0774]}} \\
+Concrete & \makecell{0.0126\\ {\footnotesize [0.00482, 0.0217]}} & \makecell{$-$0.0581\\ {\footnotesize [$-$0.100, $-$0.0157]}} \\
+Variational & \makecell{0.0821\textsuperscript{*}\\ {\footnotesize [0.0771, 0.0860]}} & \makecell{$-$0.00276\\ {\footnotesize [$-$0.00995, 0.00341]}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic (ref.)} & \makecell{0.0703\\ {\footnotesize [0.0665, 0.0744]}} & \makecell{$-$0.107\\ {\footnotesize [$-$0.165, $-$0.0560]}} \\
+\bottomrule
+\end{tabular}%
+\par\medskip
+\begin{tabular}{lcc}
+\toprule
+ & \multicolumn{2}{c}{Cov90 err ($\epsilon$=0.10)} \\
+\cmidrule(lr){2-3}
+Comparator & ID & OOD \\
+\midrule
+\multicolumn{3}{l}{\emph{TFIM, family (ii) likelihood: Cov90 error}} \\
+Fresh-mask MC & \makecell{0.0162\textsuperscript{*}\\ {\footnotesize [0.0130, 0.0195]}} & \makecell{$-$0.182\textsuperscript{*}\\ {\footnotesize [$-$0.201, $-$0.159]}} \\
+Concrete & \makecell{0.0470\textsuperscript{*}\\ {\footnotesize [0.0389, 0.0550]}} & \makecell{$-$0.250\textsuperscript{*}\\ {\footnotesize [$-$0.280, $-$0.219]}} \\
+Variational & \makecell{$-$0.0293\textsuperscript{*}\\ {\footnotesize [$-$0.0420, $-$0.0172]}} & \makecell{$-$0.180\textsuperscript{*}\\ {\footnotesize [$-$0.185, $-$0.174]}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic (ref.)} & \makecell{$-$0.0160\\ {\footnotesize [$-$0.0240, $-$0.00872]}} & \makecell{$-$0.243\\ {\footnotesize [$-$0.294, $-$0.197]}} \\
+\bottomrule
+\end{tabular}%
+\end{table}
+\begin{table}[p]
+\centering
+\small
+\setlength{\tabcolsep}{3pt}
+\ContinuedFloat
+\caption{Paired effect sizes for the transverse-field Ising model (continued).}
+\begin{tabular}{lccc}
+\toprule
+Comparator & Var$_\mathrm{epi}$ (ID) & Var$_\mathrm{alea}$ (ID) & Var$_\mathrm{total}$ (ID) \\
+\midrule
+\multicolumn{4}{l}{\emph{TFIM, family (iii) variance decomposition, ID}} \\
+Fresh-mask MC & \makecell{0.0149\textsuperscript{*}\\ {\footnotesize [0.0139, 0.0159]}} & \makecell{0.00430\textsuperscript{*}\\ {\footnotesize [0.00394, 0.00462]}} & \makecell{0.0192\textsuperscript{*}\\ {\footnotesize [0.0181, 0.0202]}} \\
+Concrete & \makecell{0.0150\textsuperscript{*}\\ {\footnotesize [0.0141, 0.0160]}} & \makecell{0.00293\textsuperscript{*}\\ {\footnotesize [0.00225, 0.00362]}} & \makecell{0.0180\textsuperscript{*}\\ {\footnotesize [0.0172, 0.0187]}} \\
+Variational & \makecell{0.00377\textsuperscript{*}\\ {\footnotesize [0.00239, 0.00500]}} & \makecell{$-$0.00291\textsuperscript{*}\\ {\footnotesize [$-$0.00335, $-$0.00256]}} & \makecell{8.7e-4\\ {\footnotesize [$-$4.8e-4, 0.00218]}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic (ref.)} & \makecell{0.0155\\ {\footnotesize [0.0145, 0.0165]}} & \makecell{0.00429\\ {\footnotesize [0.00386, 0.00461]}} & \makecell{0.0198\\ {\footnotesize [0.0189, 0.0207]}} \\
+\bottomrule
+\end{tabular}%
+\par\medskip
+\begin{tabular}{lccc}
+\toprule
+Comparator & \makecell{Var$_\mathrm{epi}$\\ (OOD)} & \makecell{Var$_\mathrm{alea}$\\ (OOD)} & \makecell{Var$_\mathrm{total}$\\ (OOD)} \\
+\midrule
+\multicolumn{4}{l}{\emph{TFIM, family (iii) variance decomposition, OOD}} \\
+Fresh-mask MC & \makecell{0.0154\textsuperscript{*}\\ {\footnotesize [0.0144, 0.0166]}} & \makecell{0.00415\textsuperscript{*}\\ {\footnotesize [0.00377, 0.00451]}} & \makecell{0.0196\textsuperscript{*}\\ {\footnotesize [0.0184, 0.0208]}} \\
+Concrete & \makecell{0.0155\textsuperscript{*}\\ {\footnotesize [0.0145, 0.0167]}} & \makecell{0.00278\textsuperscript{*}\\ {\footnotesize [0.00215, 0.00343]}} & \makecell{0.0183\textsuperscript{*}\\ {\footnotesize [0.0172, 0.0194]}} \\
+Variational & \makecell{0.00575\textsuperscript{*}\\ {\footnotesize [0.00462, 0.00706]}} & \makecell{$-$0.00300\textsuperscript{*}\\ {\footnotesize [$-$0.00343, $-$0.00270]}} & \makecell{0.00275\textsuperscript{*}\\ {\footnotesize [0.00149, 0.00418]}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic (ref.)} & \makecell{0.0160\\ {\footnotesize [0.0150, 0.0171]}} & \makecell{0.00415\\ {\footnotesize [0.00373, 0.00447]}} & \makecell{0.0201\\ {\footnotesize [0.0191, 0.0212]}} \\
+\bottomrule
+\end{tabular}%
+\end{table}

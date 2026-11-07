@@ -1,0 +1,37 @@
+\begin{table}[t]
+\centering
+\small
+\setlength{\tabcolsep}{3pt}
+\caption{Transverse-field Ising model (operator-structured HNN backbone with energy built from learned local operator terms, $L$=4, $g$-scan, $M$=200). State RMSE of the predicted wavefunction in and out of the training band of $g$. The IC $\times$ mask ensemble is scored with the state-preparation noise $\epsilon$ fitted per run on a validation grid ($\hat\epsilon$, a grid value) and with $\epsilon$ fixed at the true 0.10. Norm and energy drift are measured on the predicted wavefunction. $\alpha$ is the mask-ensemble fraction of predictive variance.}
+\label{tab:tfim-main}
+\begin{tabular}{lccccc}
+\toprule
+ & \multicolumn{2}{c}{State RMSE} &  & \multicolumn{2}{c}{G-NLL ($\hat\epsilon$)} \\
+\cmidrule(lr){2-3}
+\cmidrule(lr){5-6}
+Method & ID & OOD & $\hat\epsilon$ & ID & OOD \\
+\midrule
+Fresh-mask MC & \textbf{0.0202} {\footnotesize $\pm$9.9e-4} & 0.0694 {\footnotesize $\pm$0.013} & 0.140 {\footnotesize $\pm$0.052} & \textbf{$-$2.276} {\footnotesize $\pm$0.13} & 2.720 {\footnotesize $\pm$2.5} \\
+Concrete & 0.0264 {\footnotesize $\pm$0.0021} & 0.0769 {\footnotesize $\pm$0.021} & 0.265 {\footnotesize $\pm$0.058} & $-$1.939 {\footnotesize $\pm$0.13} & 0.584 {\footnotesize $\pm$1.9} \\
+Variational & 0.147 {\footnotesize $\pm$0.0039} & 0.173 {\footnotesize $\pm$0.0014} & 0.595 {\footnotesize $\pm$0.016} & $-$0.611 {\footnotesize $\pm$0.026} & $-$0.287 {\footnotesize $\pm$0.040} \\
+Fixed-mask MC & 0.0575 {\footnotesize $\pm$0.0065} & 0.0768 {\footnotesize $\pm$0.013} & 0.585 {\footnotesize $\pm$0.047} & $-$0.994 {\footnotesize $\pm$0.047} & $-$0.937 {\footnotesize $\pm$0.048} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic} & 0.0189 {\footnotesize $\pm$5.7e-4} & 0.0487 {\footnotesize $\pm$0.023} & 0.150 {\footnotesize $\pm$0} & $-$2.456 {\footnotesize $\pm$0.021} & 2.395 {\footnotesize $\pm$5.5} \\
+\bottomrule
+\end{tabular}%
+\par\medskip
+\begin{tabular}{lccccc}
+\toprule
+ & \multicolumn{2}{c}{G-NLL ($\epsilon$=0.10)} &  &  &  \\
+\cmidrule(lr){2-3}
+Method & ID & OOD & \makecell{Norm\\ drift} & \makecell{Energy\\ drift} & OOD $\alpha$ \\
+\midrule
+Fresh-mask MC & \textbf{$-$2.363} {\footnotesize $\pm$0.023} & 3.343 {\footnotesize $\pm$2.5} & 0.0371 {\footnotesize $\pm$0.0014} & \textbf{0.0994} {\footnotesize $\pm$0.0019} & 0.527 {\footnotesize $\pm$0.16} \\
+Concrete & $-$2.211 {\footnotesize $\pm$0.084} & 5.339 {\footnotesize $\pm$5.0} & \textbf{0.0328} {\footnotesize $\pm$0.0057} & 0.107 {\footnotesize $\pm$0.017} & 0.201 {\footnotesize $\pm$0.055} \\
+Variational & $-$0.618 {\footnotesize $\pm$0.065} & 0.416 {\footnotesize $\pm$0.098} & 0.291 {\footnotesize $\pm$0.051} & 0.726 {\footnotesize $\pm$0.10} & 0.567 {\footnotesize $\pm$0.011} \\
+Fixed-mask MC & $-$1.350 {\footnotesize $\pm$0.055} & \textbf{$-$1.250} {\footnotesize $\pm$0.11} & 0.146 {\footnotesize $\pm$0.041} & 0.299 {\footnotesize $\pm$0.086} & 0.768 {\footnotesize $\pm$0.034} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic} & $-$2.495 {\footnotesize $\pm$0.046} & 8.327 {\footnotesize $\pm$12} & 0.0123 {\footnotesize $\pm$0.0048} & 0.0318 {\footnotesize $\pm$0.014} & 0 {\footnotesize $\pm$0} \\
+\bottomrule
+\end{tabular}%
+\end{table}

@@ -1,0 +1,44 @@
+\begin{table}[t]
+\centering
+\small
+\setlength{\tabcolsep}{3pt}
+\caption{Drift along the rollout. For the Coupled Pendulum and Spring Chain, drift of the model's own sampled Hamiltonian (self-consistency, not physical energy, see Table~\ref{tab:long-horizon-energy}) averaged over the rollout steps and at the final frame, rescored with the mask that produced each rollout. For TFIM, norm and energy drift of the predicted wavefunction (from Table~\ref{tab:tfim-main}).}
+\label{tab:energy-current-summary}
+\begin{tabular}{lcc}
+\toprule
+Method & \makecell{Mean\\ H-drift} & \makecell{Final\\ H-drift} \\
+\midrule
+\multicolumn{3}{l}{\emph{Coupled pendulum}} \\
+Fresh-mask MC & 0.157 {\footnotesize $\pm$0.0076} & 0.179 {\footnotesize $\pm$0.0084} \\
+Concrete & 0.124 {\footnotesize $\pm$0.0043} & 0.147 {\footnotesize $\pm$0.0060} \\
+Variational & 0.530 {\footnotesize $\pm$0.12} & 0.645 {\footnotesize $\pm$0.16} \\
+Fixed-mask MC & \textbf{0.00432} {\footnotesize $\pm$5.3e-5} & 0.00423 {\footnotesize $\pm$3.0e-4} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic} & 0.00428 {\footnotesize $\pm$4.6e-5} & 0.00354 {\footnotesize $\pm$2.4e-4} \\
+\textit{Deep ens. $\times$5} & 0.00431 {\footnotesize (n=1)} & 0.00359 {\footnotesize (n=1)} \\
+\midrule
+\multicolumn{3}{l}{\emph{Spring chain}} \\
+Fresh-mask MC & 1.751 {\footnotesize $\pm$0.11} & 1.854 {\footnotesize $\pm$0.11} \\
+Concrete & 1.732 {\footnotesize $\pm$0.21} & 1.761 {\footnotesize $\pm$0.27} \\
+Variational & 4.111 {\footnotesize $\pm$0.58} & 4.739 {\footnotesize $\pm$0.64} \\
+Fixed-mask MC & \textbf{0.108} {\footnotesize $\pm$0.0014} & 0.104 {\footnotesize $\pm$0.0047} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic} & 0.106 {\footnotesize $\pm$3.3e-4} & 0.0791 {\footnotesize $\pm$0.0020} \\
+\textit{Deep ens. $\times$5} & 0.106 {\footnotesize (n=1)} & 0.0774 {\footnotesize (n=1)} \\
+\bottomrule
+\end{tabular}%
+\par\medskip
+\begin{tabular}{lcc}
+\toprule
+Method & \makecell{Norm\\ drift} & \makecell{Energy\\ drift} \\
+\midrule
+\multicolumn{3}{l}{\emph{TFIM (operator-structured backbone)}} \\
+Fresh-mask MC & 0.0371 {\footnotesize $\pm$0.0014} & \textbf{0.0994} {\footnotesize $\pm$0.0019} \\
+Concrete & \textbf{0.0328} {\footnotesize $\pm$0.0057} & 0.107 {\footnotesize $\pm$0.017} \\
+Variational & 0.291 {\footnotesize $\pm$0.051} & 0.726 {\footnotesize $\pm$0.10} \\
+Fixed-mask MC & 0.146 {\footnotesize $\pm$0.041} & 0.299 {\footnotesize $\pm$0.086} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic} & 0.0123 {\footnotesize $\pm$0.0048} & 0.0318 {\footnotesize $\pm$0.014} \\
+\bottomrule
+\end{tabular}%
+\end{table}

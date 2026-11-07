@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Trajectory-Consistent Dropout for Uncertainty Decomposition in Hamiltonian Neural Networks"
+type: software
+license: MIT
+repository-code: "https://github.com/yukitachibana-eth/hnn-trajectory-dropout"
+date-released: 2026-11-01
+authors:
+  - family-names: "Tachibana"
+    given-names: "Yuki"
+    affiliation: "Department of Engineering Science, University of Oxford"
+  - family-names: "Roberts"
+    given-names: "Stephen J."
+    affiliation: "Department of Engineering Science, University of Oxford"

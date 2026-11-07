@@ -1,0 +1,37 @@
+\begin{table}[t]
+\centering
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\caption{Exploratory hidden-parameter shift detection on the Coupled Pendulum, reported as the AUROC for detecting that the true mass ratio $r_{\mathrm{true}}$ differs from the conditioning ratio $r_0$, given a revealed prefix of $k$ observed steps.}
+\label{tab:hidden-param-detection}
+\begin{tabular}{llccccc}
+\toprule
+ & & \multicolumn{5}{c}{Revealed prefix length $k$} \\
+\cmidrule(lr){3-7}
+$r_0$ & Method & 2 & 3 & 5 & 8 & 10 \\
+\midrule
+0.75 & Fixed-mask MC & 0.794 & 0.803 & 0.813 & 0.821 & 0.829 \\
+ & Fresh-mask MC & 0.640 & 0.701 & 0.765 & 0.808 & 0.827 \\
+ & $\Delta$ (Fixed $-$ Fresh) & 0.154$^{\dagger}$ & 0.103$^{\dagger}$ & 0.049$^{\dagger}$ & 0.013 & 0.003 \\
+\midrule
+1.0 & Fixed-mask MC & 0.856 & 0.838 & 0.817 & 0.797 & 0.811 \\
+ & Fresh-mask MC & 0.651 & 0.705 & 0.767 & 0.810 & 0.830 \\
+ & $\Delta$ (Fixed $-$ Fresh) & 0.204$^{\dagger}$ & 0.133$^{\dagger}$ & 0.050$^{\dagger}$ & $-$0.013 & $-$0.019 \\
+\midrule
+1.5 & Fixed-mask MC & 0.631 & 0.634 & 0.640 & 0.668 & 0.693 \\
+ & Fresh-mask MC & 0.609 & 0.650 & 0.695 & 0.728 & 0.743 \\
+ & $\Delta$ (Fixed $-$ Fresh) & 0.023$^{\dagger}$ & $-$0.016 & $-$0.055$^{\dagger}$ & $-$0.060$^{\dagger}$ & $-$0.049$^{\dagger}$ \\
+\bottomrule
+\end{tabular}
+\par\smallskip
+\begin{tabular}{lcc}
+\toprule
+Predictive-variance score & Fixed-mask MC & Fresh-mask MC \\
+\midrule
+Leakage control, $k=0$, $r_0=1.0$ (pooled over both methods) & \multicolumn{2}{c}{0.499} \\
+Peak over $k\in\{1,2,5,10\}$, $r_0=1.0$ (held-out $r_{\mathrm{true}}$) & 0.641 ($k=10$) & 0.660 ($k=10$) \\
+Range over $r_0\in\{0.75,1.0,1.5\}$ (training-grid $r_{\mathrm{true}}$), $k\in\{2,3,5,8,10\}$ & 0.468--0.572 & 0.483--0.573 \\
+\bottomrule
+\end{tabular}
+\par\smallskip{\footnotesize The top block scores the per-sample Hamiltonian drift along the revealed prefix, with $r_{\mathrm{true}}$ over the six other training mass ratios. $\Delta$ is the mean paired per-seed difference Fixed-mask MC $-$ Fresh-mask MC, and $^{\dagger}$ marks Holm-adjusted $p<0.05$ (Holm over the five $k$ per anchor $r_0$).}
+\end{table}

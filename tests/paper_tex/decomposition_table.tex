@@ -1,0 +1,42 @@
+\begin{table}[t]
+\centering
+\small
+\setlength{\tabcolsep}{3pt}
+\caption{Variance decomposition of the nested IC $\times$ mask predictive ensemble into aleatoric (IC-conditional) and epistemic (mask-conditional at fixed IC) components at the fitted IC-noise scale ($\hat\sigma$, $\hat\epsilon$) in and out of distribution, their OOD ratio, and the epistemic fraction $\alpha$. Deterministic models have no mask ensemble (epistemic terms are 0 or n/a by construction). Variance components have no preferred direction.}
+\label{tab:decomp}
+\begin{tabular}{lccccccc}
+\toprule
+ & \multicolumn{2}{c}{Var$_\mathrm{alea}$} & \multicolumn{2}{c}{Var$_\mathrm{epi}$} &  & \multicolumn{2}{c}{$\alpha$} \\
+\cmidrule(lr){2-3}
+\cmidrule(lr){4-5}
+\cmidrule(lr){7-8}
+Method & ID & OOD & ID & OOD & \makecell{Var$_\mathrm{epi}$/Var$_\mathrm{alea}$\\ (OOD)} & ID & OOD \\
+\midrule
+\multicolumn{8}{l}{\emph{Coupled pendulum}} \\
+Fresh-mask MC & \makecell{0.142\\ {\footnotesize $\pm$ 0.0041}} & \makecell{0.189\\ {\footnotesize $\pm$ 0.012}} & \makecell{0.00108\\ {\footnotesize $\pm$ 5.1e-5}} & \makecell{0.00637\\ {\footnotesize $\pm$ 8.0e-4}} & \makecell{0.0337\\ {\footnotesize $\pm$ 0.0035}} & \makecell{0.00753\\ {\footnotesize $\pm$ 4.0e-4}} & \makecell{0.0326\\ {\footnotesize $\pm$ 0.0033}} \\
+Concrete & \makecell{0.112\\ {\footnotesize $\pm$ 0.0032}} & \makecell{0.145\\ {\footnotesize $\pm$ 0.0071}} & \makecell{9.9e-4\\ {\footnotesize $\pm$ 6.6e-5}} & \makecell{0.00681\\ {\footnotesize $\pm$ 5.2e-4}} & \makecell{0.0469\\ {\footnotesize $\pm$ 0.0034}} & \makecell{0.00880\\ {\footnotesize $\pm$ 6.5e-4}} & \makecell{0.0448\\ {\footnotesize $\pm$ 0.0031}} \\
+Variational & \makecell{0.156\\ {\footnotesize $\pm$ 0.023}} & \makecell{0.155\\ {\footnotesize $\pm$ 0.022}} & \makecell{0.0161\\ {\footnotesize $\pm$ 0.0059}} & \makecell{0.0425\\ {\footnotesize $\pm$ 0.014}} & \makecell{0.275\\ {\footnotesize $\pm$ 0.080}} & \makecell{0.0922\\ {\footnotesize $\pm$ 0.025}} & \makecell{0.213\\ {\footnotesize $\pm$ 0.051}} \\
+Fixed-mask MC & \makecell{0.0798\\ {\footnotesize $\pm$ 0.0021}} & \makecell{0.104\\ {\footnotesize $\pm$ 0.0044}} & \makecell{0.0203\\ {\footnotesize $\pm$ 0.0022}} & \makecell{0.119\\ {\footnotesize $\pm$ 0.033}} & \makecell{1.135\\ {\footnotesize $\pm$ 0.29}} & \makecell{0.203\\ {\footnotesize $\pm$ 0.018}} & \makecell{0.524\\ {\footnotesize $\pm$ 0.066}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic} & \makecell{0.110\\ {\footnotesize $\pm$ 0.0021}} & \makecell{0.180\\ {\footnotesize $\pm$ 0.032}} & n/a & n/a & n/a & n/a & n/a \\
+\textit{Deep ens. $\times$5} & \makecell{0.109\\ {\footnotesize (n=1)}} & \makecell{0.143\\ {\footnotesize (n=1)}} & \makecell{0.00206\\ {\footnotesize (n=1)}} & \makecell{0.123\\ {\footnotesize (n=1)}} & \makecell{0.856\\ {\footnotesize (n=1)}} & \makecell{0.0185\\ {\footnotesize (n=1)}} & \makecell{0.461\\ {\footnotesize (n=1)}} \\
+\midrule
+\multicolumn{8}{l}{\emph{Spring chain}} \\
+Fresh-mask MC & \makecell{0.561\\ {\footnotesize $\pm$ 0.021}} & \makecell{0.571\\ {\footnotesize $\pm$ 0.023}} & \makecell{0.00871\\ {\footnotesize $\pm$ 5.5e-4}} & \makecell{0.0278\\ {\footnotesize $\pm$ 0.0016}} & \makecell{0.0487\\ {\footnotesize $\pm$ 0.0024}} & \makecell{0.0153\\ {\footnotesize $\pm$ 8.7e-4}} & \makecell{0.0464\\ {\footnotesize $\pm$ 0.0022}} \\
+Concrete & \makecell{0.150\\ {\footnotesize $\pm$ 0.022}} & \makecell{0.150\\ {\footnotesize $\pm$ 0.022}} & \makecell{0.00482\\ {\footnotesize $\pm$ 8.3e-4}} & \makecell{0.0106\\ {\footnotesize $\pm$ 0.0024}} & \makecell{0.0710\\ {\footnotesize $\pm$ 0.013}} & \makecell{0.0312\\ {\footnotesize $\pm$ 0.0043}} & \makecell{0.0661\\ {\footnotesize $\pm$ 0.011}} \\
+Variational & \makecell{0.271\\ {\footnotesize $\pm$ 0.086}} & \makecell{0.243\\ {\footnotesize $\pm$ 0.080}} & \makecell{0.0985\\ {\footnotesize $\pm$ 0.022}} & \makecell{0.173\\ {\footnotesize $\pm$ 0.041}} & \makecell{0.876\\ {\footnotesize $\pm$ 0.71}} & \makecell{0.281\\ {\footnotesize $\pm$ 0.11}} & \makecell{0.426\\ {\footnotesize $\pm$ 0.13}} \\
+Fixed-mask MC & \makecell{0.0373\\ {\footnotesize $\pm$ 0.0011}} & \makecell{0.0374\\ {\footnotesize $\pm$ 0.0012}} & \makecell{0.155\\ {\footnotesize $\pm$ 0.024}} & \makecell{0.192\\ {\footnotesize $\pm$ 0.035}} & \makecell{5.150\\ {\footnotesize $\pm$ 1.0}} & \makecell{0.803\\ {\footnotesize $\pm$ 0.029}} & \makecell{0.833\\ {\footnotesize $\pm$ 0.028}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic} & \makecell{0.153\\ {\footnotesize $\pm$ 0.0085}} & \makecell{0.152\\ {\footnotesize $\pm$ 0.0085}} & n/a & n/a & n/a & n/a & n/a \\
+\textit{Deep ens. $\times$5} & \makecell{0.111\\ {\footnotesize (n=1)}} & \makecell{0.107\\ {\footnotesize (n=1)}} & \makecell{0.00593\\ {\footnotesize (n=1)}} & \makecell{0.0400\\ {\footnotesize (n=1)}} & \makecell{0.372\\ {\footnotesize (n=1)}} & \makecell{0.0507\\ {\footnotesize (n=1)}} & \makecell{0.271\\ {\footnotesize (n=1)}} \\
+\midrule
+\multicolumn{8}{l}{\emph{TFIM (operator-structured backbone)}} \\
+Fresh-mask MC & \makecell{6.4e-4\\ {\footnotesize $\pm$ 4.8e-4}} & \makecell{6.5e-4\\ {\footnotesize $\pm$ 4.8e-4}} & \makecell{6.5e-4\\ {\footnotesize $\pm$ 3.0e-5}} & \makecell{5.9e-4\\ {\footnotesize $\pm$ 3.7e-5}} & \makecell{1.319\\ {\footnotesize $\pm$ 0.69}} & \makecell{0.551\\ {\footnotesize $\pm$ 0.15}} & \makecell{0.527\\ {\footnotesize $\pm$ 0.16}} \\
+Concrete & \makecell{0.00201\\ {\footnotesize $\pm$ 8.1e-4}} & \makecell{0.00202\\ {\footnotesize $\pm$ 8.1e-4}} & \makecell{5.0e-4\\ {\footnotesize $\pm$ 1.0e-4}} & \makecell{4.7e-4\\ {\footnotesize $\pm$ 1.3e-4}} & \makecell{0.257\\ {\footnotesize $\pm$ 0.085}} & \makecell{0.211\\ {\footnotesize $\pm$ 0.050}} & \makecell{0.201\\ {\footnotesize $\pm$ 0.055}} \\
+Variational & \makecell{0.00785\\ {\footnotesize $\pm$ 3.3e-4}} & \makecell{0.00780\\ {\footnotesize $\pm$ 3.1e-4}} & \makecell{0.0118\\ {\footnotesize $\pm$ 7.8e-4}} & \makecell{0.0102\\ {\footnotesize $\pm$ 4.0e-4}} & \makecell{1.313\\ {\footnotesize $\pm$ 0.056}} & \makecell{0.599\\ {\footnotesize $\pm$ 0.013}} & \makecell{0.567\\ {\footnotesize $\pm$ 0.011}} \\
+Fixed-mask MC & \makecell{0.00494\\ {\footnotesize $\pm$ 6.5e-4}} & \makecell{0.00480\\ {\footnotesize $\pm$ 6.4e-4}} & \makecell{0.0155\\ {\footnotesize $\pm$ 0.0017}} & \makecell{0.0160\\ {\footnotesize $\pm$ 0.0019}} & \makecell{3.402\\ {\footnotesize $\pm$ 0.68}} & \makecell{0.757\\ {\footnotesize $\pm$ 0.039}} & \makecell{0.768\\ {\footnotesize $\pm$ 0.034}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic} & \makecell{6.5e-4\\ {\footnotesize $\pm$ 3.8e-7}} & \makecell{6.5e-4\\ {\footnotesize $\pm$ 1.9e-6}} & \makecell{0\\ {\footnotesize $\pm$ 0}} & \makecell{0\\ {\footnotesize $\pm$ 0}} & \makecell{0\\ {\footnotesize $\pm$ 0}} & \makecell{0\\ {\footnotesize $\pm$ 0}} & \makecell{0\\ {\footnotesize $\pm$ 0}} \\
+\bottomrule
+\end{tabular}%
+\end{table}

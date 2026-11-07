@@ -1,0 +1,34 @@
+\begin{table}[t]
+\centering
+\small
+\setlength{\tabcolsep}{3pt}
+\caption{Full version of Table~\ref{tab:main} with mean $\pm$ sd over seeds.}
+\label{tab:main-full}
+\begin{tabular}{lccccccccc}
+\toprule
+ & \multicolumn{2}{c}{MSE} &  & \multicolumn{2}{c}{G-NLL ($\hat\sigma$)} & \multicolumn{2}{c}{G-NLL ($\sigma$=0.1)} &  &  \\
+\cmidrule(lr){2-3}
+\cmidrule(lr){5-6}
+\cmidrule(lr){7-8}
+Method & ID & OOD & $\hat\sigma$ & ID & OOD & ID & OOD & OOD $\alpha$ & H-drift \\
+\midrule
+\multicolumn{10}{l}{\emph{Coupled pendulum}} \\
+Fresh-mask MC & \makecell{0.117\\ {\footnotesize $\pm$ 0.0058}} & \makecell{1.097\\ {\footnotesize $\pm$ 0.068}} & \makecell{0.331\\ {\footnotesize $\pm$ 0.0050}} & \makecell{0.274\\ {\footnotesize $\pm$ 0.012}} & \makecell{3.298\\ {\footnotesize $\pm$ 0.17}} & \makecell{1.064\\ {\footnotesize $\pm$ 0.028}} & \makecell{14.45\\ {\footnotesize $\pm$ 0.88}} & \makecell{0.0326\\ {\footnotesize $\pm$ 0.0033}} & \makecell{0.157\\ {\footnotesize $\pm$ 0.0076}} \\
+Concrete & \makecell{0.115\\ {\footnotesize $\pm$ 0.0035}} & \makecell{1.026\\ {\footnotesize $\pm$ 0.031}} & \makecell{0.294\\ {\footnotesize $\pm$ 0.0041}} & \makecell{0.267\\ {\footnotesize $\pm$ 0.0091}} & \makecell{3.837\\ {\footnotesize $\pm$ 0.13}} & \makecell{1.091\\ {\footnotesize $\pm$ 0.026}} & \makecell{13.35\\ {\footnotesize $\pm$ 0.36}} & \makecell{0.0448\\ {\footnotesize $\pm$ 0.0031}} & \makecell{0.124\\ {\footnotesize $\pm$ 0.0043}} \\
+Variational & \makecell{0.209\\ {\footnotesize $\pm$ 0.032}} & \makecell{1.111\\ {\footnotesize $\pm$ 0.046}} & \makecell{0.351\\ {\footnotesize $\pm$ 0.026}} & \makecell{0.517\\ {\footnotesize $\pm$ 0.083}} & \makecell{2.871\\ {\footnotesize $\pm$ 0.32}} & \makecell{1.340\\ {\footnotesize $\pm$ 0.21}} & \makecell{7.770\\ {\footnotesize $\pm$ 1.5}} & \makecell{0.213\\ {\footnotesize $\pm$ 0.051}} & \makecell{0.530\\ {\footnotesize $\pm$ 0.12}} \\
+Fixed-mask MC & \makecell{0.113\\ {\footnotesize $\pm$ 0.0046}} & \makecell{1.032\\ {\footnotesize $\pm$ 0.045}} & \makecell{0.250\\ {\footnotesize $\pm$ 0.0029}} & \makecell{\textbf{0.224}\\ {\footnotesize $\pm$ 0.011}} & \makecell{2.774\\ {\footnotesize $\pm$ 0.17}} & \makecell{\textbf{0.477}\\ {\footnotesize $\pm$ 0.039}} & \makecell{\textbf{4.739}\\ {\footnotesize $\pm$ 0.39}} & \makecell{0.524\\ {\footnotesize $\pm$ 0.066}} & \makecell{\textbf{0.00432}\\ {\footnotesize $\pm$ 5.3e-5}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic} & \makecell{0.119\\ {\footnotesize $\pm$ 0.0026}} & \makecell{1.189\\ {\footnotesize $\pm$ 0.11}} & \makecell{0.290\\ {\footnotesize $\pm$ 0.0030}} & \makecell{0.273\\ {\footnotesize $\pm$ 0.0062}} & \makecell{4.255\\ {\footnotesize $\pm$ 0.30}} & \makecell{1.332\\ {\footnotesize $\pm$ 0.043}} & \makecell{20.08\\ {\footnotesize $\pm$ 1.5}} & n/a & \makecell{0.00428\\ {\footnotesize $\pm$ 4.6e-5}} \\
+\textit{Deep ens. $\times$5} & \makecell{0.115\\ {\footnotesize (n=1)}} & \makecell{1.036\\ {\footnotesize (n=1)}} & \makecell{0.291\\ {\footnotesize (n=1)}} & \makecell{0.261\\ {\footnotesize (n=1)}} & \makecell{2.948\\ {\footnotesize (n=1)}} & \makecell{1.083\\ {\footnotesize (n=1)}} & \makecell{8.106\\ {\footnotesize (n=1)}} & \makecell{0.461\\ {\footnotesize (n=1)}} & \makecell{0.00431\\ {\footnotesize (n=1)}} \\
+\midrule
+\multicolumn{10}{l}{\emph{Spring chain}} \\
+Fresh-mask MC & \makecell{0.654\\ {\footnotesize $\pm$ 0.051}} & \makecell{4.424\\ {\footnotesize $\pm$ 0.049}} & \makecell{0.483\\ {\footnotesize $\pm$ 0.0083}} & \makecell{0.980\\ {\footnotesize $\pm$ 0.055}} & \makecell{\textbf{4.779}\\ {\footnotesize $\pm$ 0.19}} & \makecell{5.221\\ {\footnotesize $\pm$ 0.55}} & \makecell{33.84\\ {\footnotesize $\pm$ 0.77}} & \makecell{0.0464\\ {\footnotesize $\pm$ 0.0022}} & \makecell{1.751\\ {\footnotesize $\pm$ 0.11}} \\
+Concrete & \makecell{0.667\\ {\footnotesize $\pm$ 0.037}} & \makecell{4.370\\ {\footnotesize $\pm$ 0.062}} & \makecell{0.252\\ {\footnotesize $\pm$ 0.018}} & \makecell{1.729\\ {\footnotesize $\pm$ 0.12}} & \makecell{15.38\\ {\footnotesize $\pm$ 2.3}} & \makecell{5.013\\ {\footnotesize $\pm$ 0.33}} & \makecell{40.45\\ {\footnotesize $\pm$ 2.1}} & \makecell{0.0661\\ {\footnotesize $\pm$ 0.011}} & \makecell{1.732\\ {\footnotesize $\pm$ 0.21}} \\
+Variational & \makecell{1.721\\ {\footnotesize $\pm$ 0.11}} & \makecell{4.430\\ {\footnotesize $\pm$ 0.063}} & \makecell{0.310\\ {\footnotesize $\pm$ 0.058}} & \makecell{1.776\\ {\footnotesize $\pm$ 0.28}} & \makecell{7.711\\ {\footnotesize $\pm$ 1.3}} & \makecell{3.878\\ {\footnotesize $\pm$ 0.51}} & \makecell{17.42\\ {\footnotesize $\pm$ 2.5}} & \makecell{0.426\\ {\footnotesize $\pm$ 0.13}} & \makecell{4.111\\ {\footnotesize $\pm$ 0.58}} \\
+Fixed-mask MC & \makecell{\textbf{0.613}\\ {\footnotesize $\pm$ 0.026}} & \makecell{\textbf{4.010}\\ {\footnotesize $\pm$ 0.053}} & \makecell{0.130\\ {\footnotesize $\pm$ 0.0022}} & \makecell{0.989\\ {\footnotesize $\pm$ 0.14}} & \makecell{11.78\\ {\footnotesize $\pm$ 1.1}} & \makecell{\textbf{0.974}\\ {\footnotesize $\pm$ 0.13}} & \makecell{\textbf{11.55}\\ {\footnotesize $\pm$ 1.1}} & \makecell{0.833\\ {\footnotesize $\pm$ 0.028}} & \makecell{\textbf{0.108}\\ {\footnotesize $\pm$ 0.0014}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic} & \makecell{0.529\\ {\footnotesize $\pm$ 0.0062}} & \makecell{4.441\\ {\footnotesize $\pm$ 0.10}} & \makecell{0.253\\ {\footnotesize $\pm$ 0.0069}} & \makecell{1.370\\ {\footnotesize $\pm$ 0.051}} & \makecell{18.64\\ {\footnotesize $\pm$ 1.1}} & \makecell{5.055\\ {\footnotesize $\pm$ 0.10}} & \makecell{66.14\\ {\footnotesize $\pm$ 3.1}} & n/a & \makecell{0.106\\ {\footnotesize $\pm$ 3.3e-4}} \\
+\textit{Deep ens. $\times$5} & \makecell{0.538\\ {\footnotesize (n=1)}} & \makecell{4.105\\ {\footnotesize (n=1)}} & \makecell{0.216\\ {\footnotesize (n=1)}} & \makecell{1.576\\ {\footnotesize (n=1)}} & \makecell{17.24\\ {\footnotesize (n=1)}} & \makecell{3.812\\ {\footnotesize (n=1)}} & \makecell{35.62\\ {\footnotesize (n=1)}} & \makecell{0.271\\ {\footnotesize (n=1)}} & \makecell{0.106\\ {\footnotesize (n=1)}} \\
+\bottomrule
+\end{tabular}%
+\end{table}

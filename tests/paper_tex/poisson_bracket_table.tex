@@ -1,0 +1,35 @@
+\begin{table}[t]
+\caption{Poisson-bracket residual on TFIM ($L=4$, operator-structured
+backbone, seeds $42$--$51$). Top: geometric mean over seeds of the
+normalised residual, with the range over seeds. Bottom: seed-paired
+differences of the log residual (first minus second) with 95\% $t$
+intervals and two-sided paired $t$-test $p$-values, unadjusted.
+Per-sub-step is the Fixed-mask MC bank used throughout the paper,
+per-rollout the bank trained with one mask index per rollout.}
+\label{tab:poisson-bracket}
+\centering
+\small
+\begin{tabular}{lcc}
+\toprule
+Method & Geometric mean & Range over seeds \\
+\midrule
+Deterministic & $0.0036$ & $0.0021$--$0.0060$ \\
+Fresh-mask MC & $0.0199$ & $0.0188$--$0.0207$ \\
+Fixed-mask MC, per-sub-step training & $0.0193$ & $0.0140$--$0.0291$ \\
+Fixed-mask MC, per-rollout training & $0.0151$ & $0.0107$--$0.0214$ \\
+\bottomrule
+\end{tabular}
+\par\medskip
+\begin{tabular}{lccc}
+\toprule
+Comparison & Mean log difference & 95\% CI & $p$ \\
+\midrule
+Per-rollout $-$ Per-sub-step & $-0.243$ & $[-0.424,-0.062]$ & $0.014$ \\
+Per-rollout $-$ Fresh & $-0.273$ & $[-0.403,-0.143]$ & $0.001$ \\
+Per-sub-step $-$ Fresh & $-0.030$ & $[-0.171,+0.112]$ & $0.648$ \\
+Per-rollout $-$ Deterministic & $+1.428$ & $[+1.098,+1.758]$ & $4\times10^{-6}$ \\
+Per-sub-step $-$ Deterministic & $+1.671$ & $[+1.363,+1.979]$ & $6\times10^{-7}$ \\
+Fresh $-$ Deterministic & $+1.701$ & $[+1.451,+1.951]$ & $9\times10^{-8}$ \\
+\bottomrule
+\end{tabular}
+\end{table}

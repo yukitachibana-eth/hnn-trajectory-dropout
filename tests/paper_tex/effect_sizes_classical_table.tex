@@ -1,0 +1,197 @@
+\begin{table}[p]
+\centering
+\small
+\setlength{\tabcolsep}{3pt}
+\caption{Paired effect sizes for the classical systems (Coupled Pendulum and Spring Chain), computed as Fixed-mask MC minus each comparator, with 95\% bootstrap CIs and Holm-adjusted significance marks. Columns are those of Tables~\ref{tab:main}, \ref{tab:ic-noise-conventions} and \ref{tab:decomp}, and Phys.\ E-drift is defined in Appendix~\ref{app:energy}.}
+\label{tab:effect-sizes-classical}
+\begin{tabular}{lccc}
+\toprule
+ & \multicolumn{2}{c}{MSE} &  \\
+\cmidrule(lr){2-3}
+Comparator & ID & OOD & H-drift \\
+\midrule
+\multicolumn{4}{l}{\emph{Coupled pendulum, family (i) accuracy and drift}} \\
+Fresh-mask MC & \makecell{$-$0.00344\\ {\footnotesize [$-$0.00768, 0.00173]}} & \makecell{$-$0.0650\\ {\footnotesize [$-$0.107, $-$0.0317]}} & \makecell{$-$0.153\textsuperscript{*}\\ {\footnotesize [$-$0.157, $-$0.148]}} \\
+Concrete & \makecell{$-$0.00201\\ {\footnotesize [$-$0.00570, 0.00197]}} & \makecell{0.00515\\ {\footnotesize [$-$0.0229, 0.0323]}} & \makecell{$-$0.120\textsuperscript{*}\\ {\footnotesize [$-$0.122, $-$0.117]}} \\
+Variational & \makecell{$-$0.0958\textsuperscript{*}\\ {\footnotesize [$-$0.113, $-$0.0792]}} & \makecell{$-$0.0798\textsuperscript{*}\\ {\footnotesize [$-$0.113, $-$0.0459]}} & \makecell{$-$0.525\textsuperscript{*}\\ {\footnotesize [$-$0.593, $-$0.458]}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic (ref.)} & \makecell{$-$0.00520\\ {\footnotesize [$-$0.00828, $-$0.00206]}} & \makecell{$-$0.158\\ {\footnotesize [$-$0.228, $-$0.0977]}} & \makecell{3.7e-5\\ {\footnotesize [2.7e-6, 7.4e-5]}} \\
+\midrule
+\multicolumn{4}{l}{\emph{Spring chain, family (i) accuracy and drift}} \\
+Fresh-mask MC & \makecell{$-$0.0404\textsuperscript{*}\\ {\footnotesize [$-$0.0686, $-$0.0134]}} & \makecell{$-$0.413\textsuperscript{*}\\ {\footnotesize [$-$0.459, $-$0.366]}} & \makecell{$-$1.643\textsuperscript{*}\\ {\footnotesize [$-$1.705, $-$1.581]}} \\
+Concrete & \makecell{$-$0.0534\textsuperscript{*}\\ {\footnotesize [$-$0.0844, $-$0.0272]}} & \makecell{$-$0.360\textsuperscript{*}\\ {\footnotesize [$-$0.398, $-$0.321]}} & \makecell{$-$1.625\textsuperscript{*}\\ {\footnotesize [$-$1.761, $-$1.512]}} \\
+Variational & \makecell{$-$1.108\textsuperscript{*}\\ {\footnotesize [$-$1.185, $-$1.039]}} & \makecell{$-$0.420\textsuperscript{*}\\ {\footnotesize [$-$0.446, $-$0.393]}} & \makecell{$-$4.003\textsuperscript{*}\\ {\footnotesize [$-$4.375, $-$3.706]}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic (ref.)} & \makecell{0.0841\\ {\footnotesize [0.0687, 0.101]}} & \makecell{$-$0.431\\ {\footnotesize [$-$0.490, $-$0.371]}} & \makecell{0.00112\\ {\footnotesize [2.2e-4, 0.00197]}} \\
+\bottomrule
+\end{tabular}%
+\par\medskip
+\begin{tabular}{lcc}
+\toprule
+ & \multicolumn{2}{c}{Phys. E-drift} \\
+\cmidrule(lr){2-3}
+Comparator & ID & OOD \\
+\midrule
+\multicolumn{3}{l}{\emph{Coupled pendulum, family (i) accuracy and drift}} \\
+Fresh-mask MC & \makecell{0.0143\textsuperscript{*}\\ {\footnotesize [0.00659, 0.0215]}} & \makecell{0.0271\\ {\footnotesize [$-$0.0586, 0.105]}} \\
+Concrete & \makecell{0.0191\textsuperscript{*}\\ {\footnotesize [0.0143, 0.0237]}} & \makecell{0.0884\\ {\footnotesize [0.0379, 0.140]}} \\
+Variational & \makecell{$-$0.184\textsuperscript{*}\\ {\footnotesize [$-$0.219, $-$0.151]}} & \makecell{$-$0.581\textsuperscript{*}\\ {\footnotesize [$-$0.714, $-$0.477]}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic (ref.)} & \makecell{0.0301\\ {\footnotesize [0.0241, 0.0368]}} & \makecell{0.0161\\ {\footnotesize [$-$0.0804, 0.0933]}} \\
+\midrule
+\multicolumn{3}{l}{\emph{Spring chain, family (i) accuracy and drift}} \\
+Fresh-mask MC & \makecell{$-$0.332\textsuperscript{*}\\ {\footnotesize [$-$0.354, $-$0.307]}} & \makecell{$-$0.529\textsuperscript{*}\\ {\footnotesize [$-$0.628, $-$0.424]}} \\
+Concrete & \makecell{$-$0.119\textsuperscript{*}\\ {\footnotesize [$-$0.146, $-$0.0970]}} & \makecell{0.129\textsuperscript{*}\\ {\footnotesize [0.0712, 0.200]}} \\
+Variational & \makecell{$-$2.678\textsuperscript{*}\\ {\footnotesize [$-$2.879, $-$2.505]}} & \makecell{$-$4.124\textsuperscript{*}\\ {\footnotesize [$-$4.761, $-$3.580]}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic (ref.)} & \makecell{0.129\\ {\footnotesize [0.112, 0.145]}} & \makecell{$-$0.882\\ {\footnotesize [$-$1.350, $-$0.504]}} \\
+\bottomrule
+\end{tabular}%
+\par\smallskip{\footnotesize Cells give the mean paired difference Fixed-mask MC $-$ comparator and the 95\% bootstrap CI, and $^{*}$ marks Holm-adjusted $p<0.05$. The confidence intervals are not adjusted for multiplicity, so an interval can exclude zero while the Holm-adjusted test is not significant. Negative = Fixed-mask MC lower. Var$_\mathrm{total}$ is defined in Equation~\eqref{eq:totalvar}.}
+\end{table}
+\begin{table}[p]
+\centering
+\small
+\setlength{\tabcolsep}{3pt}
+\ContinuedFloat
+\caption{Paired effect sizes for the classical systems (continued).}
+\begin{tabular}{lcc}
+\toprule
+ & \multicolumn{2}{c}{G-NLL ($\hat\sigma$)} \\
+\cmidrule(lr){2-3}
+Comparator & ID & OOD \\
+\midrule
+\multicolumn{3}{l}{\emph{Coupled pendulum, family (ii) likelihood: G-NLL}} \\
+Fresh-mask MC & \makecell{$-$0.0501\textsuperscript{*}\\ {\footnotesize [$-$0.0596, $-$0.0399]}} & \makecell{$-$0.524\textsuperscript{*}\\ {\footnotesize [$-$0.678, $-$0.384]}} \\
+Concrete & \makecell{$-$0.0426\textsuperscript{*}\\ {\footnotesize [$-$0.0485, $-$0.0366]}} & \makecell{$-$1.063\textsuperscript{*}\\ {\footnotesize [$-$1.175, $-$0.944]}} \\
+Variational & \makecell{$-$0.293\textsuperscript{*}\\ {\footnotesize [$-$0.342, $-$0.249]}} & \makecell{$-$0.0973\\ {\footnotesize [$-$0.311, 0.116]}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic (ref.)} & \makecell{$-$0.0487\\ {\footnotesize [$-$0.0537, $-$0.0441]}} & \makecell{$-$1.481\\ {\footnotesize [$-$1.697, $-$1.269]}} \\
+\midrule
+\multicolumn{3}{l}{\emph{Spring chain, family (ii) likelihood: G-NLL}} \\
+Fresh-mask MC & \makecell{0.00911\\ {\footnotesize [$-$0.0668, 0.0950]}} & \makecell{7.001\textsuperscript{*}\\ {\footnotesize [6.388, 7.630]}} \\
+Concrete & \makecell{$-$0.740\textsuperscript{*}\\ {\footnotesize [$-$0.843, $-$0.625]}} & \makecell{$-$3.605\textsuperscript{*}\\ {\footnotesize [$-$5.218, $-$2.062]}} \\
+Variational & \makecell{$-$0.787\textsuperscript{*}\\ {\footnotesize [$-$1.021, $-$0.590]}} & \makecell{4.069\textsuperscript{*}\\ {\footnotesize [3.044, 5.103]}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic (ref.)} & \makecell{$-$0.382\\ {\footnotesize [$-$0.473, $-$0.287]}} & \makecell{$-$6.865\\ {\footnotesize [$-$7.862, $-$5.950]}} \\
+\bottomrule
+\end{tabular}%
+\par\medskip
+\begin{tabular}{lcc}
+\toprule
+ & \multicolumn{2}{c}{G-NLL ($\sigma$=0.1)} \\
+\cmidrule(lr){2-3}
+Comparator & ID & OOD \\
+\midrule
+\multicolumn{3}{l}{\emph{Coupled pendulum, family (ii) likelihood: G-NLL}} \\
+Fresh-mask MC & \makecell{$-$0.587\textsuperscript{*}\\ {\footnotesize [$-$0.611, $-$0.560]}} & \makecell{$-$9.714\textsuperscript{*}\\ {\footnotesize [$-$10.30, $-$9.210]}} \\
+Concrete & \makecell{$-$0.614\textsuperscript{*}\\ {\footnotesize [$-$0.636, $-$0.593]}} & \makecell{$-$8.614\textsuperscript{*}\\ {\footnotesize [$-$8.874, $-$8.331]}} \\
+Variational & \makecell{$-$0.863\textsuperscript{*}\\ {\footnotesize [$-$0.975, $-$0.746]}} & \makecell{$-$3.031\textsuperscript{*}\\ {\footnotesize [$-$3.975, $-$2.164]}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic (ref.)} & \makecell{$-$0.855\\ {\footnotesize [$-$0.868, $-$0.839]}} & \makecell{$-$15.34\\ {\footnotesize [$-$16.32, $-$14.53]}} \\
+\midrule
+\multicolumn{3}{l}{\emph{Spring chain, family (ii) likelihood: G-NLL}} \\
+Fresh-mask MC & \makecell{$-$4.247\textsuperscript{*}\\ {\footnotesize [$-$4.565, $-$3.929]}} & \makecell{$-$22.29\textsuperscript{*}\\ {\footnotesize [$-$22.91, $-$21.71]}} \\
+Concrete & \makecell{$-$4.039\textsuperscript{*}\\ {\footnotesize [$-$4.201, $-$3.857]}} & \makecell{$-$28.90\textsuperscript{*}\\ {\footnotesize [$-$29.90, $-$27.71]}} \\
+Variational & \makecell{$-$2.904\textsuperscript{*}\\ {\footnotesize [$-$3.155, $-$2.646]}} & \makecell{$-$5.873\textsuperscript{*}\\ {\footnotesize [$-$7.050, $-$4.591]}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic (ref.)} & \makecell{$-$4.081\\ {\footnotesize [$-$4.159, $-$4.004]}} & \makecell{$-$54.59\\ {\footnotesize [$-$56.24, $-$52.90]}} \\
+\bottomrule
+\end{tabular}%
+\end{table}
+\begin{table}[p]
+\centering
+\small
+\setlength{\tabcolsep}{3pt}
+\ContinuedFloat
+\caption{Paired effect sizes for the classical systems (continued).}
+\begin{tabular}{lcc}
+\toprule
+ & \multicolumn{2}{c}{Cov90 err ($\hat\sigma$)} \\
+\cmidrule(lr){2-3}
+Comparator & ID & OOD \\
+\midrule
+\multicolumn{3}{l}{\emph{Coupled pendulum, family (ii) likelihood: Cov90 error}} \\
+Fresh-mask MC & \makecell{0.00121\\ {\footnotesize [$-$0.00260, 0.00496]}} & \makecell{$-$0.0207\\ {\footnotesize [$-$0.0362, $-$0.00481]}} \\
+Concrete & \makecell{$-$0.00207\\ {\footnotesize [$-$0.00510, 0.00142]}} & \makecell{$-$0.0520\textsuperscript{*}\\ {\footnotesize [$-$0.0662, $-$0.0363]}} \\
+Variational & \makecell{$-$0.0115\textsuperscript{*}\\ {\footnotesize [$-$0.0177, $-$0.00555]}} & \makecell{0.0292\\ {\footnotesize [0.00791, 0.0504]}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic (ref.)} & \makecell{$-$0.0300\\ {\footnotesize [$-$0.0338, $-$0.0268]}} & \makecell{$-$0.101\\ {\footnotesize [$-$0.118, $-$0.0828]}} \\
+\midrule
+\multicolumn{3}{l}{\emph{Spring chain, family (ii) likelihood: Cov90 error}} \\
+Fresh-mask MC & \makecell{0.0646\textsuperscript{*}\\ {\footnotesize [0.0581, 0.0710]}} & \makecell{0.175\textsuperscript{*}\\ {\footnotesize [0.163, 0.185]}} \\
+Concrete & \makecell{$-$0.0106\\ {\footnotesize [$-$0.0185, $-$0.00196]}} & \makecell{$-$0.0113\\ {\footnotesize [$-$0.0260, 0.00411]}} \\
+Variational & \makecell{$-$0.0499\textsuperscript{*}\\ {\footnotesize [$-$0.0715, $-$0.0306]}} & \makecell{0.0793\textsuperscript{*}\\ {\footnotesize [0.0647, 0.0941]}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic (ref.)} & \makecell{$-$0.00723\\ {\footnotesize [$-$0.0128, $-$5.9e-4]}} & \makecell{$-$0.0602\\ {\footnotesize [$-$0.0698, $-$0.0512]}} \\
+\bottomrule
+\end{tabular}%
+\par\medskip
+\begin{tabular}{lcc}
+\toprule
+ & \multicolumn{2}{c}{Cov90 err ($\sigma$=0.1)} \\
+\cmidrule(lr){2-3}
+Comparator & ID & OOD \\
+\midrule
+\multicolumn{3}{l}{\emph{Coupled pendulum, family (ii) likelihood: Cov90 error}} \\
+Fresh-mask MC & \makecell{$-$0.0783\textsuperscript{*}\\ {\footnotesize [$-$0.0818, $-$0.0748]}} & \makecell{$-$0.160\textsuperscript{*}\\ {\footnotesize [$-$0.178, $-$0.142]}} \\
+Concrete & \makecell{$-$0.0826\textsuperscript{*}\\ {\footnotesize [$-$0.0869, $-$0.0789]}} & \makecell{$-$0.151\textsuperscript{*}\\ {\footnotesize [$-$0.168, $-$0.133]}} \\
+Variational & \makecell{$-$0.130\textsuperscript{*}\\ {\footnotesize [$-$0.143, $-$0.117]}} & \makecell{$-$0.0700\textsuperscript{*}\\ {\footnotesize [$-$0.0956, $-$0.0441]}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic (ref.)} & \makecell{$-$0.149\\ {\footnotesize [$-$0.152, $-$0.145]}} & \makecell{$-$0.213\\ {\footnotesize [$-$0.230, $-$0.194]}} \\
+\midrule
+\multicolumn{3}{l}{\emph{Spring chain, family (ii) likelihood: Cov90 error}} \\
+Fresh-mask MC & \makecell{$-$0.123\textsuperscript{*}\\ {\footnotesize [$-$0.134, $-$0.111]}} & \makecell{$-$0.114\textsuperscript{*}\\ {\footnotesize [$-$0.125, $-$0.105]}} \\
+Concrete & \makecell{$-$0.131\textsuperscript{*}\\ {\footnotesize [$-$0.138, $-$0.123]}} & \makecell{$-$0.134\textsuperscript{*}\\ {\footnotesize [$-$0.143, $-$0.126]}} \\
+Variational & \makecell{$-$0.182\textsuperscript{*}\\ {\footnotesize [$-$0.191, $-$0.172]}} & \makecell{$-$0.0497\textsuperscript{*}\\ {\footnotesize [$-$0.0615, $-$0.0355]}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic (ref.)} & \makecell{$-$0.174\\ {\footnotesize [$-$0.178, $-$0.170]}} & \makecell{$-$0.189\\ {\footnotesize [$-$0.197, $-$0.181]}} \\
+\bottomrule
+\end{tabular}%
+\end{table}
+\begin{table}[p]
+\centering
+\small
+\setlength{\tabcolsep}{3pt}
+\ContinuedFloat
+\caption{Paired effect sizes for the classical systems (continued).}
+\begin{tabular}{lccc}
+\toprule
+Comparator & Var$_\mathrm{epi}$ (ID) & Var$_\mathrm{alea}$ (ID) & Var$_\mathrm{total}$ (ID) \\
+\midrule
+\multicolumn{4}{l}{\emph{Coupled pendulum, family (iii) variance decomposition, ID}} \\
+Fresh-mask MC & \makecell{0.0192\textsuperscript{*}\\ {\footnotesize [0.0179, 0.0205]}} & \makecell{$-$0.0623\textsuperscript{*}\\ {\footnotesize [$-$0.0646, $-$0.0598]}} & \makecell{$-$0.0431\textsuperscript{*}\\ {\footnotesize [$-$0.0456, $-$0.0402]}} \\
+Concrete & \makecell{0.0193\textsuperscript{*}\\ {\footnotesize [0.0180, 0.0206]}} & \makecell{$-$0.0319\textsuperscript{*}\\ {\footnotesize [$-$0.0338, $-$0.0298]}} & \makecell{$-$0.0126\textsuperscript{*}\\ {\footnotesize [$-$0.0150, $-$0.0102]}} \\
+Variational & \makecell{0.00421\\ {\footnotesize [8.0e-7, 0.00798]}} & \makecell{$-$0.0764\textsuperscript{*}\\ {\footnotesize [$-$0.0902, $-$0.0630]}} & \makecell{$-$0.0722\textsuperscript{*}\\ {\footnotesize [$-$0.0884, $-$0.0565]}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic (ref.)} & n/a & \makecell{$-$0.0306\\ {\footnotesize [$-$0.0323, $-$0.0288]}} & n/a \\
+\midrule
+\multicolumn{4}{l}{\emph{Spring chain, family (iii) variance decomposition, ID}} \\
+Fresh-mask MC & \makecell{0.146\textsuperscript{*}\\ {\footnotesize [0.132, 0.160]}} & \makecell{$-$0.524\textsuperscript{*}\\ {\footnotesize [$-$0.536, $-$0.511]}} & \makecell{$-$0.378\textsuperscript{*}\\ {\footnotesize [$-$0.393, $-$0.363]}} \\
+Concrete & \makecell{0.150\textsuperscript{*}\\ {\footnotesize [0.136, 0.164]}} & \makecell{$-$0.113\textsuperscript{*}\\ {\footnotesize [$-$0.125, $-$0.101]}} & \makecell{0.0370\textsuperscript{*}\\ {\footnotesize [0.0137, 0.0584]}} \\
+Variational & \makecell{0.0564\textsuperscript{*}\\ {\footnotesize [0.0415, 0.0732]}} & \makecell{$-$0.234\textsuperscript{*}\\ {\footnotesize [$-$0.284, $-$0.183]}} & \makecell{$-$0.178\textsuperscript{*}\\ {\footnotesize [$-$0.229, $-$0.127]}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic (ref.)} & n/a & \makecell{$-$0.116\\ {\footnotesize [$-$0.121, $-$0.111]}} & n/a \\
+\bottomrule
+\end{tabular}%
+\par\medskip
+\begin{tabular}{lccc}
+\toprule
+Comparator & \makecell{Var$_\mathrm{epi}$\\ (OOD)} & \makecell{Var$_\mathrm{alea}$\\ (OOD)} & \makecell{Var$_\mathrm{total}$\\ (OOD)} \\
+\midrule
+\multicolumn{4}{l}{\emph{Coupled pendulum, family (iii) variance decomposition, OOD}} \\
+Fresh-mask MC & \makecell{0.113\textsuperscript{*}\\ {\footnotesize [0.0936, 0.132]}} & \makecell{$-$0.0846\textsuperscript{*}\\ {\footnotesize [$-$0.0910, $-$0.0757]}} & \makecell{0.0281\\ {\footnotesize [0.00475, 0.0545]}} \\
+Concrete & \makecell{0.112\textsuperscript{*}\\ {\footnotesize [0.0933, 0.132]}} & \makecell{$-$0.0411\textsuperscript{*}\\ {\footnotesize [$-$0.0449, $-$0.0376]}} & \makecell{0.0712\textsuperscript{*}\\ {\footnotesize [0.0500, 0.0927]}} \\
+Variational & \makecell{0.0766\textsuperscript{*}\\ {\footnotesize [0.0565, 0.0968]}} & \makecell{$-$0.0504\textsuperscript{*}\\ {\footnotesize [$-$0.0645, $-$0.0367]}} & \makecell{0.0261\\ {\footnotesize [$-$2.4e-4, 0.0557]}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic (ref.)} & n/a & \makecell{$-$0.0755\\ {\footnotesize [$-$0.0942, $-$0.0582]}} & n/a \\
+\midrule
+\multicolumn{4}{l}{\emph{Spring chain, family (iii) variance decomposition, OOD}} \\
+Fresh-mask MC & \makecell{0.164\textsuperscript{*}\\ {\footnotesize [0.145, 0.184]}} & \makecell{$-$0.534\textsuperscript{*}\\ {\footnotesize [$-$0.547, $-$0.520]}} & \makecell{$-$0.369\textsuperscript{*}\\ {\footnotesize [$-$0.390, $-$0.348]}} \\
+Concrete & \makecell{0.182\textsuperscript{*}\\ {\footnotesize [0.161, 0.202]}} & \makecell{$-$0.113\textsuperscript{*}\\ {\footnotesize [$-$0.126, $-$0.0999]}} & \makecell{0.0685\textsuperscript{*}\\ {\footnotesize [0.0403, 0.0942]}} \\
+Variational & \makecell{0.0192\\ {\footnotesize [$-$0.00508, 0.0414]}} & \makecell{$-$0.206\textsuperscript{*}\\ {\footnotesize [$-$0.251, $-$0.158]}} & \makecell{$-$0.186\textsuperscript{*}\\ {\footnotesize [$-$0.229, $-$0.147]}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic (ref.)} & n/a & \makecell{$-$0.114\\ {\footnotesize [$-$0.120, $-$0.109]}} & n/a \\
+\bottomrule
+\end{tabular}%
+\end{table}

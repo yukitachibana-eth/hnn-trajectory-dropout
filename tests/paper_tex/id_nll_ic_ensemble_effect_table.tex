@@ -1,0 +1,16 @@
+\begin{table}[t]
+\centering
+\small
+\setlength{\tabcolsep}{3pt}
+\caption{Effect of using the IC ensemble for in-distribution Gaussian NLL on the Coupled Pendulum. The dropout-only row evaluates predictive variance from mask samples alone. The IC-ensemble rows use the validation-inferred IC-noise scale and moment-match the crossed IC-by-mask predictive samples used for the paper's decomposition. The reduction column is the decrease from the Fresh-mask MC dropout-only NLL. Larger reductions indicate a larger improvement.}
+\label{tab:id-nll-ic-ensemble-effect}
+\begin{tabular}{lcccc}
+\toprule
+Method & \makecell{NLL\\ convention} & ID G-NLL & \makecell{Reduction vs\\ dropout-only} & $\hat\sigma$ \\
+\midrule
+Fresh-mask MC (dropout-only) & dropout-only & 104.82 {\footnotesize $\pm$4.6} & n/a & n/a \\
+Fresh-mask MC (IC ensemble) & IC ensemble & 0.274 {\footnotesize $\pm$0.012} & 104.55 {\footnotesize $\pm$4.6} & 0.331 {\footnotesize $\pm$0.0050} \\
+Fixed-mask MC (IC ensemble) & IC ensemble & 0.224 {\footnotesize $\pm$0.011} & 104.60 {\footnotesize $\pm$4.6} & 0.250 {\footnotesize $\pm$0.0029} \\
+\bottomrule
+\end{tabular}%
+\end{table}

@@ -1,0 +1,8 @@
+arm,mask_bank,models,samples,rel_train_time,rel_infer_time,rel_storage,decomposition_axes
+Deterministic,0,1,1,1.0,1.0,1.0,no
+Fresh-mask MC,0,1,10,1.04437,1.194843,1.0,no
+Fixed-mask MC,100,1,100,1.04962,1.295137,1.0,yes
+Fixed-mask MC,200,1,200,1.049464,1.527512,1.0,yes
+Concrete,0,1,10,1.274224,1.330067,1.030831,no
+Variational,0,1,10,1.076545,1.259817,1.573009,no
+Deep ensemble,0,5,5,5.0,5.0,5.0,yes

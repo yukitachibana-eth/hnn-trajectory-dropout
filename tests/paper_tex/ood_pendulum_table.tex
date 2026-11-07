@@ -1,0 +1,23 @@
+\begin{table}[t]
+\centering
+\small
+\setlength{\tabcolsep}{3pt}
+\caption{Coupled-pendulum OOD stress test with mean epistemic variance in and out of distribution, OOD MSE, the Spearman correlation between MC predictive variance and the log distance of the OOD mass ratio from the training range (six ratios, hence coarse), and the sampled-Hamiltonian drift averaged over the rollout and at the final frame (Table~\ref{tab:energy-current-summary}). Var$_\mathrm{epi}$ is computed from $10$ mask samples without IC replicas, so it differs from Table~\ref{tab:decomp}. Variance columns have no preferred direction. The drift columns are self-consistency measures of the model's own Hamiltonian.}
+\label{tab:coupled-pendulum-ood-energy}
+\begin{tabular}{lcccccc}
+\toprule
+ & \multicolumn{2}{c}{Var$_\mathrm{epi}$} &  &  &  &  \\
+\cmidrule(lr){2-3}
+Method & ID & OOD & OOD MSE & \makecell{OOD Spearman\\ $\rho$} & \makecell{Drift\\ mean} & \makecell{Drift\\ final} \\
+\midrule
+Fresh-mask MC & \makecell{8.6e-4\\ {\footnotesize $\pm$ 4.1e-5}} & \makecell{0.00564\\ {\footnotesize $\pm$ 7.4e-4}} & \makecell{1.097\\ {\footnotesize $\pm$ 0.068}} & \makecell{0.909\\ {\footnotesize $\pm$ 0.030}} & \makecell{0.157\\ {\footnotesize $\pm$ 0.0076}} & \makecell{0.179\\ {\footnotesize $\pm$ 0.0084}} \\
+Concrete & \makecell{7.9e-4\\ {\footnotesize $\pm$ 7.7e-5}} & \makecell{0.00598\\ {\footnotesize $\pm$ 0.0011}} & \makecell{1.026\\ {\footnotesize $\pm$ 0.031}} & \makecell{0.851\\ {\footnotesize $\pm$ 0.11}} & \makecell{0.124\\ {\footnotesize $\pm$ 0.0043}} & \makecell{0.147\\ {\footnotesize $\pm$ 0.0060}} \\
+Variational & \makecell{0.0133\\ {\footnotesize $\pm$ 0.0046}} & \makecell{0.0339\\ {\footnotesize $\pm$ 0.011}} & \makecell{1.111\\ {\footnotesize $\pm$ 0.046}} & \makecell{0.851\\ {\footnotesize $\pm$ 0.16}} & \makecell{0.530\\ {\footnotesize $\pm$ 0.12}} & \makecell{0.645\\ {\footnotesize $\pm$ 0.16}} \\
+Fixed-mask MC & \makecell{0.0176\\ {\footnotesize $\pm$ 0.0053}} & \makecell{0.121\\ {\footnotesize $\pm$ 0.043}} & \makecell{1.032\\ {\footnotesize $\pm$ 0.045}} & \makecell{0.760\\ {\footnotesize $\pm$ 0.096}} & \makecell{\textbf{0.00432}\\ {\footnotesize $\pm$ 5.3e-5}} & \makecell{0.00423\\ {\footnotesize $\pm$ 3.0e-4}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic} & \makecell{0\\ {\footnotesize $\pm$ 0}} & \makecell{0\\ {\footnotesize $\pm$ 0}} & \makecell{1.189\\ {\footnotesize $\pm$ 0.11}} & n/a & \makecell{0.00428\\ {\footnotesize $\pm$ 4.6e-5}} & \makecell{0.00354\\ {\footnotesize $\pm$ 2.4e-4}} \\
+\textit{Deep ens. $\times$5} & \makecell{0.00148\\ {\footnotesize (n=1)}} & \makecell{0.100\\ {\footnotesize (n=1)}} & \makecell{1.036\\ {\footnotesize (n=1)}} & \makecell{0.714\\ {\footnotesize (n=1)}} & \makecell{0.00431\\ {\footnotesize (n=1)}} & \makecell{0.00359\\ {\footnotesize (n=1)}} \\
+\bottomrule
+\end{tabular}%
+\par\smallskip{\footnotesize Seeds 42--51 ($n$=10), mean $\pm$ sd over seeds. Deep ens.\ $\times$5 is a single 5-member ensemble ($n$=1). n/a = not defined for that model (e.g.\ no mask ensemble). Bold indicates the best stochastic single-model arm in a column when its paired tests in Tables~\ref{tab:effect-sizes-classical} and~\ref{tab:effect-sizes-tfim}, all of which involve Fixed-mask MC, are significant (Holm-adjusted $p<0.05$). Paired effect sizes with 95\% confidence intervals are in Table~\ref{tab:effect-sizes-classical} (classical) and Table~\ref{tab:effect-sizes-tfim} (TFIM). Deterministic and deep-ensemble rows (italic, below the dotted rule) are references and are not compared for bold.}
+\end{table}

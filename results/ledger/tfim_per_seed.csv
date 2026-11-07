@@ -1,0 +1,1101 @@
+system,arm,seed,quantity,split,convention,value
+TFIM,Concrete,42,alpha,ID,fitted,0.2847908168985139
+TFIM,Concrete,42,alpha,ID,fixed,0.5950078767271658
+TFIM,Concrete,42,alpha,OOD,fitted,0.2619678758919344
+TFIM,Concrete,42,alpha,OOD,fixed,0.5742109226949951
+TFIM,Concrete,42,cov90_err,ID,fitted,0.0817200203252031
+TFIM,Concrete,42,cov90_err,ID,fixed,0.0218775406504064
+TFIM,Concrete,42,cov90_err,OOD,fitted,0.1997215056285178
+TFIM,Concrete,42,cov90_err,OOD,fixed,0.3218937617260788
+TFIM,Concrete,42,energy_drift,,,0.096798227991526
+TFIM,Concrete,42,g_nll,ID,fitted,-2.0998781001099807
+TFIM,Concrete,42,g_nll,ID,fixed,-2.256857926505176
+TFIM,Concrete,42,g_nll,OOD,fitted,1.9639175787657392
+TFIM,Concrete,42,g_nll,OOD,fixed,7.577133753785849
+TFIM,Concrete,42,ic_noise_scale,,fitted,0.1999999999999999
+TFIM,Concrete,42,norm_drift,,,0.0295240932401394
+TFIM,Concrete,42,state_rmse,ID,,0.0254641473532628
+TFIM,Concrete,42,state_rmse,OOD,,0.07891789372676
+TFIM,Concrete,42,var_alea,ID,,0.0011437177105152
+TFIM,Concrete,42,var_alea,OOD,,0.0011520941019835
+TFIM,Concrete,42,var_epi,ID,,0.0004554196293543
+TFIM,Concrete,42,var_epi,OOD,,0.0004089410675571
+TFIM,Concrete,42,var_ratio,OOD,,0.3549545708576447
+TFIM,Concrete,43,alpha,ID,fitted,0.2565042970245496
+TFIM,Concrete,43,alpha,ID,fixed,0.6793928234562345
+TFIM,Concrete,43,alpha,OOD,fitted,0.2638975524214337
+TFIM,Concrete,43,alpha,OOD,fixed,0.6747261978744353
+TFIM,Concrete,43,cov90_err,ID,fitted,0.0915650406504064
+TFIM,Concrete,43,cov90_err,ID,fixed,0.0263846544715446
+TFIM,Concrete,43,cov90_err,OOD,fitted,0.2016586538461538
+TFIM,Concrete,43,cov90_err,OOD,fixed,0.3630247420262664
+TFIM,Concrete,43,energy_drift,,,0.1023458865800442
+TFIM,Concrete,43,g_nll,ID,fitted,-1.9626775094597555
+TFIM,Concrete,43,g_nll,ID,fixed,-2.226203637807948
+TFIM,Concrete,43,g_nll,OOD,fitted,2.0290171931756427
+TFIM,Concrete,43,g_nll,OOD,fixed,9.781915042441488
+TFIM,Concrete,43,ic_noise_scale,,fitted,0.2499999999999999
+TFIM,Concrete,43,norm_drift,,,0.0339395485208512
+TFIM,Concrete,43,state_rmse,ID,,0.0265487526412511
+TFIM,Concrete,43,state_rmse,OOD,,0.0991376580924684
+TFIM,Concrete,43,var_alea,ID,,0.001752894481027
+TFIM,Concrete,43,var_alea,OOD,,0.0017601265913844
+TFIM,Concrete,43,var_epi,ID,,0.0006047445396317
+TFIM,Concrete,43,var_epi,OOD,,0.0006310169201939
+TFIM,Concrete,43,var_ratio,OOD,,0.3585065547459237
+TFIM,Concrete,44,alpha,ID,fitted,0.167973147477189
+TFIM,Concrete,44,alpha,ID,fixed,0.6268893326486353
+TFIM,Concrete,44,alpha,OOD,fitted,0.1351661657503903
+TFIM,Concrete,44,alpha,OOD,fixed,0.5710815480572689
+TFIM,Concrete,44,cov90_err,ID,fitted,0.0923780487804877
+TFIM,Concrete,44,cov90_err,ID,fixed,0.043196138211382
+TFIM,Concrete,44,cov90_err,OOD,fitted,0.0369629455909943
+TFIM,Concrete,44,cov90_err,OOD,fixed,0.2760700046904315
+TFIM,Concrete,44,energy_drift,,,0.0963397636065549
+TFIM,Concrete,44,g_nll,ID,fitted,-1.8627435854861656
+TFIM,Concrete,44,g_nll,ID,fixed,-2.197682116695878
+TFIM,Concrete,44,g_nll,OOD,fitted,-1.4009045541715464
+TFIM,Concrete,44,g_nll,OOD,fixed,-0.5644831100055909
+TFIM,Concrete,44,ic_noise_scale,,fitted,0.3
+TFIM,Concrete,44,norm_drift,,,0.0277864451650463
+TFIM,Concrete,44,state_rmse,ID,,0.0269457227912622
+TFIM,Concrete,44,state_rmse,OOD,,0.0523021641635457
+TFIM,Concrete,44,var_alea,ID,,0.0024572014112159
+TFIM,Concrete,44,var_alea,OOD,,0.002457853937465
+TFIM,Concrete,44,var_epi,ID,,0.0004960703537101
+TFIM,Concrete,44,var_epi,OOD,,0.0003841416461116
+TFIM,Concrete,44,var_ratio,OOD,,0.1562914867544121
+TFIM,Concrete,45,alpha,ID,fitted,0.1736729665382546
+TFIM,Concrete,45,alpha,ID,fixed,0.7204004890714979
+TFIM,Concrete,45,alpha,OOD,fitted,0.188807504964117
+TFIM,Concrete,45,alpha,OOD,fixed,0.732558198672371
+TFIM,Concrete,45,cov90_err,ID,fitted,0.0975355691056909
+TFIM,Concrete,45,cov90_err,ID,fixed,0.02536331300813
+TFIM,Concrete,45,cov90_err,OOD,fitted,0.1670239212007504
+TFIM,Concrete,45,cov90_err,OOD,fixed,0.3536503283302064
+TFIM,Concrete,45,energy_drift,,,0.118237076591142
+TFIM,Concrete,45,g_nll,ID,fitted,-1.7450691877050108
+TFIM,Concrete,45,g_nll,ID,fixed,-2.1716982310196014
+TFIM,Concrete,45,g_nll,OOD,fitted,0.691456610246817
+TFIM,Concrete,45,g_nll,OOD,fixed,8.459221608478504
+TFIM,Concrete,45,ic_noise_scale,,fitted,0.35
+TFIM,Concrete,45,norm_drift,,,0.038492798674823
+TFIM,Concrete,45,state_rmse,ID,,0.0276031225044684
+TFIM,Concrete,45,state_rmse,OOD,,0.1033316219792507
+TFIM,Concrete,45,var_alea,ID,,0.0032467513320066
+TFIM,Concrete,45,var_alea,OOD,,0.0032701483946388
+TFIM,Concrete,45,var_epi,ID,,0.000682384712841
+TFIM,Concrete,45,var_epi,OOD,,0.0007611369225338
+TFIM,Concrete,45,var_ratio,OOD,,0.2327530223954612
+TFIM,Concrete,46,alpha,ID,fitted,0.2569176754535521
+TFIM,Concrete,46,alpha,ID,fixed,0.5776191558382285
+TFIM,Concrete,46,alpha,OOD,fitted,0.2341168508057219
+TFIM,Concrete,46,alpha,OOD,fixed,0.5536412590163878
+TFIM,Concrete,46,cov90_err,ID,fitted,0.0591768292682926
+TFIM,Concrete,46,cov90_err,ID,fixed,0.0574364837398373
+TFIM,Concrete,46,cov90_err,OOD,fitted,0.080562265478424
+TFIM,Concrete,46,cov90_err,OOD,fixed,0.2373387664165103
+TFIM,Concrete,46,energy_drift,,,0.0881883441277152
+TFIM,Concrete,46,g_nll,ID,fitted,-2.0442107308815505
+TFIM,Concrete,46,g_nll,ID,fixed,-2.1429420722223846
+TFIM,Concrete,46,g_nll,OOD,fitted,-1.501276662615322
+TFIM,Concrete,46,g_nll,OOD,fixed,-1.0019968514422426
+TFIM,Concrete,46,ic_noise_scale,,fitted,0.1999999999999999
+TFIM,Concrete,46,norm_drift,,,0.0257669327773702
+TFIM,Concrete,46,state_rmse,ID,,0.0276027323428694
+TFIM,Concrete,46,state_rmse,OOD,,0.0457543929337319
+TFIM,Concrete,46,var_alea,ID,,0.0011452739268375
+TFIM,Concrete,46,var_alea,OOD,,0.0011480228378168
+TFIM,Concrete,46,var_epi,ID,,0.0003959737774953
+TFIM,Concrete,46,var_epi,OOD,,0.0003509301539346
+TFIM,Concrete,46,var_ratio,OOD,,0.3056822062895844
+TFIM,Concrete,47,alpha,ID,fitted,0.1947394122865941
+TFIM,Concrete,47,alpha,ID,fixed,0.656747598984521
+TFIM,Concrete,47,alpha,OOD,fitted,0.1602176658966201
+TFIM,Concrete,47,alpha,OOD,fixed,0.6209012580994866
+TFIM,Concrete,47,cov90_err,ID,fitted,0.0860899390243901
+TFIM,Concrete,47,cov90_err,ID,fixed,0.0619131097560975
+TFIM,Concrete,47,cov90_err,OOD,fitted,0.1370837242026266
+TFIM,Concrete,47,cov90_err,OOD,fixed,0.3737071998123827
+TFIM,Concrete,47,energy_drift,,,0.1355952612101241
+TFIM,Concrete,47,g_nll,ID,fitted,-1.806716981132088
+TFIM,Concrete,47,g_nll,ID,fixed,-2.079766830967494
+TFIM,Concrete,47,g_nll,OOD,fitted,-0.6864884358936847
+TFIM,Concrete,47,g_nll,OOD,fixed,1.898872861443129
+TFIM,Concrete,47,ic_noise_scale,,fitted,0.3
+TFIM,Concrete,47,norm_drift,,,0.0397574918061921
+TFIM,Concrete,47,state_rmse,ID,,0.0295444761137539
+TFIM,Concrete,47,state_rmse,OOD,,0.0750030852928894
+TFIM,Concrete,47,var_alea,ID,,0.0024589445696287
+TFIM,Concrete,47,var_alea,OOD,,0.0024611867711841
+TFIM,Concrete,47,var_epi,ID,,0.0005946564722539
+TFIM,Concrete,47,var_epi,OOD,,0.0004695569123108
+TFIM,Concrete,47,var_ratio,OOD,,0.1907847538465805
+TFIM,Concrete,48,alpha,ID,fitted,0.2002432014429259
+TFIM,Concrete,48,alpha,ID,fixed,0.5787382523944894
+TFIM,Concrete,48,alpha,OOD,fitted,0.1915298898748249
+TFIM,Concrete,48,alpha,OOD,fixed,0.5757944595679266
+TFIM,Concrete,48,cov90_err,ID,fitted,0.096951219512195
+TFIM,Concrete,48,cov90_err,ID,fixed,0.0245477642276422
+TFIM,Concrete,48,cov90_err,OOD,fitted,0.1516598264540337
+TFIM,Concrete,48,cov90_err,OOD,fixed,0.299953681988743
+TFIM,Concrete,48,energy_drift,,,0.0968053183206818
+TFIM,Concrete,48,g_nll,ID,fitted,-2.0258844895069985
+TFIM,Concrete,48,g_nll,ID,fixed,-2.350834385015183
+TFIM,Concrete,48,g_nll,OOD,fitted,0.2665110523969398
+TFIM,Concrete,48,g_nll,OOD,fixed,5.128033073147541
+TFIM,Concrete,48,ic_noise_scale,,fitted,0.2499999999999999
+TFIM,Concrete,48,norm_drift,,,0.0285460893105578
+TFIM,Concrete,48,state_rmse,ID,,0.022836091847695
+TFIM,Concrete,48,state_rmse,OOD,,0.070184954610221
+TFIM,Concrete,48,var_alea,ID,,0.0017501087321582
+TFIM,Concrete,48,var_alea,OOD,,0.0017540375195144
+TFIM,Concrete,48,var_epi,ID,,0.0004381924305399
+TFIM,Concrete,48,var_epi,OOD,,0.0004155386930716
+TFIM,Concrete,48,var_ratio,OOD,,0.236904107494055
+TFIM,Concrete,49,alpha,ID,fitted,0.209628851268962
+TFIM,Concrete,49,alpha,ID,fixed,0.6248130059106023
+TFIM,Concrete,49,alpha,OOD,fitted,0.2185684962128558
+TFIM,Concrete,49,alpha,OOD,fixed,0.6168897638310836
+TFIM,Concrete,49,cov90_err,ID,fitted,0.0951346544715446
+TFIM,Concrete,49,cov90_err,ID,fixed,0.0342047764227641
+TFIM,Concrete,49,cov90_err,OOD,fitted,0.1823364212007504
+TFIM,Concrete,49,cov90_err,OOD,fixed,0.3356549015009381
+TFIM,Concrete,49,energy_drift,,,0.1296507610192375
+TFIM,Concrete,49,g_nll,ID,fitted,-2.019478764775037
+TFIM,Concrete,49,g_nll,ID,fixed,-2.3289633056895864
+TFIM,Concrete,49,g_nll,OOD,fitted,1.399374322504154
+TFIM,Concrete,49,g_nll,OOD,fixed,8.658721757682926
+TFIM,Concrete,49,ic_noise_scale,,fitted,0.2499999999999999
+TFIM,Concrete,49,norm_drift,,,0.0417617045244796
+TFIM,Concrete,49,state_rmse,ID,,0.0231959144095518
+TFIM,Concrete,49,state_rmse,OOD,,0.0859696973127333
+TFIM,Concrete,49,var_alea,ID,,0.0017452016164942
+TFIM,Concrete,49,var_alea,OOD,,0.0017579321094118
+TFIM,Concrete,49,var_epi,ID,,0.0004628769796137
+TFIM,Concrete,49,var_epi,OOD,,0.0004916983455828
+TFIM,Concrete,49,var_ratio,OOD,,0.2797026932668844
+TFIM,Concrete,50,alpha,ID,fitted,0.1207820669989316
+TFIM,Concrete,50,alpha,ID,fixed,0.6119391366819128
+TFIM,Concrete,50,alpha,OOD,fitted,0.1043749217392423
+TFIM,Concrete,50,alpha,OOD,fixed,0.5713077639421575
+TFIM,Concrete,50,cov90_err,ID,fitted,0.0965320121951218
+TFIM,Concrete,50,cov90_err,ID,fixed,0.0419664634146341
+TFIM,Concrete,50,cov90_err,OOD,fitted,0.0502562148217635
+TFIM,Concrete,50,cov90_err,OOD,fixed,0.3092225609756098
+TFIM,Concrete,50,energy_drift,,,0.1144987809414238
+TFIM,Concrete,50,g_nll,ID,fitted,-1.7699759969521869
+TFIM,Concrete,50,g_nll,ID,fixed,-2.2081801981480025
+TFIM,Concrete,50,g_nll,OOD,fitted,-1.2813893898603592
+TFIM,Concrete,50,g_nll,OOD,fixed,-0.016941718156823
+TFIM,Concrete,50,ic_noise_scale,,fitted,0.35
+TFIM,Concrete,50,norm_drift,,,0.0342972649028691
+TFIM,Concrete,50,state_rmse,ID,,0.0266374504123328
+TFIM,Concrete,50,state_rmse,OOD,,0.0568602191925964
+TFIM,Concrete,50,var_alea,ID,,0.0032456589424736
+TFIM,Concrete,50,var_alea,OOD,,0.0032504677725941
+TFIM,Concrete,50,var_epi,ID,,0.000445870564204
+TFIM,Concrete,50,var_epi,OOD,,0.0003788050687898
+TFIM,Concrete,50,var_ratio,OOD,,0.1165386323727459
+TFIM,Concrete,51,alpha,ID,fitted,0.2474408231320382
+TFIM,Concrete,51,alpha,ID,fixed,0.5657182116975775
+TFIM,Concrete,51,alpha,OOD,fitted,0.2529617219201889
+TFIM,Concrete,51,alpha,OOD,fixed,0.578125931039172
+TFIM,Concrete,51,cov90_err,ID,fitted,0.0620807926829267
+TFIM,Concrete,51,cov90_err,ID,fixed,0.0510543699186991
+TFIM,Concrete,51,cov90_err,OOD,fitted,0.2707551594746717
+TFIM,Concrete,51,cov90_err,OOD,fixed,0.4033390009380863
+TFIM,Concrete,51,energy_drift,,,0.0903762835023276
+TFIM,Concrete,51,g_nll,ID,fitted,-2.049802166922954
+TFIM,Concrete,51,g_nll,ID,fixed,-2.148409109323615
+TFIM,Concrete,51,g_nll,OOD,fitted,4.3600405923758325
+TFIM,Concrete,51,g_nll,OOD,fixed,13.469553252159017
+TFIM,Concrete,51,ic_noise_scale,,fitted,0.1999999999999999
+TFIM,Concrete,51,norm_drift,,,0.0280784363513968
+TFIM,Concrete,51,state_rmse,ID,,0.0280057279406176
+TFIM,Concrete,51,state_rmse,OOD,,0.1011863650107607
+TFIM,Concrete,51,var_alea,ID,,0.0011440257992127
+TFIM,Concrete,51,var_alea,OOD,,0.0011494178733159
+TFIM,Concrete,51,var_epi,ID,,0.000376154718649
+TFIM,Concrete,51,var_epi,OOD,,0.0003892152958844
+TFIM,Concrete,51,var_ratio,OOD,,0.338619491588038
+TFIM,Deterministic,42,alpha,ID,fitted,0.0
+TFIM,Deterministic,42,alpha,ID,fixed,0.0
+TFIM,Deterministic,42,alpha,OOD,fitted,0.0
+TFIM,Deterministic,42,alpha,OOD,fixed,0.0
+TFIM,Deterministic,42,cov90_err,ID,fitted,0.0300127032520324
+TFIM,Deterministic,42,cov90_err,ID,fixed,0.0976371951219512
+TFIM,Deterministic,42,cov90_err,OOD,fitted,0.1502433161350844
+TFIM,Deterministic,42,cov90_err,OOD,fixed,0.2801682692307692
+TFIM,Deterministic,42,energy_drift,,,0.0348375629023555
+TFIM,Deterministic,42,g_nll,ID,fitted,-2.4616864027589065
+TFIM,Deterministic,42,g_nll,ID,fixed,-2.510055399014637
+TFIM,Deterministic,42,g_nll,OOD,fitted,-1.004904513421966
+TFIM,Deterministic,42,g_nll,OOD,fixed,0.6897075876346485
+TFIM,Deterministic,42,ic_noise_scale,,fitted,0.15
+TFIM,Deterministic,42,norm_drift,,,0.0124794068349148
+TFIM,Deterministic,42,state_rmse,ID,,0.0187306019111645
+TFIM,Deterministic,42,state_rmse,OOD,,0.0347089827978276
+TFIM,Deterministic,42,var_alea,ID,,0.0006540293146014
+TFIM,Deterministic,42,var_alea,OOD,,0.0006546810194013
+TFIM,Deterministic,42,var_epi,ID,,0.0
+TFIM,Deterministic,42,var_epi,OOD,,0.0
+TFIM,Deterministic,42,var_ratio,OOD,,0.0
+TFIM,Deterministic,43,alpha,ID,fitted,0.0
+TFIM,Deterministic,43,alpha,ID,fixed,0.0
+TFIM,Deterministic,43,alpha,OOD,fitted,0.0
+TFIM,Deterministic,43,alpha,OOD,fixed,0.0
+TFIM,Deterministic,43,cov90_err,ID,fitted,0.0218521341463414
+TFIM,Deterministic,43,cov90_err,ID,fixed,0.111572662601626
+TFIM,Deterministic,43,cov90_err,OOD,fitted,0.1498534240150093
+TFIM,Deterministic,43,cov90_err,OOD,fixed,0.2713971622889305
+TFIM,Deterministic,43,energy_drift,,,0.0193441943490378
+TFIM,Deterministic,43,g_nll,ID,fitted,-2.4408088337268423
+TFIM,Deterministic,43,g_nll,ID,fixed,-2.462143015493376
+TFIM,Deterministic,43,g_nll,OOD,fitted,-0.5841081241831675
+TFIM,Deterministic,43,g_nll,OOD,fixed,1.6418244300189568
+TFIM,Deterministic,43,ic_noise_scale,,fitted,0.15
+TFIM,Deterministic,43,norm_drift,,,0.0086975028421054
+TFIM,Deterministic,43,state_rmse,ID,,0.0193393069240972
+TFIM,Deterministic,43,state_rmse,OOD,,0.0362798247222595
+TFIM,Deterministic,43,var_alea,ID,,0.0006531870434531
+TFIM,Deterministic,43,var_alea,OOD,,0.0006528990081654
+TFIM,Deterministic,43,var_epi,ID,,0.0
+TFIM,Deterministic,43,var_epi,OOD,,0.0
+TFIM,Deterministic,43,var_ratio,OOD,,0.0
+TFIM,Deterministic,44,alpha,ID,fitted,0.0
+TFIM,Deterministic,44,alpha,ID,fixed,0.0
+TFIM,Deterministic,44,alpha,OOD,fitted,0.0
+TFIM,Deterministic,44,alpha,OOD,fixed,0.0
+TFIM,Deterministic,44,cov90_err,ID,fitted,0.031336382113821
+TFIM,Deterministic,44,cov90_err,ID,fixed,0.0955030487804877
+TFIM,Deterministic,44,cov90_err,OOD,fitted,0.0816199577861162
+TFIM,Deterministic,44,cov90_err,OOD,fixed,0.2141504455909943
+TFIM,Deterministic,44,energy_drift,,,0.0364720891882361
+TFIM,Deterministic,44,g_nll,ID,fitted,-2.4654919129583948
+TFIM,Deterministic,44,g_nll,ID,fixed,-2.5176016126686163
+TFIM,Deterministic,44,g_nll,OOD,fitted,-2.03402228836867
+TFIM,Deterministic,44,g_nll,OOD,fixed,-1.5326134964244778
+TFIM,Deterministic,44,ic_noise_scale,,fitted,0.15
+TFIM,Deterministic,44,norm_drift,,,0.0125378162387933
+TFIM,Deterministic,44,state_rmse,ID,,0.0186215725542156
+TFIM,Deterministic,44,state_rmse,OOD,,0.0261581409924479
+TFIM,Deterministic,44,var_alea,ID,,0.0006536407182828
+TFIM,Deterministic,44,var_alea,OOD,,0.0006528334355892
+TFIM,Deterministic,44,var_epi,ID,,0.0
+TFIM,Deterministic,44,var_epi,OOD,,0.0
+TFIM,Deterministic,44,var_ratio,OOD,,0.0
+TFIM,Deterministic,45,alpha,ID,fitted,0.0
+TFIM,Deterministic,45,alpha,ID,fixed,0.0
+TFIM,Deterministic,45,alpha,OOD,fitted,0.0
+TFIM,Deterministic,45,alpha,OOD,fixed,0.0
+TFIM,Deterministic,45,cov90_err,ID,fitted,0.0289329268292682
+TFIM,Deterministic,45,cov90_err,ID,fixed,0.1016260162601625
+TFIM,Deterministic,45,cov90_err,OOD,fitted,0.3671118667917448
+TFIM,Deterministic,45,cov90_err,OOD,fixed,0.4853160178236397
+TFIM,Deterministic,45,energy_drift,,,0.0642565832810153
+TFIM,Deterministic,45,g_nll,ID,fitted,-2.455491284252141
+TFIM,Deterministic,45,g_nll,ID,fixed,-2.4948541581120094
+TFIM,Deterministic,45,g_nll,OOD,fitted,13.514055431882989
+TFIM,Deterministic,45,g_nll,OOD,fixed,33.15077906187043
+TFIM,Deterministic,45,ic_noise_scale,,fitted,0.15
+TFIM,Deterministic,45,norm_drift,,,0.0238882780640948
+TFIM,Deterministic,45,state_rmse,ID,,0.0189212303546634
+TFIM,Deterministic,45,state_rmse,OOD,,0.0927643677173882
+TFIM,Deterministic,45,var_alea,ID,,0.000653763594147
+TFIM,Deterministic,45,var_alea,OOD,,0.0006561907937982
+TFIM,Deterministic,45,var_epi,ID,,0.0
+TFIM,Deterministic,45,var_epi,OOD,,0.0
+TFIM,Deterministic,45,var_ratio,OOD,,0.0
+TFIM,Deterministic,46,alpha,ID,fitted,0.0
+TFIM,Deterministic,46,alpha,ID,fixed,0.0
+TFIM,Deterministic,46,alpha,OOD,fitted,0.0
+TFIM,Deterministic,46,alpha,OOD,fixed,0.0
+TFIM,Deterministic,46,cov90_err,ID,fitted,0.0345680894308942
+TFIM,Deterministic,46,cov90_err,ID,fixed,0.0892530487804877
+TFIM,Deterministic,46,cov90_err,OOD,fitted,0.2596312148217636
+TFIM,Deterministic,46,cov90_err,OOD,fixed,0.3911292213883677
+TFIM,Deterministic,46,energy_drift,,,0.0348542534089475
+TFIM,Deterministic,46,g_nll,ID,fitted,-2.475165685904724
+TFIM,Deterministic,46,g_nll,ID,fixed,-2.536621177573655
+TFIM,Deterministic,46,g_nll,OOD,fitted,5.8056310343595525
+TFIM,Deterministic,46,g_nll,OOD,fixed,16.00462105087526
+TFIM,Deterministic,46,ic_noise_scale,,fitted,0.15
+TFIM,Deterministic,46,norm_drift,,,0.0119070883394941
+TFIM,Deterministic,46,state_rmse,ID,,0.0183648385969329
+TFIM,Deterministic,46,state_rmse,OOD,,0.0648722810533502
+TFIM,Deterministic,46,var_alea,ID,,0.0006542104376599
+TFIM,Deterministic,46,var_alea,OOD,,0.0006549474190783
+TFIM,Deterministic,46,var_epi,ID,,0.0
+TFIM,Deterministic,46,var_epi,OOD,,0.0
+TFIM,Deterministic,46,var_ratio,OOD,,0.0
+TFIM,Deterministic,47,alpha,ID,fitted,0.0
+TFIM,Deterministic,47,alpha,ID,fixed,0.0
+TFIM,Deterministic,47,alpha,OOD,fitted,0.0
+TFIM,Deterministic,47,alpha,OOD,fixed,0.0
+TFIM,Deterministic,47,cov90_err,ID,fitted,0.0162703252032519
+TFIM,Deterministic,47,cov90_err,ID,fixed,0.126295731707317
+TFIM,Deterministic,47,cov90_err,OOD,fitted,0.2085178236397748
+TFIM,Deterministic,47,cov90_err,OOD,fixed,0.3387576219512195
+TFIM,Deterministic,47,energy_drift,,,0.0401921599432431
+TFIM,Deterministic,47,g_nll,ID,fitted,-2.4151915445272336
+TFIM,Deterministic,47,g_nll,ID,fixed,-2.406468975189475
+TFIM,Deterministic,47,g_nll,OOD,fitted,0.0687809777699363
+TFIM,Deterministic,47,g_nll,OOD,fixed,3.0826630485019715
+TFIM,Deterministic,47,ic_noise_scale,,fitted,0.15
+TFIM,Deterministic,47,norm_drift,,,0.0165818762248015
+TFIM,Deterministic,47,state_rmse,ID,,0.0199813548722959
+TFIM,Deterministic,47,state_rmse,OOD,,0.0426249995410761
+TFIM,Deterministic,47,var_alea,ID,,0.0006536270007124
+TFIM,Deterministic,47,var_alea,OOD,,0.0006517676056334
+TFIM,Deterministic,47,var_epi,ID,,0.0
+TFIM,Deterministic,47,var_epi,OOD,,0.0
+TFIM,Deterministic,47,var_ratio,OOD,,0.0
+TFIM,Deterministic,48,alpha,ID,fitted,0.0
+TFIM,Deterministic,48,alpha,ID,fixed,0.0
+TFIM,Deterministic,48,alpha,OOD,fitted,0.0
+TFIM,Deterministic,48,alpha,OOD,fixed,0.0
+TFIM,Deterministic,48,cov90_err,ID,fitted,0.0365701219512194
+TFIM,Deterministic,48,cov90_err,ID,fixed,0.0869918699186991
+TFIM,Deterministic,48,cov90_err,OOD,fitted,0.3144242495309568
+TFIM,Deterministic,48,cov90_err,OOD,fixed,0.4345039868667917
+TFIM,Deterministic,48,energy_drift,,,0.0241515538110315
+TFIM,Deterministic,48,g_nll,ID,fitted,-2.481769506875213
+TFIM,Deterministic,48,g_nll,ID,fixed,-2.552453464425097
+TFIM,Deterministic,48,g_nll,OOD,fitted,10.065804861582167
+TFIM,Deterministic,48,g_nll,OOD,fixed,25.502101582487235
+TFIM,Deterministic,48,ic_noise_scale,,fitted,0.15
+TFIM,Deterministic,48,norm_drift,,,0.0083286584981916
+TFIM,Deterministic,48,state_rmse,ID,,0.0181837951998541
+TFIM,Deterministic,48,state_rmse,OOD,,0.080200450115779
+TFIM,Deterministic,48,var_alea,ID,,0.0006530185115059
+TFIM,Deterministic,48,var_alea,OOD,,0.0006539980143434
+TFIM,Deterministic,48,var_epi,ID,,0.0
+TFIM,Deterministic,48,var_epi,OOD,,0.0
+TFIM,Deterministic,48,var_ratio,OOD,,0.0
+TFIM,Deterministic,49,alpha,ID,fitted,0.0
+TFIM,Deterministic,49,alpha,ID,fixed,0.0
+TFIM,Deterministic,49,alpha,OOD,fitted,0.0
+TFIM,Deterministic,49,alpha,OOD,fixed,0.0
+TFIM,Deterministic,49,cov90_err,ID,fitted,0.0350482723577235
+TFIM,Deterministic,49,cov90_err,ID,fixed,0.0911204268292682
+TFIM,Deterministic,49,cov90_err,OOD,fitted,0.1687247889305815
+TFIM,Deterministic,49,cov90_err,OOD,fixed,0.2976342636022513
+TFIM,Deterministic,49,energy_drift,,,0.0205366325798285
+TFIM,Deterministic,49,g_nll,ID,fitted,-2.4728434877972423
+TFIM,Deterministic,49,g_nll,ID,fixed,-2.533725172559381
+TFIM,Deterministic,49,g_nll,OOD,fitted,0.2925611305630231
+TFIM,Deterministic,49,g_nll,OOD,fixed,3.660690075841488
+TFIM,Deterministic,49,ic_noise_scale,,fitted,0.15
+TFIM,Deterministic,49,norm_drift,,,0.0108173108907145
+TFIM,Deterministic,49,state_rmse,ID,,0.018420424291744
+TFIM,Deterministic,49,state_rmse,OOD,,0.0427877114608196
+TFIM,Deterministic,49,var_alea,ID,,0.000653390330737
+TFIM,Deterministic,49,var_alea,OOD,,0.0006577340050528
+TFIM,Deterministic,49,var_epi,ID,,0.0
+TFIM,Deterministic,49,var_epi,OOD,,0.0
+TFIM,Deterministic,49,var_ratio,OOD,,0.0
+TFIM,Deterministic,50,alpha,ID,fitted,0.0
+TFIM,Deterministic,50,alpha,ID,fixed,0.0
+TFIM,Deterministic,50,alpha,OOD,fitted,0.0
+TFIM,Deterministic,50,alpha,OOD,fixed,0.0
+TFIM,Deterministic,50,cov90_err,ID,fitted,0.0205132113821137
+TFIM,Deterministic,50,cov90_err,ID,fixed,0.1168572154471544
+TFIM,Deterministic,50,cov90_err,OOD,fitted,0.1114270637898686
+TFIM,Deterministic,50,cov90_err,OOD,fixed,0.2225844277673545
+TFIM,Deterministic,50,energy_drift,,,0.0203243578430337
+TFIM,Deterministic,50,g_nll,ID,fitted,-2.4320650239977604
+TFIM,Deterministic,50,g_nll,ID,fixed,-2.438562325316304
+TFIM,Deterministic,50,g_nll,OOD,fitted,-1.5666541363300426
+TFIM,Deterministic,50,g_nll,OOD,fixed,-0.5206599028580841
+TFIM,Deterministic,50,ic_noise_scale,,fitted,0.15
+TFIM,Deterministic,50,norm_drift,,,0.0079068467297425
+TFIM,Deterministic,50,state_rmse,ID,,0.0195779859829697
+TFIM,Deterministic,50,state_rmse,OOD,,0.0294373990124324
+TFIM,Deterministic,50,var_alea,ID,,0.0006533872082602
+TFIM,Deterministic,50,var_alea,OOD,,0.0006523394939399
+TFIM,Deterministic,50,var_epi,ID,,0.0
+TFIM,Deterministic,50,var_epi,OOD,,0.0
+TFIM,Deterministic,50,var_ratio,OOD,,0.0
+TFIM,Deterministic,51,alpha,ID,fitted,0.0
+TFIM,Deterministic,51,alpha,ID,fixed,0.0
+TFIM,Deterministic,51,alpha,OOD,fitted,0.0
+TFIM,Deterministic,51,alpha,OOD,fixed,0.0
+TFIM,Deterministic,51,cov90_err,ID,fitted,0.0269131097560974
+TFIM,Deterministic,51,cov90_err,ID,fixed,0.1012195121951219
+TFIM,Deterministic,51,cov90_err,OOD,fitted,0.154858114446529
+TFIM,Deterministic,51,cov90_err,OOD,fixed,0.2763954033771106
+TFIM,Deterministic,51,energy_drift,,,0.0227231372684312
+TFIM,Deterministic,51,g_nll,ID,fitted,-2.454854231450277
+TFIM,Deterministic,51,g_nll,ID,fixed,-2.494780985836292
+TFIM,Deterministic,51,g_nll,OOD,fitted,-0.6094996030446227
+TFIM,Deterministic,51,g_nll,OOD,fixed,1.5937032625135918
+TFIM,Deterministic,51,ic_noise_scale,,fitted,0.15
+TFIM,Deterministic,51,norm_drift,,,0.0101725949273711
+TFIM,Deterministic,51,state_rmse,ID,,0.0188894026543385
+TFIM,Deterministic,51,state_rmse,OOD,,0.0369414250454251
+TFIM,Deterministic,51,var_alea,ID,,0.0006539256711741
+TFIM,Deterministic,51,var_alea,OOD,,0.0006532542697278
+TFIM,Deterministic,51,var_epi,ID,,0.0
+TFIM,Deterministic,51,var_epi,OOD,,0.0
+TFIM,Deterministic,51,var_ratio,OOD,,0.0
+TFIM,Fixed-mask MC,42,alpha,ID,fitted,0.7452143271070395
+TFIM,Fixed-mask MC,42,alpha,ID,fixed,0.9878450091368848
+TFIM,Fixed-mask MC,42,alpha,OOD,fitted,0.7379148131378613
+TFIM,Fixed-mask MC,42,alpha,OOD,fixed,0.987132778980971
+TFIM,Fixed-mask MC,42,cov90_err,ID,fitted,0.0986915650406503
+TFIM,Fixed-mask MC,42,cov90_err,ID,fixed,0.0871824186991869
+TFIM,Fixed-mask MC,42,cov90_err,OOD,fitted,0.0972502345215758
+TFIM,Fixed-mask MC,42,cov90_err,OOD,fixed,0.0821646341463414
+TFIM,Fixed-mask MC,42,energy_drift,,,0.2142023209712956
+TFIM,Fixed-mask MC,42,g_nll,ID,fitted,-0.9895389951923698
+TFIM,Fixed-mask MC,42,g_nll,ID,fixed,-1.3602533047438643
+TFIM,Fixed-mask MC,42,g_nll,OOD,fitted,-1.016507280446694
+TFIM,Fixed-mask MC,42,g_nll,OOD,fixed,-1.4096867846686831
+TFIM,Fixed-mask MC,42,ic_noise_scale,,fitted,0.6
+TFIM,Fixed-mask MC,42,norm_drift,,,0.1247798755706978
+TFIM,Fixed-mask MC,42,state_rmse,ID,,0.0565849621489585
+TFIM,Fixed-mask MC,42,state_rmse,OOD,,0.0578870520257249
+TFIM,Fixed-mask MC,42,var_alea,ID,,0.0052398596154257
+TFIM,Fixed-mask MC,42,var_alea,OOD,,0.0052782348577059
+TFIM,Fixed-mask MC,42,var_epi,ID,,0.0153258949496949
+TFIM,Fixed-mask MC,42,var_epi,OOD,,0.014861151579584
+TFIM,Fixed-mask MC,42,var_ratio,OOD,,2.8155533014768097
+TFIM,Fixed-mask MC,43,alpha,ID,fitted,0.741307019240628
+TFIM,Fixed-mask MC,43,alpha,ID,fixed,0.9874978047526134
+TFIM,Fixed-mask MC,43,alpha,OOD,fitted,0.75485565789738
+TFIM,Fixed-mask MC,43,alpha,OOD,fixed,0.9881433802151984
+TFIM,Fixed-mask MC,43,cov90_err,ID,fitted,0.0974085365853657
+TFIM,Fixed-mask MC,43,cov90_err,ID,fixed,0.0851244918699186
+TFIM,Fixed-mask MC,43,cov90_err,OOD,fitted,0.090607410881801
+TFIM,Fixed-mask MC,43,cov90_err,OOD,fixed,0.0699390243902438
+TFIM,Fixed-mask MC,43,energy_drift,,,0.3101247850573277
+TFIM,Fixed-mask MC,43,g_nll,ID,fitted,-0.9759810493061732
+TFIM,Fixed-mask MC,43,g_nll,ID,fixed,-1.3375550869769657
+TFIM,Fixed-mask MC,43,g_nll,OOD,fitted,-0.9606864367142012
+TFIM,Fixed-mask MC,43,g_nll,OOD,fixed,-1.3235343644637785
+TFIM,Fixed-mask MC,43,ic_noise_scale,,fitted,0.6
+TFIM,Fixed-mask MC,43,norm_drift,,,0.1630553761717808
+TFIM,Fixed-mask MC,43,state_rmse,ID,,0.05664947847182
+TFIM,Fixed-mask MC,43,state_rmse,OOD,,0.0676964694719616
+TFIM,Fixed-mask MC,43,var_alea,ID,,0.005278129783513
+TFIM,Fixed-mask MC,43,var_alea,OOD,,0.0051376115217888
+TFIM,Fixed-mask MC,43,var_epi,ID,,0.0151249355336034
+TFIM,Fixed-mask MC,43,var_epi,OOD,,0.0158198842854698
+TFIM,Fixed-mask MC,43,var_ratio,OOD,,3.079229369207261
+TFIM,Fixed-mask MC,44,alpha,ID,fitted,0.7820362299457733
+TFIM,Fixed-mask MC,44,alpha,ID,fixed,0.9900557179342684
+TFIM,Fixed-mask MC,44,alpha,OOD,fitted,0.8192152054293211
+TFIM,Fixed-mask MC,44,alpha,OOD,fixed,0.991933302451597
+TFIM,Fixed-mask MC,44,cov90_err,ID,fitted,0.0984629065040649
+TFIM,Fixed-mask MC,44,cov90_err,ID,fixed,0.0860391260162601
+TFIM,Fixed-mask MC,44,cov90_err,OOD,fitted,0.0933689024390242
+TFIM,Fixed-mask MC,44,cov90_err,OOD,fixed,0.0803382973733582
+TFIM,Fixed-mask MC,44,energy_drift,,,0.2687761485764317
+TFIM,Fixed-mask MC,44,g_nll,ID,fitted,-0.9501685740396064
+TFIM,Fixed-mask MC,44,g_nll,ID,fixed,-1.2921893961318178
+TFIM,Fixed-mask MC,44,g_nll,OOD,fitted,-0.9112871724544598
+TFIM,Fixed-mask MC,44,g_nll,OOD,fixed,-1.2264598836461982
+TFIM,Fixed-mask MC,44,ic_noise_scale,,fitted,0.6
+TFIM,Fixed-mask MC,44,norm_drift,,,0.1390876486109306
+TFIM,Fixed-mask MC,44,state_rmse,ID,,0.0656660033747946
+TFIM,Fixed-mask MC,44,state_rmse,OOD,,0.0747217128938653
+TFIM,Fixed-mask MC,44,var_alea,ID,,0.0048578432878808
+TFIM,Fixed-mask MC,44,var_alea,OOD,,0.0043903263101389
+TFIM,Fixed-mask MC,44,var_epi,ID,,0.0174295455138098
+TFIM,Fixed-mask MC,44,var_epi,OOD,,0.0198944943273762
+TFIM,Fixed-mask MC,44,var_ratio,OOD,,4.531438649886252
+TFIM,Fixed-mask MC,45,alpha,ID,fitted,0.7452646332514926
+TFIM,Fixed-mask MC,45,alpha,ID,fixed,0.9877089154984292
+TFIM,Fixed-mask MC,45,alpha,OOD,fitted,0.7332336392506265
+TFIM,Fixed-mask MC,45,alpha,OOD,fixed,0.9868368677447522
+TFIM,Fixed-mask MC,45,cov90_err,ID,fitted,0.0988185975609755
+TFIM,Fixed-mask MC,45,cov90_err,ID,fixed,0.0852642276422763
+TFIM,Fixed-mask MC,45,cov90_err,OOD,fitted,0.0902673545966228
+TFIM,Fixed-mask MC,45,cov90_err,OOD,fixed,0.0983132035647279
+TFIM,Fixed-mask MC,45,energy_drift,,,0.1871444172595896
+TFIM,Fixed-mask MC,45,g_nll,ID,fitted,-0.9990958598631584
+TFIM,Fixed-mask MC,45,g_nll,ID,fixed,-1.3730668713681131
+TFIM,Fixed-mask MC,45,g_nll,OOD,fitted,-0.842517586748033
+TFIM,Fixed-mask MC,45,g_nll,OOD,fixed,-1.0494514035219584
+TFIM,Fixed-mask MC,45,ic_noise_scale,,fitted,0.6
+TFIM,Fixed-mask MC,45,norm_drift,,,0.0978336491670334
+TFIM,Fixed-mask MC,45,state_rmse,ID,,0.0546159307988664
+TFIM,Fixed-mask MC,45,state_rmse,OOD,,0.0963882695486719
+TFIM,Fixed-mask MC,45,var_alea,ID,,0.005069529812858
+TFIM,Fixed-mask MC,45,var_alea,OOD,,0.0052186185768024
+TFIM,Fixed-mask MC,45,var_epi,ID,,0.0148316322345111
+TFIM,Fixed-mask MC,45,var_epi,OOD,,0.0143438875883034
+TFIM,Fixed-mask MC,45,var_ratio,OOD,,2.7485985758882774
+TFIM,Fixed-mask MC,46,alpha,ID,fitted,0.7198948537360691
+TFIM,Fixed-mask MC,46,alpha,ID,fixed,0.9861503880398352
+TFIM,Fixed-mask MC,46,alpha,OOD,fitted,0.7285477142718693
+TFIM,Fixed-mask MC,46,alpha,OOD,fixed,0.986584523679408
+TFIM,Fixed-mask MC,46,cov90_err,ID,fitted,0.0991361788617885
+TFIM,Fixed-mask MC,46,cov90_err,ID,fixed,0.088185975609756
+TFIM,Fixed-mask MC,46,cov90_err,OOD,fitted,0.0829074812382738
+TFIM,Fixed-mask MC,46,cov90_err,OOD,fixed,0.0820561679174483
+TFIM,Fixed-mask MC,46,energy_drift,,,0.3396025375513436
+TFIM,Fixed-mask MC,46,g_nll,ID,fitted,-1.0184476132369809
+TFIM,Fixed-mask MC,46,g_nll,ID,fixed,-1.3926624281387372
+TFIM,Fixed-mask MC,46,g_nll,OOD,fitted,-0.9310178946833244
+TFIM,Fixed-mask MC,46,g_nll,OOD,fixed,-1.2363580685305364
+TFIM,Fixed-mask MC,46,ic_noise_scale,,fitted,0.6
+TFIM,Fixed-mask MC,46,norm_drift,,,0.218266896677972
+TFIM,Fixed-mask MC,46,state_rmse,ID,,0.0515322106314328
+TFIM,Fixed-mask MC,46,state_rmse,OOD,,0.0873828369235037
+TFIM,Fixed-mask MC,46,var_alea,ID,,0.0055199884448011
+TFIM,Fixed-mask MC,46,var_alea,OOD,,0.0053923752011119
+TFIM,Fixed-mask MC,46,var_epi,ID,,0.014186855640098
+TFIM,Fixed-mask MC,46,var_epi,OOD,,0.0144725347098423
+TFIM,Fixed-mask MC,46,var_ratio,OOD,,2.683888670591399
+TFIM,Fixed-mask MC,47,alpha,ID,fitted,0.7532090710655087
+TFIM,Fixed-mask MC,47,alpha,ID,fixed,0.9880827046999638
+TFIM,Fixed-mask MC,47,alpha,OOD,fitted,0.7662904854463699
+TFIM,Fixed-mask MC,47,alpha,OOD,fixed,0.9888249775487682
+TFIM,Fixed-mask MC,47,cov90_err,ID,fitted,0.0993521341463413
+TFIM,Fixed-mask MC,47,cov90_err,ID,fixed,0.0875635162601625
+TFIM,Fixed-mask MC,47,cov90_err,OOD,fitted,0.0958401735459661
+TFIM,Fixed-mask MC,47,cov90_err,OOD,fixed,0.0805728189493432
+TFIM,Fixed-mask MC,47,energy_drift,,,0.359221097442894
+TFIM,Fixed-mask MC,47,g_nll,ID,fitted,-1.0004687385982185
+TFIM,Fixed-mask MC,47,g_nll,ID,fixed,-1.3725290229587597
+TFIM,Fixed-mask MC,47,g_nll,OOD,fitted,-0.9666178951602432
+TFIM,Fixed-mask MC,47,g_nll,OOD,fixed,-1.3286794335155192
+TFIM,Fixed-mask MC,47,ic_noise_scale,,fitted,0.6
+TFIM,Fixed-mask MC,47,norm_drift,,,0.1327475204597347
+TFIM,Fixed-mask MC,47,state_rmse,ID,,0.0525518668879549
+TFIM,Fixed-mask MC,47,state_rmse,OOD,,0.0713046170258213
+TFIM,Fixed-mask MC,47,var_alea,ID,,0.0050513201102324
+TFIM,Fixed-mask MC,47,var_alea,OOD,,0.0049128568965429
+TFIM,Fixed-mask MC,47,var_epi,ID,,0.0154166935726095
+TFIM,Fixed-mask MC,47,var_epi,OOD,,0.016108353583168
+TFIM,Fixed-mask MC,47,var_ratio,OOD,,3.27881595625208
+TFIM,Fixed-mask MC,48,alpha,ID,fitted,0.8214576578078213
+TFIM,Fixed-mask MC,48,alpha,ID,fixed,0.987718094321767
+TFIM,Fixed-mask MC,48,alpha,OOD,fitted,0.8157806591635897
+TFIM,Fixed-mask MC,48,alpha,OOD,fixed,0.987049271221899
+TFIM,Fixed-mask MC,48,cov90_err,ID,fitted,0.0978023373983739
+TFIM,Fixed-mask MC,48,cov90_err,ID,fixed,0.0804878048780487
+TFIM,Fixed-mask MC,48,cov90_err,OOD,fitted,0.0830534709193245
+TFIM,Fixed-mask MC,48,cov90_err,OOD,fixed,0.0783477954971856
+TFIM,Fixed-mask MC,48,energy_drift,,,0.3214244449737101
+TFIM,Fixed-mask MC,48,g_nll,ID,fitted,-1.0798115547235918
+TFIM,Fixed-mask MC,48,g_nll,ID,fixed,-1.3470490629530063
+TFIM,Fixed-mask MC,48,g_nll,OOD,fitted,-0.940318271683218
+TFIM,Fixed-mask MC,48,g_nll,OOD,fixed,-1.1399402251955757
+TFIM,Fixed-mask MC,48,ic_noise_scale,,fitted,0.4499999999999999
+TFIM,Fixed-mask MC,48,norm_drift,,,0.2007087995696913
+TFIM,Fixed-mask MC,48,state_rmse,ID,,0.0599060866120018
+TFIM,Fixed-mask MC,48,state_rmse,OOD,,0.094127401695448
+TFIM,Fixed-mask MC,48,var_alea,ID,,0.0033151690652658
+TFIM,Fixed-mask MC,48,var_alea,OOD,,0.0032225812260168
+TFIM,Fixed-mask MC,48,var_epi,ID,,0.0152528021205131
+TFIM,Fixed-mask MC,48,var_epi,OOD,,0.0142705940908928
+TFIM,Fixed-mask MC,48,var_ratio,OOD,,4.428311682474295
+TFIM,Fixed-mask MC,49,alpha,ID,fitted,0.7709407870161307
+TFIM,Fixed-mask MC,49,alpha,ID,fixed,0.9892526619770704
+TFIM,Fixed-mask MC,49,alpha,OOD,fitted,0.7890723147196114
+TFIM,Fixed-mask MC,49,alpha,OOD,fixed,0.990253595065231
+TFIM,Fixed-mask MC,49,cov90_err,ID,fitted,0.0989075203252031
+TFIM,Fixed-mask MC,49,cov90_err,ID,fixed,0.088821138211382
+TFIM,Fixed-mask MC,49,cov90_err,OOD,fitted,0.0961274624765477
+TFIM,Fixed-mask MC,49,cov90_err,OOD,fixed,0.080920497185741
+TFIM,Fixed-mask MC,49,energy_drift,,,0.4696046012904974
+TFIM,Fixed-mask MC,49,g_nll,ID,fitted,-0.9652937915376926
+TFIM,Fixed-mask MC,49,g_nll,ID,fixed,-1.3282180724178794
+TFIM,Fixed-mask MC,49,g_nll,OOD,fitted,-0.952842940242952
+TFIM,Fixed-mask MC,49,g_nll,OOD,fixed,-1.287961874999604
+TFIM,Fixed-mask MC,49,ic_noise_scale,,fitted,0.6
+TFIM,Fixed-mask MC,49,norm_drift,,,0.1396293519955187
+TFIM,Fixed-mask MC,49,state_rmse,ID,,0.059504852456445
+TFIM,Fixed-mask MC,49,state_rmse,OOD,,0.068087420280796
+TFIM,Fixed-mask MC,49,var_alea,ID,,0.0049762202940746
+TFIM,Fixed-mask MC,49,var_alea,OOD,,0.0047366840243771
+TFIM,Fixed-mask MC,49,var_epi,ID,,0.0167483819572438
+TFIM,Fixed-mask MC,49,var_epi,OOD,,0.0177197517824285
+TFIM,Fixed-mask MC,49,var_ratio,OOD,,3.740961333125559
+TFIM,Fixed-mask MC,50,alpha,ID,fitted,0.803647615929092
+TFIM,Fixed-mask MC,50,alpha,ID,fixed,0.9911521283154
+TFIM,Fixed-mask MC,50,alpha,OOD,fitted,0.790988702577143
+TFIM,Fixed-mask MC,50,alpha,OOD,fixed,0.990184998432902
+TFIM,Fixed-mask MC,50,cov90_err,ID,fitted,0.0974720528455283
+TFIM,Fixed-mask MC,50,cov90_err,ID,fixed,0.0828506097560974
+TFIM,Fixed-mask MC,50,cov90_err,OOD,fitted,0.0785559333958723
+TFIM,Fixed-mask MC,50,cov90_err,OOD,fixed,0.0603119136960599
+TFIM,Fixed-mask MC,50,energy_drift,,,0.3199928747722093
+TFIM,Fixed-mask MC,50,g_nll,ID,fitted,-0.916950175215018
+TFIM,Fixed-mask MC,50,g_nll,ID,fixed,-1.2468605719504386
+TFIM,Fixed-mask MC,50,g_nll,OOD,fitted,-0.8838254057375574
+TFIM,Fixed-mask MC,50,g_nll,OOD,fixed,-1.1848357213735443
+TFIM,Fixed-mask MC,50,ic_noise_scale,,fitted,0.6
+TFIM,Fixed-mask MC,50,norm_drift,,,0.1609416155888303
+TFIM,Fixed-mask MC,50,state_rmse,ID,,0.0697351246393374
+TFIM,Fixed-mask MC,50,state_rmse,OOD,,0.0823658025932807
+TFIM,Fixed-mask MC,50,var_alea,ID,,0.0045239734387901
+TFIM,Fixed-mask MC,50,var_alea,OOD,,0.0046264848094327
+TFIM,Fixed-mask MC,50,var_epi,ID,,0.0185161004579262
+TFIM,Fixed-mask MC,50,var_epi,OOD,,0.0175086096399012
+TFIM,Fixed-mask MC,50,var_ratio,OOD,,3.784430374482919
+TFIM,Fixed-mask MC,51,alpha,ID,fitted,0.6908600701308767
+TFIM,Fixed-mask MC,51,alpha,ID,fixed,0.9838789269045952
+TFIM,Fixed-mask MC,51,alpha,OOD,fitted,0.7455753279544496
+TFIM,Fixed-mask MC,51,alpha,OOD,fixed,0.9873575575287944
+TFIM,Fixed-mask MC,51,cov90_err,ID,fitted,0.0986153455284552
+TFIM,Fixed-mask MC,51,cov90_err,ID,fixed,0.0868140243902438
+TFIM,Fixed-mask MC,51,cov90_err,OOD,fitted,0.0894729127579736
+TFIM,Fixed-mask MC,51,cov90_err,OOD,fixed,0.0646171435272044
+TFIM,Fixed-mask MC,51,energy_drift,,,0.1957635070857281
+TFIM,Fixed-mask MC,51,g_nll,ID,fitted,-1.0459001456658903
+TFIM,Fixed-mask MC,51,g_nll,ID,fixed,-1.4468712639220818
+TFIM,Fixed-mask MC,51,g_nll,OOD,fitted,-0.961969059159576
+TFIM,Fixed-mask MC,51,g_nll,OOD,fixed,-1.3180411943518755
+TFIM,Fixed-mask MC,51,ic_noise_scale,,fitted,0.6
+TFIM,Fixed-mask MC,51,norm_drift,,,0.0849335295598741
+TFIM,Fixed-mask MC,51,state_rmse,ID,,0.0481956470125172
+TFIM,Fixed-mask MC,51,state_rmse,OOD,,0.0679575148021657
+TFIM,Fixed-mask MC,51,var_alea,ID,,0.0055902425943809
+TFIM,Fixed-mask MC,51,var_alea,OOD,,0.0050799844470876
+TFIM,Fixed-mask MC,51,var_epi,ID,,0.0124929684510108
+TFIM,Fixed-mask MC,51,var_epi,OOD,,0.0148865714935961
+TFIM,Fixed-mask MC,51,var_ratio,OOD,,2.9304364311844995
+TFIM,Fresh-mask MC,42,alpha,ID,fitted,0.4943858800522691
+TFIM,Fresh-mask MC,42,alpha,ID,fixed,0.675873371050891
+TFIM,Fresh-mask MC,42,alpha,OOD,fitted,0.4632562344820036
+TFIM,Fresh-mask MC,42,alpha,OOD,fixed,0.6542309032407574
+TFIM,Fresh-mask MC,42,cov90_err,ID,fitted,0.0906249999999999
+TFIM,Fresh-mask MC,42,cov90_err,ID,fixed,0.0667809959349592
+TFIM,Fresh-mask MC,42,cov90_err,OOD,fitted,0.2079543855534709
+TFIM,Fresh-mask MC,42,cov90_err,OOD,fixed,0.2566909005628517
+TFIM,Fresh-mask MC,42,energy_drift,,,0.1002402554089441
+TFIM,Fresh-mask MC,42,g_nll,ID,fitted,-2.243282230036784
+TFIM,Fresh-mask MC,42,g_nll,ID,fixed,-2.342473250855778
+TFIM,Fresh-mask MC,42,g_nll,OOD,fitted,1.3336588852291096
+TFIM,Fresh-mask MC,42,g_nll,OOD,fixed,2.705882791798511
+TFIM,Fresh-mask MC,42,ic_noise_scale,,fitted,0.15
+TFIM,Fresh-mask MC,42,norm_drift,,,0.0372127387643502
+TFIM,Fresh-mask MC,42,state_rmse,ID,,0.0212760231649737
+TFIM,Fresh-mask MC,42,state_rmse,OOD,,0.0672466979124376
+TFIM,Fresh-mask MC,42,var_alea,ID,,0.0006634120310675
+TFIM,Fresh-mask MC,42,var_alea,OOD,,0.0006715400607544
+TFIM,Fresh-mask MC,42,var_epi,ID,,0.0006486795520079
+TFIM,Fresh-mask MC,42,var_epi,OOD,,0.0005795970812044
+TFIM,Fresh-mask MC,42,var_ratio,OOD,,0.8630863817019426
+TFIM,Fresh-mask MC,43,alpha,ID,fitted,0.3678686267450265
+TFIM,Fresh-mask MC,43,alpha,ID,fixed,0.6865458055861393
+TFIM,Fresh-mask MC,43,alpha,OOD,fitted,0.3242962489286817
+TFIM,Fresh-mask MC,43,alpha,OOD,fixed,0.644740084635624
+TFIM,Fresh-mask MC,43,cov90_err,ID,fitted,0.0959730691056909
+TFIM,Fresh-mask MC,43,cov90_err,ID,fixed,0.0637576219512194
+TFIM,Fresh-mask MC,43,cov90_err,OOD,fitted,0.070342401500938
+TFIM,Fresh-mask MC,43,cov90_err,OOD,fixed,0.1717196294559099
+TFIM,Fresh-mask MC,43,energy_drift,,,0.1008949700408851
+TFIM,Fresh-mask MC,43,g_nll,ID,fitted,-2.1134117976067683
+TFIM,Fresh-mask MC,43,g_nll,ID,fixed,-2.3304975373132817
+TFIM,Fresh-mask MC,43,g_nll,OOD,fitted,-1.5931700922497372
+TFIM,Fresh-mask MC,43,g_nll,OOD,fixed,-1.3370827718438658
+TFIM,Fresh-mask MC,43,ic_noise_scale,,fitted,0.1999999999999999
+TFIM,Fresh-mask MC,43,norm_drift,,,0.0361686947939928
+TFIM,Fresh-mask MC,43,state_rmse,ID,,0.0214690400970943
+TFIM,Fresh-mask MC,43,state_rmse,OOD,,0.0448302990961385
+TFIM,Fresh-mask MC,43,var_alea,ID,,0.001156050501294
+TFIM,Fresh-mask MC,43,var_alea,OOD,,0.0011531935028859
+TFIM,Fresh-mask MC,43,var_epi,ID,,0.0006727631760612
+TFIM,Fresh-mask MC,43,var_epi,OOD,,0.0005534619671445
+TFIM,Fresh-mask MC,43,var_ratio,OOD,,0.479938506208549
+TFIM,Fresh-mask MC,44,alpha,ID,fitted,0.6747992643593147
+TFIM,Fresh-mask MC,44,alpha,ID,fixed,0.6742321625331855
+TFIM,Fresh-mask MC,44,alpha,OOD,fitted,0.6604640479544536
+TFIM,Fresh-mask MC,44,alpha,OOD,fixed,0.6612222328261114
+TFIM,Fresh-mask MC,44,cov90_err,ID,fitted,0.0725228658536584
+TFIM,Fresh-mask MC,44,cov90_err,ID,fixed,0.0729420731707316
+TFIM,Fresh-mask MC,44,cov90_err,OOD,fitted,0.2833302063789868
+TFIM,Fresh-mask MC,44,cov90_err,OOD,fixed,0.283640361163227
+TFIM,Fresh-mask MC,44,energy_drift,,,0.0979781933757762
+TFIM,Fresh-mask MC,44,g_nll,ID,fitted,-2.382406381607037
+TFIM,Fresh-mask MC,44,g_nll,ID,fixed,-2.381540334438093
+TFIM,Fresh-mask MC,44,g_nll,OOD,fitted,5.053198379347618
+TFIM,Fresh-mask MC,44,g_nll,OOD,fixed,5.061309823352197
+TFIM,Fresh-mask MC,44,ic_noise_scale,,fitted,0.0999999999999999
+TFIM,Fresh-mask MC,44,norm_drift,,,0.0360468502071389
+TFIM,Fresh-mask MC,44,state_rmse,ID,,0.0194132167815992
+TFIM,Fresh-mask MC,44,state_rmse,OOD,,0.0767461349620436
+TFIM,Fresh-mask MC,44,var_alea,ID,,0.000305469863722
+TFIM,Fresh-mask MC,44,var_alea,OOD,,0.0003059205499919
+TFIM,Fresh-mask MC,44,var_epi,ID,,0.000633857235647
+TFIM,Fresh-mask MC,44,var_epi,OOD,,0.0005950754951953
+TFIM,Fresh-mask MC,44,var_ratio,OOD,,1.945196212582097
+TFIM,Fresh-mask MC,45,alpha,ID,fitted,0.4991236987974406
+TFIM,Fresh-mask MC,45,alpha,ID,fixed,0.681521595644706
+TFIM,Fresh-mask MC,45,alpha,OOD,fitted,0.4802998499768433
+TFIM,Fresh-mask MC,45,alpha,OOD,fixed,0.6684008416458862
+TFIM,Fresh-mask MC,45,cov90_err,ID,fitted,0.0926956300813007
+TFIM,Fresh-mask MC,45,cov90_err,ID,fixed,0.071633638211382
+TFIM,Fresh-mask MC,45,cov90_err,OOD,fitted,0.2442893996247654
+TFIM,Fresh-mask MC,45,cov90_err,OOD,fixed,0.2957850609756097
+TFIM,Fresh-mask MC,45,energy_drift,,,0.09928147900057
+TFIM,Fresh-mask MC,45,g_nll,ID,fitted,-2.2561785770804823
+TFIM,Fresh-mask MC,45,g_nll,ID,fixed,-2.363321064780449
+TFIM,Fresh-mask MC,45,g_nll,OOD,fitted,3.413975181249448
+TFIM,Fresh-mask MC,45,g_nll,OOD,fixed,5.729393888090784
+TFIM,Fresh-mask MC,45,ic_noise_scale,,fitted,0.15
+TFIM,Fresh-mask MC,45,norm_drift,,,0.0385984341512786
+TFIM,Fresh-mask MC,45,state_rmse,ID,,0.0200561536566938
+TFIM,Fresh-mask MC,45,state_rmse,OOD,,0.083347751892741
+TFIM,Fresh-mask MC,45,var_alea,ID,,0.0006670219119316
+TFIM,Fresh-mask MC,45,var_alea,OOD,,0.0006716458027654
+TFIM,Fresh-mask MC,45,var_epi,ID,,0.0006646879540177
+TFIM,Fresh-mask MC,45,var_epi,OOD,,0.0006207259672552
+TFIM,Fresh-mask MC,45,var_ratio,OOD,,0.9241864755194744
+TFIM,Fresh-mask MC,46,alpha,ID,fitted,0.6638302662139682
+TFIM,Fresh-mask MC,46,alpha,ID,fixed,0.6552338394712786
+TFIM,Fresh-mask MC,46,alpha,OOD,fitted,0.6444262237248967
+TFIM,Fresh-mask MC,46,alpha,OOD,fixed,0.6442348374813933
+TFIM,Fresh-mask MC,46,cov90_err,ID,fitted,0.0716209349593495
+TFIM,Fresh-mask MC,46,cov90_err,ID,fixed,0.0717352642276422
+TFIM,Fresh-mask MC,46,cov90_err,OOD,fitted,0.2690941604127579
+TFIM,Fresh-mask MC,46,cov90_err,OOD,fixed,0.270139540337711
+TFIM,Fresh-mask MC,46,energy_drift,,,0.0957899525798359
+TFIM,Fresh-mask MC,46,g_nll,ID,fitted,-2.397359776351648
+TFIM,Fresh-mask MC,46,g_nll,ID,fixed,-2.3980320723344333
+TFIM,Fresh-mask MC,46,g_nll,OOD,fitted,4.41058347342765
+TFIM,Fresh-mask MC,46,g_nll,OOD,fixed,4.375053135994061
+TFIM,Fresh-mask MC,46,ic_noise_scale,,fitted,0.0999999999999999
+TFIM,Fresh-mask MC,46,norm_drift,,,0.0361339994149098
+TFIM,Fresh-mask MC,46,state_rmse,ID,,0.0191696522104634
+TFIM,Fresh-mask MC,46,state_rmse,OOD,,0.0727417868337288
+TFIM,Fresh-mask MC,46,var_alea,ID,,0.0003012581041394
+TFIM,Fresh-mask MC,46,var_alea,OOD,,0.0003048388201775
+TFIM,Fresh-mask MC,46,var_epi,ID,,0.0005948906976774
+TFIM,Fresh-mask MC,46,var_epi,OOD,,0.0005524764277885
+TFIM,Fresh-mask MC,46,var_ratio,OOD,,1.8123558786469995
+TFIM,Fresh-mask MC,47,alpha,ID,fitted,0.4982099488713423
+TFIM,Fresh-mask MC,47,alpha,ID,fixed,0.6808208775602966
+TFIM,Fresh-mask MC,47,alpha,OOD,fitted,0.4779421150136677
+TFIM,Fresh-mask MC,47,alpha,OOD,fixed,0.6664032961595535
+TFIM,Fresh-mask MC,47,cov90_err,ID,fitted,0.0926575203252031
+TFIM,Fresh-mask MC,47,cov90_err,ID,fixed,0.0729547764227641
+TFIM,Fresh-mask MC,47,cov90_err,OOD,fitted,0.2339352720450281
+TFIM,Fresh-mask MC,47,cov90_err,OOD,fixed,0.2823475609756097
+TFIM,Fresh-mask MC,47,energy_drift,,,0.1002536966264541
+TFIM,Fresh-mask MC,47,g_nll,ID,fitted,-2.262120729296472
+TFIM,Fresh-mask MC,47,g_nll,ID,fixed,-2.3721804642704845
+TFIM,Fresh-mask MC,47,g_nll,OOD,fitted,2.4724556582944106
+TFIM,Fresh-mask MC,47,g_nll,OOD,fixed,4.3813237561677925
+TFIM,Fresh-mask MC,47,ic_noise_scale,,fitted,0.15
+TFIM,Fresh-mask MC,47,norm_drift,,,0.0374617267185342
+TFIM,Fresh-mask MC,47,state_rmse,ID,,0.0195874728508532
+TFIM,Fresh-mask MC,47,state_rmse,OOD,,0.0752445700367213
+TFIM,Fresh-mask MC,47,var_alea,ID,,0.0006665641013905
+TFIM,Fresh-mask MC,47,var_alea,OOD,,0.0006657486048008
+TFIM,Fresh-mask MC,47,var_epi,ID,,0.0006618083920282
+TFIM,Fresh-mask MC,47,var_epi,OOD,,0.0006094904519146
+TFIM,Fresh-mask MC,47,var_ratio,OOD,,0.9154964013735382
+TFIM,Fresh-mask MC,48,alpha,ID,fitted,0.6714328113083433
+TFIM,Fresh-mask MC,48,alpha,ID,fixed,0.6696240970458558
+TFIM,Fresh-mask MC,48,alpha,OOD,fitted,0.6558697064734271
+TFIM,Fresh-mask MC,48,alpha,OOD,fixed,0.6571489507936729
+TFIM,Fresh-mask MC,48,cov90_err,ID,fitted,0.0720401422764226
+TFIM,Fresh-mask MC,48,cov90_err,ID,fixed,0.071659044715447
+TFIM,Fresh-mask MC,48,cov90_err,OOD,fitted,0.2844893292682926
+TFIM,Fresh-mask MC,48,cov90_err,OOD,fixed,0.2846030722326454
+TFIM,Fresh-mask MC,48,energy_drift,,,0.0973150858462478
+TFIM,Fresh-mask MC,48,g_nll,ID,fitted,-2.3886183988977745
+TFIM,Fresh-mask MC,48,g_nll,ID,fixed,-2.390119760837925
+TFIM,Fresh-mask MC,48,g_nll,OOD,fitted,4.90700045091531
+TFIM,Fresh-mask MC,48,g_nll,OOD,fixed,4.885242977850428
+TFIM,Fresh-mask MC,48,ic_noise_scale,,fitted,0.0999999999999999
+TFIM,Fresh-mask MC,48,norm_drift,,,0.0361825302298704
+TFIM,Fresh-mask MC,48,state_rmse,ID,,0.0191481708939774
+TFIM,Fresh-mask MC,48,state_rmse,OOD,,0.0756110858134624
+TFIM,Fresh-mask MC,48,var_alea,ID,,0.000305702536228
+TFIM,Fresh-mask MC,48,var_alea,OOD,,0.0003071647247333
+TFIM,Fresh-mask MC,48,var_epi,ID,,0.0006247084930817
+TFIM,Fresh-mask MC,48,var_epi,OOD,,0.0005854179118767
+TFIM,Fresh-mask MC,48,var_ratio,OOD,,1.9058761138178684
+TFIM,Fresh-mask MC,49,alpha,ID,fitted,0.6824880855796139
+TFIM,Fresh-mask MC,49,alpha,ID,fixed,0.683380903862741
+TFIM,Fresh-mask MC,49,alpha,OOD,fitted,0.6632951038770609
+TFIM,Fresh-mask MC,49,alpha,OOD,fixed,0.662545129010504
+TFIM,Fresh-mask MC,49,cov90_err,ID,fitted,0.0688135162601625
+TFIM,Fresh-mask MC,49,cov90_err,ID,fixed,0.0681148373983739
+TFIM,Fresh-mask MC,49,cov90_err,OOD,fitted,0.2861784709193246
+TFIM,Fresh-mask MC,49,cov90_err,OOD,fixed,0.2855235694183864
+TFIM,Fresh-mask MC,49,energy_drift,,,0.0997870644765009
+TFIM,Fresh-mask MC,49,g_nll,ID,fitted,-2.3486153454247107
+TFIM,Fresh-mask MC,49,g_nll,ID,fixed,-2.348589187257258
+TFIM,Fresh-mask MC,49,g_nll,OOD,fitted,5.06847271634991
+TFIM,Fresh-mask MC,49,g_nll,OOD,fixed,5.0231569467862185
+TFIM,Fresh-mask MC,49,ic_noise_scale,,fitted,0.0999999999999999
+TFIM,Fresh-mask MC,49,norm_drift,,,0.037702103345552
+TFIM,Fresh-mask MC,49,state_rmse,ID,,0.0205820379413021
+TFIM,Fresh-mask MC,49,state_rmse,OOD,,0.0778078334035525
+TFIM,Fresh-mask MC,49,var_alea,ID,,0.0003089152288293
+TFIM,Fresh-mask MC,49,var_alea,OOD,,0.0003080000768345
+TFIM,Fresh-mask MC,49,var_epi,ID,,0.0006640096120959
+TFIM,Fresh-mask MC,49,var_epi,OOD,,0.0006067477643198
+TFIM,Fresh-mask MC,49,var_ratio,OOD,,1.9699597823337736
+TFIM,Fresh-mask MC,50,alpha,ID,fitted,0.6952858625399494
+TFIM,Fresh-mask MC,50,alpha,ID,fixed,0.694687573401167
+TFIM,Fresh-mask MC,50,alpha,OOD,fitted,0.6754669362231049
+TFIM,Fresh-mask MC,50,alpha,OOD,fixed,0.6758142374862462
+TFIM,Fresh-mask MC,50,cov90_err,ID,fitted,0.0737931910569105
+TFIM,Fresh-mask MC,50,cov90_err,ID,fixed,0.0745299796747966
+TFIM,Fresh-mask MC,50,cov90_err,OOD,fitted,0.2708243433395872
+TFIM,Fresh-mask MC,50,cov90_err,OOD,fixed,0.2711075281425891
+TFIM,Fresh-mask MC,50,energy_drift,,,0.102157190466678
+TFIM,Fresh-mask MC,50,g_nll,ID,fitted,-2.361029143282652
+TFIM,Fresh-mask MC,50,g_nll,ID,fixed,-2.363640878022108
+TFIM,Fresh-mask MC,50,g_nll,OOD,fitted,3.644872205532313
+TFIM,Fresh-mask MC,50,g_nll,OOD,fixed,3.653748023564856
+TFIM,Fresh-mask MC,50,ic_noise_scale,,fitted,0.0999999999999999
+TFIM,Fresh-mask MC,50,norm_drift,,,0.0397964753335577
+TFIM,Fresh-mask MC,50,state_rmse,ID,,0.0194248972513093
+TFIM,Fresh-mask MC,50,state_rmse,OOD,,0.07273550048637
+TFIM,Fresh-mask MC,50,var_alea,ID,,0.0003062726488748
+TFIM,Fresh-mask MC,50,var_alea,OOD,,0.0003083878193526
+TFIM,Fresh-mask MC,50,var_epi,ID,,0.0006988420183598
+TFIM,Fresh-mask MC,50,var_epi,OOD,,0.000641863029555
+TFIM,Fresh-mask MC,50,var_ratio,OOD,,2.0813501353669914
+TFIM,Fresh-mask MC,51,alpha,ID,fitted,0.2622539375184584
+TFIM,Fresh-mask MC,51,alpha,ID,fixed,0.6716170310744916
+TFIM,Fresh-mask MC,51,alpha,OOD,fitted,0.2281307951934699
+TFIM,Fresh-mask MC,51,alpha,OOD,fixed,0.6320881679845006
+TFIM,Fresh-mask MC,51,cov90_err,ID,fitted,0.098246951219512
+TFIM,Fresh-mask MC,51,cov90_err,ID,fixed,0.0620807926829267
+TFIM,Fresh-mask MC,51,cov90_err,OOD,fitted,0.0672426125703564
+TFIM,Fresh-mask MC,51,cov90_err,OOD,fixed,0.198108583489681
+TFIM,Fresh-mask MC,51,energy_drift,,,0.1003386008111707
+TFIM,Fresh-mask MC,51,g_nll,ID,fitted,-2.0021256223369965
+TFIM,Fresh-mask MC,51,g_nll,ID,fixed,-2.3378299155099307
+TFIM,Fresh-mask MC,51,g_nll,OOD,fitted,-1.5073842796282664
+TFIM,Fresh-mask MC,51,g_nll,OOD,fixed,-1.043048090503655
+TFIM,Fresh-mask MC,51,ic_noise_scale,,fitted,0.2499999999999999
+TFIM,Fresh-mask MC,51,norm_drift,,,0.0354446413610173
+TFIM,Fresh-mask MC,51,state_rmse,ID,,0.0216322301575029
+TFIM,Fresh-mask MC,51,state_rmse,OOD,,0.0477025572126104
+TFIM,Fresh-mask MC,51,var_alea,ID,,0.0017567307814808
+TFIM,Fresh-mask MC,51,var_alea,OOD,,0.0017565284731198
+TFIM,Fresh-mask MC,51,var_epi,ID,,0.0006244825801625
+TFIM,Fresh-mask MC,51,var_epi,OOD,,0.0005191530311838
+TFIM,Fresh-mask MC,51,var_ratio,OOD,,0.2955562856671438
+TFIM,Variational,42,alpha,ID,fitted,0.5888284842341412
+TFIM,Variational,42,alpha,ID,fixed,0.9777781151582302
+TFIM,Variational,42,alpha,OOD,fitted,0.5687815003994424
+TFIM,Variational,42,alpha,OOD,fixed,0.9733407184021908
+TFIM,Variational,42,cov90_err,ID,fitted,0.0096011178861788
+TFIM,Variational,42,cov90_err,ID,fixed,0.086915650406504
+TFIM,Variational,42,cov90_err,OOD,fitted,0.0875416275797373
+TFIM,Variational,42,cov90_err,OOD,fixed,0.2591023686679174
+TFIM,Variational,42,energy_drift,,,0.8408193846043683
+TFIM,Variational,42,g_nll,ID,fitted,-0.6200313726514387
+TFIM,Variational,42,g_nll,ID,fixed,-0.6832595621083162
+TFIM,Variational,42,g_nll,OOD,fitted,-0.3070927704300756
+TFIM,Variational,42,g_nll,OOD,fixed,0.3979337508045677
+TFIM,Variational,42,ic_noise_scale,,fitted,0.6
+TFIM,Variational,42,norm_drift,,,0.3636291686848003
+TFIM,Variational,42,state_rmse,ID,,0.1429160248046044
+TFIM,Variational,42,state_rmse,OOD,,0.17249128669068
+TFIM,Variational,42,var_alea,ID,,0.0080639311232045
+TFIM,Variational,42,var_alea,OOD,,0.0078471019891142
+TFIM,Variational,42,var_epi,ID,,0.0115481548652531
+TFIM,Variational,42,var_epi,OOD,,0.0103504057624852
+TFIM,Variational,42,var_ratio,OOD,,1.3190099704124734
+TFIM,Variational,43,alpha,ID,fitted,0.5799406780562463
+TFIM,Variational,43,alpha,ID,fixed,0.97546022128018
+TFIM,Variational,43,alpha,OOD,fitted,0.5644325354568384
+TFIM,Variational,43,alpha,OOD,fixed,0.971979670283774
+TFIM,Variational,43,cov90_err,ID,fitted,0.012868394308943
+TFIM,Variational,43,cov90_err,ID,fixed,0.1190421747967479
+TFIM,Variational,43,cov90_err,OOD,fitted,0.0862013367729831
+TFIM,Variational,43,cov90_err,OOD,fixed,0.2568480300187617
+TFIM,Variational,43,energy_drift,,,0.6371104579640448
+TFIM,Variational,43,g_nll,ID,fitted,-0.5999141062841734
+TFIM,Variational,43,g_nll,ID,fixed,-0.5642107384805976
+TFIM,Variational,43,g_nll,OOD,fitted,-0.3039413588540206
+TFIM,Variational,43,g_nll,OOD,fixed,0.3952813103328123
+TFIM,Variational,43,ic_noise_scale,,fitted,0.6
+TFIM,Variational,43,norm_drift,,,0.2537698920796656
+TFIM,Variational,43,state_rmse,ID,,0.1487289461277721
+TFIM,Variational,43,state_rmse,OOD,,0.1723604124393883
+TFIM,Variational,43,var_alea,ID,,0.0080365821852802
+TFIM,Variational,43,var_alea,OOD,,0.0079027114648127
+TFIM,Variational,43,var_epi,ID,,0.0110954350452678
+TFIM,Variational,43,var_epi,OOD,,0.0102407728587958
+TFIM,Variational,43,var_ratio,OOD,,1.2958555939177756
+TFIM,Variational,44,alpha,ID,fitted,0.6041323792032792
+TFIM,Variational,44,alpha,ID,fixed,0.9758453688781936
+TFIM,Variational,44,alpha,OOD,fitted,0.5838502955775854
+TFIM,Variational,44,alpha,OOD,fixed,0.9722807124545012
+TFIM,Variational,44,cov90_err,ID,fitted,0.035060975609756
+TFIM,Variational,44,cov90_err,ID,fixed,0.1316056910569105
+TFIM,Variational,44,cov90_err,OOD,fitted,0.120670145403377
+TFIM,Variational,44,cov90_err,OOD,fixed,0.27515537054409
+TFIM,Variational,44,energy_drift,,,0.648209720798122
+TFIM,Variational,44,g_nll,ID,fitted,-0.5921090040016594
+TFIM,Variational,44,g_nll,ID,fixed,-0.5954704191499816
+TFIM,Variational,44,g_nll,OOD,fitted,-0.205074134681731
+TFIM,Variational,44,g_nll,OOD,fixed,0.5274495152140267
+TFIM,Variational,44,ic_noise_scale,,fitted,0.5499999999999999
+TFIM,Variational,44,norm_drift,,,0.2527665559975276
+TFIM,Variational,44,state_rmse,ID,,0.1475916975845112
+TFIM,Variational,44,state_rmse,OOD,,0.1757107444190257
+TFIM,Variational,44,var_alea,ID,,0.0069328188985416
+TFIM,Variational,44,var_alea,OOD,,0.006931186500246
+TFIM,Variational,44,var_epi,ID,,0.0105801539598818
+TFIM,Variational,44,var_epi,OOD,,0.0097243257507263
+TFIM,Variational,44,var_ratio,OOD,,1.402981401579816
+TFIM,Variational,45,alpha,ID,fitted,0.6046225453456412
+TFIM,Variational,45,alpha,ID,fixed,0.9748970678598118
+TFIM,Variational,45,alpha,OOD,fitted,0.5589987464111374
+TFIM,Variational,45,alpha,OOD,fixed,0.9722010506817448
+TFIM,Variational,45,cov90_err,ID,fitted,0.0192479674796747
+TFIM,Variational,45,cov90_err,ID,fixed,0.1553099593495935
+TFIM,Variational,45,cov90_err,OOD,fitted,0.0982821294559099
+TFIM,Variational,45,cov90_err,OOD,fixed,0.2754602485928705
+TFIM,Variational,45,energy_drift,,,0.8951088855566581
+TFIM,Variational,45,g_nll,ID,fitted,-0.5631536252872894
+TFIM,Variational,45,g_nll,ID,fixed,-0.5003166904417348
+TFIM,Variational,45,g_nll,OOD,fitted,-0.2531580813511138
+TFIM,Variational,45,g_nll,OOD,fixed,0.5794268935681296
+TFIM,Variational,45,ic_noise_scale,,fitted,0.6
+TFIM,Variational,45,norm_drift,,,0.3640689353093988
+TFIM,Variational,45,state_rmse,ID,,0.1520043369168189
+TFIM,Variational,45,state_rmse,OOD,,0.174829462239793
+TFIM,Variational,45,var_alea,ID,,0.0078906481913755
+TFIM,Variational,45,var_alea,OOD,,0.0079055906412841
+TFIM,Variational,45,var_epi,ID,,0.0120666055632007
+TFIM,Variational,45,var_epi,OOD,,0.0100208677915402
+TFIM,Variational,45,var_ratio,OOD,,1.2675672503468254
+TFIM,Variational,46,alpha,ID,fitted,0.6000266892155195
+TFIM,Variational,46,alpha,ID,fixed,0.9780994902997254
+TFIM,Variational,46,alpha,OOD,fitted,0.5732809011373667
+TFIM,Variational,46,alpha,OOD,fixed,0.9746950328917292
+TFIM,Variational,46,cov90_err,ID,fitted,0.0148196138211381
+TFIM,Variational,46,cov90_err,ID,fixed,0.111305894308943
+TFIM,Variational,46,cov90_err,OOD,fitted,0.0818216463414633
+TFIM,Variational,46,cov90_err,OOD,fixed,0.2435037523452157
+TFIM,Variational,46,energy_drift,,,0.7634105778635711
+TFIM,Variational,46,g_nll,ID,fitted,-0.5889496950591717
+TFIM,Variational,46,g_nll,ID,fixed,-0.6054164552580503
+TFIM,Variational,46,g_nll,OOD,fitted,-0.3186208347310451
+TFIM,Variational,46,g_nll,OOD,fixed,0.2980666103380805
+TFIM,Variational,46,ic_noise_scale,,fitted,0.6
+TFIM,Variational,46,norm_drift,,,0.3106403184914463
+TFIM,Variational,46,state_rmse,ID,,0.1496734838370622
+TFIM,Variational,46,state_rmse,OOD,,0.1728692982706058
+TFIM,Variational,46,var_alea,ID,,0.007976736949332
+TFIM,Variational,46,var_alea,OOD,,0.0079370006051477
+TFIM,Variational,46,var_epi,ID,,0.0119664360931068
+TFIM,Variational,46,var_epi,OOD,,0.0106630588398193
+TFIM,Variational,46,var_ratio,OOD,,1.3434620167350737
+TFIM,Variational,47,alpha,ID,fitted,0.6009546914281959
+TFIM,Variational,47,alpha,ID,fixed,0.976305695150579
+TFIM,Variational,47,alpha,OOD,fitted,0.5656109118847128
+TFIM,Variational,47,alpha,OOD,fixed,0.973321185905102
+TFIM,Variational,47,cov90_err,ID,fitted,0.0199593495934958
+TFIM,Variational,47,cov90_err,ID,fixed,0.1255970528455284
+TFIM,Variational,47,cov90_err,OOD,fitted,0.0878787523452157
+TFIM,Variational,47,cov90_err,OOD,fixed,0.2527057926829267
+TFIM,Variational,47,energy_drift,,,0.6908121838955893
+TFIM,Variational,47,g_nll,ID,fitted,-0.6106366483628638
+TFIM,Variational,47,g_nll,ID,fixed,-0.5838892237718654
+TFIM,Variational,47,g_nll,OOD,fitted,-0.3052865087573506
+TFIM,Variational,47,g_nll,OOD,fixed,0.3426601796001978
+TFIM,Variational,47,ic_noise_scale,,fitted,0.6
+TFIM,Variational,47,norm_drift,,,0.2727481852609994
+TFIM,Variational,47,state_rmse,ID,,0.1486640039360148
+TFIM,Variational,47,state_rmse,OOD,,0.1717358322072165
+TFIM,Variational,47,var_alea,ID,,0.0079179904783711
+TFIM,Variational,47,var_alea,OOD,,0.0078902700568315
+TFIM,Variational,47,var_epi,ID,,0.0119243439841235
+TFIM,Variational,47,var_epi,OOD,,0.0102737913174207
+TFIM,Variational,47,var_ratio,OOD,,1.302083609739753
+TFIM,Variational,48,alpha,ID,fitted,0.5946534101111224
+TFIM,Variational,48,alpha,ID,fixed,0.9768631878534392
+TFIM,Variational,48,alpha,OOD,fitted,0.5641818019119724
+TFIM,Variational,48,alpha,OOD,fixed,0.9740091273835066
+TFIM,Variational,48,cov90_err,ID,fitted,0.0099415650406503
+TFIM,Variational,48,cov90_err,ID,fixed,0.1189659552845528
+TFIM,Variational,48,cov90_err,OOD,fitted,0.0948639774859286
+TFIM,Variational,48,cov90_err,OOD,fixed,0.2633266885553471
+TFIM,Variational,48,energy_drift,,,0.8413303129002307
+TFIM,Variational,48,g_nll,ID,fitted,-0.622470246594259
+TFIM,Variational,48,g_nll,ID,fixed,-0.5909910057274792
+TFIM,Variational,48,g_nll,OOD,fitted,-0.2878509035991144
+TFIM,Variational,48,g_nll,OOD,fixed,0.4724875025323209
+TFIM,Variational,48,ic_noise_scale,,fitted,0.6
+TFIM,Variational,48,norm_drift,,,0.3507389174371551
+TFIM,Variational,48,state_rmse,ID,,0.150538752933259
+TFIM,Variational,48,state_rmse,OOD,,0.173454961069406
+TFIM,Variational,48,var_alea,ID,,0.0079140317677689
+TFIM,Variational,48,var_alea,OOD,,0.0079276686891448
+TFIM,Variational,48,var_epi,ID,,0.0116100791170383
+TFIM,Variational,48,var_epi,OOD,,0.0102626426010312
+TFIM,Variational,48,var_ratio,OOD,,1.294534749551733
+TFIM,Variational,49,alpha,ID,fitted,0.5859206665279029
+TFIM,Variational,49,alpha,ID,fixed,0.9756727218956224
+TFIM,Variational,49,alpha,OOD,fitted,0.5451286940330032
+TFIM,Variational,49,alpha,OOD,fixed,0.972179698303602
+TFIM,Variational,49,cov90_err,ID,fitted,0.0092225609756096
+TFIM,Variational,49,cov90_err,ID,fixed,0.1147865853658536
+TFIM,Variational,49,cov90_err,OOD,fitted,0.1038784005628517
+TFIM,Variational,49,cov90_err,OOD,fixed,0.2671699108818011
+TFIM,Variational,49,energy_drift,,,0.6377015660130946
+TFIM,Variational,49,g_nll,ID,fitted,-0.6334172711936201
+TFIM,Variational,49,g_nll,ID,fixed,-0.6738901849830747
+TFIM,Variational,49,g_nll,OOD,fitted,-0.2499807647650572
+TFIM,Variational,49,g_nll,OOD,fixed,0.4993647676416733
+TFIM,Variational,49,ic_noise_scale,,fitted,0.6
+TFIM,Variational,49,norm_drift,,,0.233500258650871
+TFIM,Variational,49,state_rmse,ID,,0.1420686449532452
+TFIM,Variational,49,state_rmse,OOD,,0.1738504949080593
+TFIM,Variational,49,var_alea,ID,,0.0078740252768537
+TFIM,Variational,49,var_alea,OOD,,0.0079103251844642
+TFIM,Variational,49,var_epi,ID,,0.0111417155253476
+TFIM,Variational,49,var_epi,OOD,,0.009479923619311
+TFIM,Variational,49,var_ratio,OOD,,1.1984240089054
+TFIM,Variational,50,alpha,ID,fitted,0.6090359598276099
+TFIM,Variational,50,alpha,ID,fixed,0.976162289349404
+TFIM,Variational,50,alpha,OOD,fitted,0.5729956173264802
+TFIM,Variational,50,alpha,OOD,fixed,0.9749760778868548
+TFIM,Variational,50,cov90_err,ID,fitted,0.017278963414634
+TFIM,Variational,50,cov90_err,ID,fixed,0.0979801829268292
+TFIM,Variational,50,cov90_err,OOD,fitted,0.0801483348968104
+TFIM,Variational,50,cov90_err,OOD,fixed,0.2410324812382739
+TFIM,Variational,50,energy_drift,,,0.6738956150423736
+TFIM,Variational,50,g_nll,ID,fitted,-0.6539127542842295
+TFIM,Variational,50,g_nll,ID,fixed,-0.6867932883706445
+TFIM,Variational,50,g_nll,OOD,fitted,-0.3384369477447324
+TFIM,Variational,50,g_nll,OOD,fixed,0.322880572156574
+TFIM,Variational,50,ic_noise_scale,,fitted,0.6
+TFIM,Variational,50,norm_drift,,,0.2575565416981334
+TFIM,Variational,50,state_rmse,ID,,0.1406261343970159
+TFIM,Variational,50,state_rmse,OOD,,0.1711029835611033
+TFIM,Variational,50,var_alea,ID,,0.0078563347812713
+TFIM,Variational,50,var_alea,OOD,,0.0078543292495322
+TFIM,Variational,50,var_epi,ID,,0.0122384411418729
+TFIM,Variational,50,var_epi,OOD,,0.0105396956556817
+TFIM,Variational,50,var_ratio,OOD,,1.341896337782047
+TFIM,Variational,51,alpha,ID,fitted,0.626066270884397
+TFIM,Variational,51,alpha,ID,fixed,0.9797914743712114
+TFIM,Variational,51,alpha,OOD,fitted,0.577356684366912
+TFIM,Variational,51,alpha,OOD,fixed,0.9758451801239526
+TFIM,Variational,51,cov90_err,ID,fitted,0.0155564024390243
+TFIM,Variational,51,cov90_err,ID,fixed,0.0901803861788617
+TFIM,Variational,51,cov90_err,OOD,fitted,0.0837699343339586
+TFIM,Variational,51,cov90_err,OOD,fixed,0.2417770872420262
+TFIM,Variational,51,energy_drift,,,0.6318774302768504
+TFIM,Variational,51,g_nll,ID,fitted,-0.6234733525041063
+TFIM,Variational,51,g_nll,ID,fixed,-0.7003790481896193
+TFIM,Variational,51,g_nll,OOD,fitted,-0.3050842811450532
+TFIM,Variational,51,g_nll,OOD,fixed,0.3235148049197288
+TFIM,Variational,51,ic_noise_scale,,fitted,0.6
+TFIM,Variational,51,norm_drift,,,0.2549258914739337
+TFIM,Variational,51,state_rmse,ID,,0.1450064247596139
+TFIM,Variational,51,state_rmse,OOD,,0.1725619348862203
+TFIM,Variational,51,var_alea,ID,,0.0080203342461163
+TFIM,Variational,51,var_alea,OOD,,0.0078957132782719
+TFIM,Variational,51,var_epi,ID,,0.0134282102996922
+TFIM,Variational,51,var_epi,OOD,,0.0107860284794197
+TFIM,Variational,51,var_ratio,OOD,,1.366061316980904

@@ -1,0 +1,2462 @@
+system,arm,seed,quantity,split,convention,value
+CP,Concrete,42,alpha,ID,fitted,0.0086375096063832
+CP,Concrete,42,alpha,OOD,fitted,0.0427536133832402
+CP,Concrete,42,cov90_err,ID,fitted,0.0206458296094622
+CP,Concrete,42,cov90_err,ID,fixed,0.235235127380916
+CP,Concrete,42,cov90_err,OOD,fitted,0.3620555539925894
+CP,Concrete,42,cov90_err,OOD,fixed,0.5602499981721242
+CP,Concrete,42,g_nll,ID,fitted,0.2779474716101374
+CP,Concrete,42,g_nll,ID,fixed,1.1063358443123954
+CP,Concrete,42,g_nll,OOD,fitted,3.986060380935669
+CP,Concrete,42,g_nll,OOD,fixed,13.34701943397522
+CP,Concrete,42,h_drift,,,0.1238359168171882
+CP,Concrete,42,h_drift_final,,,0.1410166144371032
+CP,Concrete,42,ic_noise_scale,,fitted,0.2888612608478387
+CP,Concrete,42,mask_variance,ID,,0.0008151296863882
+CP,Concrete,42,mask_variance,OOD,,0.0054428776552489
+CP,Concrete,42,mse,ID,,0.1217895895242691
+CP,Concrete,42,mse,OOD,,1.0478801727294922
+CP,Concrete,42,nll_masks_only,ID,,3.251709601708821
+CP,Concrete,42,nll_masks_only,OOD,,27.38505458831787
+CP,Concrete,42,phys_e_drift,ID,,0.1380356926205511
+CP,Concrete,42,phys_e_drift,OOD,,0.806378553080975
+CP,Concrete,42,spearman_rho,OOD,,0.8285714285714287
+CP,Concrete,42,var_alea,ID,,0.1081190602109698
+CP,Concrete,42,var_alea,OOD,,0.145042541604483
+CP,Concrete,42,var_epi,ID,,0.000942016094269
+CP,Concrete,42,var_epi,OOD,,0.0064780529178046
+CP,Concrete,42,var_ratio,OOD,,0.044663123288819
+CP,Concrete,43,alpha,ID,fitted,0.0099960461266068
+CP,Concrete,43,alpha,OOD,fitted,0.0459372635406025
+CP,Concrete,43,cov90_err,ID,fitted,0.0159672651972089
+CP,Concrete,43,cov90_err,ID,fixed,0.2412916617734091
+CP,Concrete,43,cov90_err,OOD,fitted,0.3412569453318914
+CP,Concrete,43,cov90_err,OOD,fixed,0.5515277773141861
+CP,Concrete,43,g_nll,ID,fitted,0.2764667929815395
+CP,Concrete,43,g_nll,ID,fixed,1.095788110579763
+CP,Concrete,43,g_nll,OOD,fitted,3.648874302705129
+CP,Concrete,43,g_nll,OOD,fixed,12.782702763875326
+CP,Concrete,43,h_drift,,,0.1313598901033401
+CP,Concrete,43,h_drift_final,,,0.150633855164051
+CP,Concrete,43,ic_noise_scale,,fitted,0.2964361313942476
+CP,Concrete,43,mask_variance,ID,,0.0009256361456042
+CP,Concrete,43,mask_variance,OOD,,0.0055971399533672
+CP,Concrete,43,mse,ID,,0.1190403795668057
+CP,Concrete,43,mse,OOD,,0.9619810183842976
+CP,Concrete,43,nll_masks_only,ID,,3.097312538751534
+CP,Concrete,43,nll_masks_only,OOD,,25.18981186548869
+CP,Concrete,43,phys_e_drift,ID,,0.1525994853983926
+CP,Concrete,43,phys_e_drift,OOD,,0.7978331323577542
+CP,Concrete,43,spearman_rho,OOD,,0.942857142857143
+CP,Concrete,43,var_alea,ID,,0.1118244197059884
+CP,Concrete,43,var_alea,OOD,,0.1334071982215816
+CP,Concrete,43,var_epi,ID,,0.0011290884779689
+CP,Concrete,43,var_epi,OOD,,0.0064234367287638
+CP,Concrete,43,var_ratio,OOD,,0.048149101505714
+CP,Concrete,44,alpha,ID,fitted,0.0088835172221084
+CP,Concrete,44,alpha,OOD,fitted,0.0456236713306709
+CP,Concrete,44,cov90_err,ID,fitted,0.0155208264078412
+CP,Concrete,44,cov90_err,ID,fixed,0.2441428456987653
+CP,Concrete,44,cov90_err,OOD,fitted,0.3419236133495966
+CP,Concrete,44,cov90_err,OOD,fixed,0.5540034761031468
+CP,Concrete,44,g_nll,ID,fitted,0.2770875317177602
+CP,Concrete,44,g_nll,ID,fixed,1.1401705775143844
+CP,Concrete,44,g_nll,OOD,fitted,3.725953062375386
+CP,Concrete,44,g_nll,OOD,fixed,13.001172343889872
+CP,Concrete,44,h_drift,,,0.1276003718376159
+CP,Concrete,44,h_drift_final,,,0.156885826587677
+CP,Concrete,44,ic_noise_scale,,fitted,0.2945872778519852
+CP,Concrete,44,mask_variance,ID,,0.0007404947284716
+CP,Concrete,44,mask_variance,OOD,,0.0064494471081485
+CP,Concrete,44,mse,ID,,0.1131256430276802
+CP,Concrete,44,mse,OOD,,1.02931143840154
+CP,Concrete,44,nll_masks_only,ID,,3.297694616019726
+CP,Concrete,44,nll_masks_only,OOD,,25.78412310282389
+CP,Concrete,44,phys_e_drift,ID,,0.1354836596393933
+CP,Concrete,44,phys_e_drift,OOD,,0.7324799523561139
+CP,Concrete,44,spearman_rho,OOD,,0.8857142857142858
+CP,Concrete,44,var_alea,ID,,0.1130662605812637
+CP,Concrete,44,var_alea,OOD,,0.153670458958906
+CP,Concrete,44,var_epi,ID,,0.0010134288860759
+CP,Concrete,44,var_epi,OOD,,0.0073461697468438
+CP,Concrete,44,var_ratio,OOD,,0.0478046971201431
+CP,Concrete,45,alpha,ID,fitted,0.0090754434739452
+CP,Concrete,45,alpha,OOD,fitted,0.041089595534659
+CP,Concrete,45,cov90_err,ID,fitted,0.0125000034059796
+CP,Concrete,45,cov90_err,ID,fixed,0.2414702287742069
+CP,Concrete,45,cov90_err,OOD,fitted,0.3563923627138138
+CP,Concrete,45,cov90_err,OOD,fixed,0.5656909734010697
+CP,Concrete,45,g_nll,ID,fitted,0.2697406932711601
+CP,Concrete,45,g_nll,ID,fixed,1.1192566039306775
+CP,Concrete,45,g_nll,OOD,fitted,3.85688583056132
+CP,Concrete,45,g_nll,OOD,fixed,13.90221381187439
+CP,Concrete,45,h_drift,,,0.1201306656002998
+CP,Concrete,45,h_drift_final,,,0.1420013308525085
+CP,Concrete,45,ic_noise_scale,,fitted,0.2969114546388064
+CP,Concrete,45,mask_variance,ID,,0.0008048940439805
+CP,Concrete,45,mask_variance,OOD,,0.0041697230742517
+CP,Concrete,45,mse,ID,,0.1144782097211905
+CP,Concrete,45,mse,OOD,,1.048003653685252
+CP,Concrete,45,nll_masks_only,ID,,3.284658487354006
+CP,Concrete,45,nll_masks_only,OOD,,28.739794572194416
+CP,Concrete,45,phys_e_drift,ID,,0.1333071477823369
+CP,Concrete,45,phys_e_drift,OOD,,0.7298396154101295
+CP,Concrete,45,spearman_rho,OOD,,0.8857142857142858
+CP,Concrete,45,var_alea,ID,,0.1138920345013951
+CP,Concrete,45,var_alea,OOD,,0.1449247506964388
+CP,Concrete,45,var_epi,ID,,0.0010430872001736
+CP,Concrete,45,var_epi,OOD,,0.0062100685959271
+CP,Concrete,45,var_ratio,OOD,,0.0428502969029409
+CP,Concrete,46,alpha,ID,fitted,0.008368767453124
+CP,Concrete,46,alpha,OOD,fitted,0.0424376294083054
+CP,Concrete,46,cov90_err,ID,fitted,0.0120744006974357
+CP,Concrete,46,cov90_err,ID,fixed,0.2428482157843453
+CP,Concrete,46,cov90_err,OOD,fitted,0.3399201422929764
+CP,Concrete,46,cov90_err,OOD,fixed,0.5532465269168217
+CP,Concrete,46,g_nll,ID,fitted,0.2699220462569168
+CP,Concrete,46,g_nll,ID,fixed,1.0950268347348486
+CP,Concrete,46,g_nll,OOD,fitted,3.62263693412145
+CP,Concrete,46,g_nll,OOD,fixed,13.061440467834473
+CP,Concrete,46,h_drift,,,0.1243763640522956
+CP,Concrete,46,h_drift_final,,,0.1470039218664169
+CP,Concrete,46,ic_noise_scale,,fitted,0.2995658086054798
+CP,Concrete,46,mask_variance,ID,,0.0007208140587239
+CP,Concrete,46,mask_variance,OOD,,0.0063440288906379
+CP,Concrete,46,mse,ID,,0.1173044868877955
+CP,Concrete,46,mse,OOD,,1.00064151485761
+CP,Concrete,46,nll_masks_only,ID,,3.191518649458885
+CP,Concrete,46,nll_masks_only,OOD,,26.669562498728435
+CP,Concrete,46,phys_e_drift,ID,,0.1380293144533033
+CP,Concrete,46,phys_e_drift,OOD,,0.7928009136089543
+CP,Concrete,46,spearman_rho,OOD,,0.7142857142857143
+CP,Concrete,46,var_alea,ID,,0.1160772683853732
+CP,Concrete,46,var_alea,OOD,,0.1493546708282415
+CP,Concrete,46,var_epi,ID,,0.00097962189353
+CP,Concrete,46,var_epi,OOD,,0.0066191596136885
+CP,Concrete,46,var_ratio,OOD,,0.0443183971213102
+CP,Concrete,47,alpha,ID,fitted,0.0079893152720167
+CP,Concrete,47,alpha,OOD,fitted,0.0405295252216936
+CP,Concrete,47,cov90_err,ID,fitted,0.0154851147106716
+CP,Concrete,47,cov90_err,ID,fixed,0.2389493993350437
+CP,Concrete,47,cov90_err,OOD,fitted,0.3549895922342936
+CP,Concrete,47,cov90_err,OOD,fixed,0.5662118037541707
+CP,Concrete,47,g_nll,ID,fitted,0.2678337785016213
+CP,Concrete,47,g_nll,ID,fixed,1.0845195667019911
+CP,Concrete,47,g_nll,OOD,fitted,3.906811535358429
+CP,Concrete,47,g_nll,OOD,fixed,13.94847575823466
+CP,Concrete,47,h_drift,,,0.1172147244215011
+CP,Concrete,47,h_drift_final,,,0.1395248666405678
+CP,Concrete,47,ic_noise_scale,,fitted,0.2947340570835582
+CP,Concrete,47,mask_variance,ID,,0.0006897319922872
+CP,Concrete,47,mask_variance,OOD,,0.0055156824163208
+CP,Concrete,47,mse,ID,,0.1169505710048335
+CP,Concrete,47,mse,OOD,,1.0744369626045227
+CP,Concrete,47,nll_masks_only,ID,,3.219799429178238
+CP,Concrete,47,nll_masks_only,OOD,,28.21351846059164
+CP,Concrete,47,phys_e_drift,ID,,0.1325747971307055
+CP,Concrete,47,phys_e_drift,OOD,,0.8468366583431461
+CP,Concrete,47,spearman_rho,OOD,,0.942857142857143
+CP,Concrete,47,var_alea,ID,,0.1135864331942079
+CP,Concrete,47,var_alea,OOD,,0.1554911692743608
+CP,Concrete,47,var_epi,ID,,0.0009147863419044
+CP,Concrete,47,var_epi,OOD,,0.0065681888421965
+CP,Concrete,47,var_ratio,OOD,,0.042241555406964
+CP,Concrete,48,alpha,ID,fitted,0.0084273999612046
+CP,Concrete,48,alpha,OOD,fitted,0.0496589962909396
+CP,Concrete,48,cov90_err,ID,fitted,0.0166160787854876
+CP,Concrete,48,cov90_err,ID,fixed,0.238532737323216
+CP,Concrete,48,cov90_err,OOD,fitted,0.3535902788241705
+CP,Concrete,48,cov90_err,OOD,fixed,0.558819446961085
+CP,Concrete,48,g_nll,ID,fitted,0.2647171870672277
+CP,Concrete,48,g_nll,ID,fixed,1.0608766760144914
+CP,Concrete,48,g_nll,OOD,fitted,3.859626074632009
+CP,Concrete,48,g_nll,OOD,fixed,13.300718704859417
+CP,Concrete,48,h_drift,,,0.1288266032934188
+CP,Concrete,48,h_drift_final,,,0.1517701923847198
+CP,Concrete,48,ic_noise_scale,,fitted,0.2906771000076391
+CP,Concrete,48,mask_variance,ID,,0.0006774024046804
+CP,Concrete,48,mask_variance,OOD,,0.0061450231725633
+CP,Concrete,48,mse,ID,,0.1170197118605886
+CP,Concrete,48,mse,OOD,,1.0304598460594814
+CP,Concrete,48,nll_masks_only,ID,,3.185866600700787
+CP,Concrete,48,nll_masks_only,OOD,,27.2657437324524
+CP,Concrete,48,phys_e_drift,ID,,0.1321693443751273
+CP,Concrete,48,phys_e_drift,OOD,,0.8019487769206589
+CP,Concrete,48,spearman_rho,OOD,,0.8857142857142858
+CP,Concrete,48,var_alea,ID,,0.1105571593288783
+CP,Concrete,48,var_alea,OOD,,0.1492693819609837
+CP,Concrete,48,var_epi,ID,,0.0009396280213901
+CP,Concrete,48,var_epi,OOD,,0.0077999030413515
+CP,Concrete,48,var_ratio,OOD,,0.052253871081146
+CP,Concrete,49,alpha,ID,fitted,0.0097962542186843
+CP,Concrete,49,alpha,OOD,fitted,0.0477879856404912
+CP,Concrete,49,cov90_err,ID,fitted,0.019282739503043
+CP,Concrete,49,cov90_err,ID,fixed,0.2365773814065115
+CP,Concrete,49,cov90_err,OOD,fitted,0.3587916632493337
+CP,Concrete,49,cov90_err,OOD,fixed,0.5568507005771001
+CP,Concrete,49,g_nll,ID,fitted,0.2550900296441146
+CP,Concrete,49,g_nll,ID,fixed,1.0534410048276186
+CP,Concrete,49,g_nll,OOD,fitted,4.008790214856465
+CP,Concrete,49,g_nll,OOD,fixed,13.398226499557495
+CP,Concrete,49,h_drift,,,0.1229527950286865
+CP,Concrete,49,h_drift_final,,,0.1507534936070442
+CP,Concrete,49,ic_noise_scale,,fitted,0.2858941957230301
+CP,Concrete,49,mask_variance,ID,,0.000838414451883
+CP,Concrete,49,mask_variance,OOD,,0.005749488501983
+CP,Concrete,49,mse,ID,,0.1122564838400908
+CP,Concrete,49,mse,OOD,,1.0191595057646434
+CP,Concrete,49,nll_masks_only,ID,,3.146308068718229
+CP,Concrete,49,nll_masks_only,OOD,,26.68102566401164
+CP,Concrete,49,phys_e_drift,ID,,0.1349691070170791
+CP,Concrete,49,phys_e_drift,OOD,,0.7862391689822664
+CP,Concrete,49,spearman_rho,OOD,,0.942857142857143
+CP,Concrete,49,var_alea,ID,,0.1050113641434641
+CP,Concrete,49,var_alea,OOD,,0.1367382687235384
+CP,Concrete,49,var_epi,ID,,0.0010388953014801
+CP,Concrete,49,var_epi,OOD,,0.0068623860271931
+CP,Concrete,49,var_ratio,OOD,,0.0501862872131847
+CP,Concrete,50,alpha,ID,fitted,0.0082778330332503
+CP,Concrete,50,alpha,OOD,fitted,0.0438741925842205
+CP,Concrete,50,cov90_err,ID,fitted,0.0128630978720528
+CP,Concrete,50,cov90_err,ID,fixed,0.2374880935464585
+CP,Concrete,50,cov90_err,OOD,fitted,0.3599062452713648
+CP,Concrete,50,cov90_err,OOD,fixed,0.563197914759318
+CP,Concrete,50,g_nll,ID,fitted,0.2574651333436902
+CP,Concrete,50,g_nll,ID,fixed,1.073583456022399
+CP,Concrete,50,g_nll,OOD,fitted,3.839435656865438
+CP,Concrete,50,g_nll,OOD,fixed,13.39342737197876
+CP,Concrete,50,h_drift,,,0.1249432489275932
+CP,Concrete,50,h_drift_final,,,0.1528576344251632
+CP,Concrete,50,ic_noise_scale,,fitted,0.2942470093370072
+CP,Concrete,50,mask_variance,ID,,0.000824413130389
+CP,Concrete,50,mask_variance,OOD,,0.0085392455822961
+CP,Concrete,50,mse,ID,,0.1107944159635475
+CP,Concrete,50,mse,OOD,,1.0142176697651546
+CP,Concrete,50,nll_masks_only,ID,,3.1913454362324307
+CP,Concrete,50,nll_masks_only,OOD,,27.199647426605225
+CP,Concrete,50,phys_e_drift,ID,,0.1465495287743957
+CP,Concrete,50,phys_e_drift,OOD,,0.8324007832694472
+CP,Concrete,50,spearman_rho,OOD,,0.8857142857142858
+CP,Concrete,50,var_alea,ID,,0.1118326029368662
+CP,Concrete,50,var_alea,OOD,,0.1401523270396284
+CP,Concrete,50,var_epi,ID,,0.0009334586294633
+CP,Concrete,50,var_epi,OOD,,0.0064312354503672
+CP,Concrete,50,var_ratio,OOD,,0.0458874682012864
+CP,Concrete,51,alpha,ID,fitted,0.0085917698741056
+CP,Concrete,51,alpha,OOD,fitted,0.0480004277370728
+CP,Concrete,51,cov90_err,ID,fitted,0.0109642812183925
+CP,Concrete,51,cov90_err,ID,fixed,0.2352291626589638
+CP,Concrete,51,cov90_err,OOD,fitted,0.3540833483139673
+CP,Concrete,51,cov90_err,OOD,fixed,0.5563993096351624
+CP,Concrete,51,g_nll,ID,fitted,0.2534871551075152
+CP,Concrete,51,g_nll,ID,fixed,1.0811020508408546
+CP,Concrete,51,g_nll,OOD,fitted,3.917059640089671
+CP,Concrete,51,g_nll,OOD,fixed,13.394307057062784
+CP,Concrete,51,h_drift,,,0.120452119410038
+CP,Concrete,51,h_drift_final,,,0.1415638208389282
+CP,Concrete,51,ic_noise_scale,,fitted,0.2933488787156117
+CP,Concrete,51,mask_variance,ID,,0.0008242726751622
+CP,Concrete,51,mask_variance,OOD,,0.0058149066516908
+CP,Concrete,51,mse,ID,,0.1120191743331296
+CP,Concrete,51,mse,OOD,,1.0383690843979518
+CP,Concrete,51,nll_masks_only,ID,,3.2261285121951784
+CP,Concrete,51,nll_masks_only,OOD,,27.23171917597453
+CP,Concrete,51,phys_e_drift,ID,,0.1375593537188561
+CP,Concrete,51,phys_e_drift,OOD,,0.7885606080004
+CP,Concrete,51,spearman_rho,OOD,,0.6
+CP,Concrete,51,var_alea,ID,,0.112719846133273
+CP,Concrete,51,var_alea,OOD,,0.1464256788738759
+CP,Concrete,51,var_epi,ID,,0.0009768558993087
+CP,Concrete,51,var_epi,OOD,,0.0073828764449236
+CP,Concrete,51,var_ratio,OOD,,0.0504206400250524
+CP,Deep ensemble,42,alpha,ID,fitted,0.0184974644175355
+CP,Deep ensemble,42,alpha,OOD,fitted,0.4612445319023992
+CP,Deep ensemble,42,cov90_err,ID,fitted,0.0213988065719604
+CP,Deep ensemble,42,cov90_err,ID,fixed,0.2403214343956538
+CP,Deep ensemble,42,cov90_err,OOD,fitted,0.2837604025999705
+CP,Deep ensemble,42,cov90_err,OOD,fixed,0.437732645869255
+CP,Deep ensemble,42,g_nll,ID,fitted,0.2610812607620443
+CP,Deep ensemble,42,g_nll,ID,fixed,1.0834426230617933
+CP,Deep ensemble,42,g_nll,OOD,fitted,2.9482633074124656
+CP,Deep ensemble,42,g_nll,OOD,fixed,8.105685114860535
+CP,Deep ensemble,42,h_drift,,,0.004312797077000141
+CP,Deep ensemble,42,h_drift_final,,,0.0035862565273419023
+CP,Deep ensemble,42,ic_noise_scale,,fitted,0.2908934208394364
+CP,Deep ensemble,42,mask_variance,ID,,0.0014818677966101
+CP,Deep ensemble,42,mask_variance,OOD,,0.1003724745762711
+CP,Deep ensemble,42,mse,ID,,0.1154381845678601
+CP,Deep ensemble,42,mse,OOD,,1.035677467783292
+CP,Deep ensemble,42,nll_masks_only,ID,,6.937517115048
+CP,Deep ensemble,42,nll_masks_only,OOD,,21.41941459973653
+CP,Deep ensemble,42,phys_e_drift,ID,,0.1284497120200222
+CP,Deep ensemble,42,phys_e_drift,OOD,,0.8420301789355025
+CP,Deep ensemble,42,spearman_rho,OOD,,0.714286
+CP,Deep ensemble,42,var_alea,ID,,0.1092554150187121
+CP,Deep ensemble,42,var_alea,OOD,,0.1434973271849685
+CP,Deep ensemble,42,var_epi,ID,,0.0020590350798558
+CP,Deep ensemble,42,var_epi,OOD,,0.1228523169154837
+CP,Deep ensemble,42,var_ratio,OOD,,0.8561296529037554
+CP,Deterministic,42,cov90_err,ID,fitted,0.0403809445244925
+CP,Deterministic,42,cov90_err,ID,fixed,0.306068457024438
+CP,Deterministic,42,cov90_err,OOD,fitted,0.3725277771552404
+CP,Deterministic,42,cov90_err,OOD,fixed,0.6115208307902018
+CP,Deterministic,42,g_nll,ID,fitted,0.2753753765885319
+CP,Deterministic,42,g_nll,ID,fixed,1.361394353210926
+CP,Deterministic,42,g_nll,OOD,fitted,3.923176646232605
+CP,Deterministic,42,g_nll,OOD,fixed,18.53680332501729
+CP,Deterministic,42,h_drift,,,0.0042293459642678
+CP,Deterministic,42,h_drift_final,,,0.0032772490056231
+CP,Deterministic,42,ic_noise_scale,,fitted,0.2917984229432228
+CP,Deterministic,42,mask_variance,ID,,0.0
+CP,Deterministic,42,mask_variance,OOD,,0.0
+CP,Deterministic,42,mse,ID,,0.1181940223489489
+CP,Deterministic,42,mse,OOD,,1.1743573894103367
+CP,Deterministic,42,phys_e_drift,ID,,0.1223977848197832
+CP,Deterministic,42,phys_e_drift,OOD,,0.8177824887198021
+CP,Deterministic,42,var_alea,ID,,0.1113935381855819
+CP,Deterministic,42,var_alea,OOD,,0.2124847348296691
+CP,Deterministic,43,cov90_err,ID,fitted,0.0428452389580863
+CP,Deterministic,43,cov90_err,ID,fixed,0.3046517823423658
+CP,Deterministic,43,cov90_err,OOD,fitted,0.4112916628519694
+CP,Deterministic,43,cov90_err,OOD,fixed,0.6245208323001862
+CP,Deterministic,43,g_nll,ID,fitted,0.2728054007249219
+CP,Deterministic,43,g_nll,ID,fixed,1.3283132995877946
+CP,Deterministic,43,g_nll,OOD,fitted,4.2328863342603045
+CP,Deterministic,43,g_nll,OOD,fixed,19.836087067921955
+CP,Deterministic,43,h_drift,,,0.0042837630957365
+CP,Deterministic,43,h_drift_final,,,0.0035319169983267
+CP,Deterministic,43,ic_noise_scale,,fitted,0.2901345796348151
+CP,Deterministic,43,mask_variance,ID,,0.0
+CP,Deterministic,43,mask_variance,OOD,,0.0
+CP,Deterministic,43,mse,ID,,0.1179273793739932
+CP,Deterministic,43,mse,OOD,,1.1608044703801472
+CP,Deterministic,43,phys_e_drift,ID,,0.1272367637762637
+CP,Deterministic,43,phys_e_drift,OOD,,0.8010344643358667
+CP,Deterministic,43,var_alea,ID,,0.1094676628544439
+CP,Deterministic,43,var_alea,OOD,,0.1682247005494586
+CP,Deterministic,44,cov90_err,ID,fitted,0.044958325794765
+CP,Deterministic,44,cov90_err,ID,fixed,0.3142142789704459
+CP,Deterministic,44,cov90_err,OOD,fitted,0.3875555584828059
+CP,Deterministic,44,cov90_err,OOD,fixed,0.6179166674613953
+CP,Deterministic,44,g_nll,ID,fitted,0.2815767154596479
+CP,Deterministic,44,g_nll,ID,fixed,1.379468017390796
+CP,Deterministic,44,g_nll,OOD,fitted,3.966621657212576
+CP,Deterministic,44,g_nll,OOD,fixed,18.95327440897624
+CP,Deterministic,44,h_drift,,,0.0042805500794202
+CP,Deterministic,44,h_drift_final,,,0.003503663605079
+CP,Deterministic,44,ic_noise_scale,,fitted,0.2917567547127355
+CP,Deterministic,44,mask_variance,ID,,0.0
+CP,Deterministic,44,mask_variance,OOD,,0.0
+CP,Deterministic,44,mse,ID,,0.1183158137968608
+CP,Deterministic,44,mse,OOD,,1.1193327953418095
+CP,Deterministic,44,phys_e_drift,ID,,0.1229468728980442
+CP,Deterministic,44,phys_e_drift,OOD,,0.7912954135479164
+CP,Deterministic,44,var_alea,ID,,0.1112927883116149
+CP,Deterministic,44,var_alea,OOD,,0.1816980619744829
+CP,Deterministic,45,cov90_err,ID,fitted,0.0383690578596932
+CP,Deterministic,45,cov90_err,ID,fixed,0.3143273787839072
+CP,Deterministic,45,cov90_err,OOD,fitted,0.384826385974884
+CP,Deterministic,45,cov90_err,OOD,fixed,0.620885415871938
+CP,Deterministic,45,g_nll,ID,fitted,0.2797558684168117
+CP,Deterministic,45,g_nll,ID,fixed,1.413851304778031
+CP,Deterministic,45,g_nll,OOD,fitted,4.038286546866099
+CP,Deterministic,45,g_nll,OOD,fixed,20.782705068588257
+CP,Deterministic,45,h_drift,,,0.0042327147908508
+CP,Deterministic,45,h_drift_final,,,0.0032141929725185
+CP,Deterministic,45,ic_noise_scale,,fitted,0.2969992671663436
+CP,Deterministic,45,mask_variance,ID,,0.0
+CP,Deterministic,45,mask_variance,OOD,,0.0
+CP,Deterministic,45,mse,ID,,0.1171305355216775
+CP,Deterministic,45,mse,OOD,,1.353667289018631
+CP,Deterministic,45,phys_e_drift,ID,,0.1182947515566839
+CP,Deterministic,45,phys_e_drift,OOD,,1.0777346817471418
+CP,Deterministic,45,var_alea,ID,,0.1150369059498975
+CP,Deterministic,45,var_alea,OOD,,0.2357635606251401
+CP,Deterministic,46,cov90_err,ID,fitted,0.0430059501102992
+CP,Deterministic,46,cov90_err,ID,fixed,0.2984285678182329
+CP,Deterministic,46,cov90_err,OOD,fitted,0.4082569470008214
+CP,Deterministic,46,cov90_err,OOD,fixed,0.6223993043104807
+CP,Deterministic,46,g_nll,ID,fitted,0.2676260732114315
+CP,Deterministic,46,g_nll,ID,fixed,1.2847007209701198
+CP,Deterministic,46,g_nll,OOD,fitted,4.235573410987854
+CP,Deterministic,46,g_nll,OOD,fixed,19.434791167577107
+CP,Deterministic,46,h_drift,,,0.0043729761615395
+CP,Deterministic,46,h_drift_final,,,0.0039919453673064
+CP,Deterministic,46,ic_noise_scale,,fitted,0.2881878777854096
+CP,Deterministic,46,mask_variance,ID,,0.0
+CP,Deterministic,46,mask_variance,OOD,,0.0
+CP,Deterministic,46,mse,ID,,0.1168693761740412
+CP,Deterministic,46,mse,OOD,,1.1313089380661647
+CP,Deterministic,46,phys_e_drift,ID,,0.1313313174385665
+CP,Deterministic,46,phys_e_drift,OOD,,0.8155521632023812
+CP,Deterministic,46,var_alea,ID,,0.1088536206982853
+CP,Deterministic,46,var_alea,OOD,,0.1629119820387279
+CP,Deterministic,47,cov90_err,ID,fitted,0.0437351277896336
+CP,Deterministic,47,cov90_err,ID,fixed,0.3031726207051958
+CP,Deterministic,47,cov90_err,OOD,fitted,0.3891388813654581
+CP,Deterministic,47,cov90_err,OOD,fixed,0.6114131947358449
+CP,Deterministic,47,g_nll,ID,fitted,0.2667171390993254
+CP,Deterministic,47,g_nll,ID,fixed,1.3008362294307776
+CP,Deterministic,47,g_nll,OOD,fitted,4.236284673213959
+CP,Deterministic,47,g_nll,OOD,fixed,19.739085515340168
+CP,Deterministic,47,h_drift,,,0.0043377524241805
+CP,Deterministic,47,h_drift_final,,,0.0036872542463243
+CP,Deterministic,47,ic_noise_scale,,fitted,0.2872360377242615
+CP,Deterministic,47,mask_variance,ID,,0.0
+CP,Deterministic,47,mask_variance,OOD,,0.0
+CP,Deterministic,47,mse,ID,,0.1153102086058684
+CP,Deterministic,47,mse,OOD,,1.2150107075770695
+CP,Deterministic,47,phys_e_drift,ID,,0.1231873274383753
+CP,Deterministic,47,phys_e_drift,OOD,,0.8180240321287872
+CP,Deterministic,47,var_alea,ID,,0.1089528809190912
+CP,Deterministic,47,var_alea,OOD,,0.192954722770109
+CP,Deterministic,48,cov90_err,ID,fitted,0.0414553608213152
+CP,Deterministic,48,cov90_err,ID,fixed,0.3041071576731545
+CP,Deterministic,48,cov90_err,OOD,fitted,0.4168923685948054
+CP,Deterministic,48,cov90_err,OOD,fixed,0.6309618095556895
+CP,Deterministic,48,g_nll,ID,fitted,0.2712172597114529
+CP,Deterministic,48,g_nll,ID,fixed,1.3231702077069454
+CP,Deterministic,48,g_nll,OOD,fitted,4.92161242167155
+CP,Deterministic,48,g_nll,OOD,fixed,23.994908491770428
+CP,Deterministic,48,h_drift,,,0.0042512029875069
+CP,Deterministic,48,h_drift_final,,,0.0033979103900492
+CP,Deterministic,48,ic_noise_scale,,fitted,0.2901015709739288
+CP,Deterministic,48,mask_variance,ID,,0.0
+CP,Deterministic,48,mask_variance,OOD,,0.0
+CP,Deterministic,48,mse,ID,,0.1189716665872505
+CP,Deterministic,48,mse,OOD,,1.4239002962907157
+CP,Deterministic,48,phys_e_drift,ID,,0.1282261529483083
+CP,Deterministic,48,phys_e_drift,OOD,,1.1309179353693433
+CP,Deterministic,48,var_alea,ID,,0.1112050124278766
+CP,Deterministic,48,var_alea,OOD,,0.2060565320925583
+CP,Deterministic,49,cov90_err,ID,fitted,0.0460238099098205
+CP,Deterministic,49,cov90_err,ID,fixed,0.3062648798738207
+CP,Deterministic,49,cov90_err,OOD,fitted,0.3966562439997991
+CP,Deterministic,49,cov90_err,OOD,fixed,0.6117812534173329
+CP,Deterministic,49,g_nll,ID,fitted,0.2794603485880153
+CP,Deterministic,49,g_nll,ID,fixed,1.3366496967417854
+CP,Deterministic,49,g_nll,OOD,fitted,4.078698694705963
+CP,Deterministic,49,g_nll,OOD,fixed,18.963122606277462
+CP,Deterministic,49,h_drift,,,0.004251341568306
+CP,Deterministic,49,h_drift_final,,,0.0033662971807643
+CP,Deterministic,49,ic_noise_scale,,fitted,0.2921560564312409
+CP,Deterministic,49,mask_variance,ID,,0.0
+CP,Deterministic,49,mask_variance,OOD,,0.0
+CP,Deterministic,49,mse,ID,,0.1252165878457682
+CP,Deterministic,49,mse,OOD,,1.069648067156474
+CP,Deterministic,49,phys_e_drift,ID,,0.1220416294917572
+CP,Deterministic,49,phys_e_drift,OOD,,0.7687466779802788
+CP,Deterministic,49,var_alea,ID,,0.1110714034444364
+CP,Deterministic,49,var_alea,OOD,,0.1521804540369493
+CP,Deterministic,50,cov90_err,ID,fitted,0.0455238035746983
+CP,Deterministic,50,cov90_err,ID,fixed,0.3007440507411956
+CP,Deterministic,50,cov90_err,OOD,fitted,0.4284479161103566
+CP,Deterministic,50,cov90_err,OOD,fixed,0.6283159717917443
+CP,Deterministic,50,g_nll,ID,fitted,0.2737483045618449
+CP,Deterministic,50,g_nll,ID,fixed,1.310386625783784
+CP,Deterministic,50,g_nll,OOD,fitted,4.435322304566701
+CP,Deterministic,50,g_nll,OOD,fixed,20.32759189605713
+CP,Deterministic,50,h_drift,,,0.004297649860382
+CP,Deterministic,50,h_drift_final,,,0.0038100259378552
+CP,Deterministic,50,ic_noise_scale,,fitted,0.2893350188926589
+CP,Deterministic,50,mask_variance,ID,,0.0
+CP,Deterministic,50,mask_variance,OOD,,0.0
+CP,Deterministic,50,mse,ID,,0.1186700628272124
+CP,Deterministic,50,mse,OOD,,1.1154150317112606
+CP,Deterministic,50,phys_e_drift,ID,,0.1280768162169021
+CP,Deterministic,50,phys_e_drift,OOD,,0.7963985737769975
+CP,Deterministic,50,var_alea,ID,,0.1088924594756363
+CP,Deterministic,50,var_alea,OOD,,0.1393805621643977
+CP,Deterministic,51,cov90_err,ID,fitted,0.0449999979564121
+CP,Deterministic,51,cov90_err,ID,fixed,0.2994613034384591
+CP,Deterministic,51,cov90_err,OOD,fitted,0.419631952047348
+CP,Deterministic,51,cov90_err,OOD,fixed,0.6246597210566203
+CP,Deterministic,51,g_nll,ID,fitted,0.2623932720827205
+CP,Deterministic,51,g_nll,ID,fixed,1.2802828893597638
+CP,Deterministic,51,g_nll,OOD,fitted,4.484186410903931
+CP,Deterministic,51,g_nll,OOD,fixed,20.21829430262248
+CP,Deterministic,51,h_drift,,,0.0042934095021337
+CP,Deterministic,51,h_drift_final,,,0.0035752985393628
+CP,Deterministic,51,ic_noise_scale,,fitted,0.2863536488592518
+CP,Deterministic,51,mask_variance,ID,,0.0
+CP,Deterministic,51,mask_variance,OOD,,0.0
+CP,Deterministic,51,mse,ID,,0.1200863064399787
+CP,Deterministic,51,mse,OOD,,1.1291911502679188
+CP,Deterministic,51,phys_e_drift,ID,,0.1470060258199211
+CP,Deterministic,51,phys_e_drift,OOD,,0.8212218598006444
+CP,Deterministic,51,var_alea,ID,,0.1078113681412546
+CP,Deterministic,51,var_alea,OOD,,0.1473254242456212
+CP,Fixed-mask MC,42,alpha,ID,fitted,0.2156769135112403
+CP,Fixed-mask MC,42,alpha,OOD,fitted,0.5677136126155705
+CP,Fixed-mask MC,42,cov90_err,ID,fitted,0.015363095487867
+CP,Fixed-mask MC,42,cov90_err,ID,fixed,0.1565178547586713
+CP,Fixed-mask MC,42,cov90_err,OOD,fitted,0.2820868134498596
+CP,Fixed-mask MC,42,cov90_err,OOD,fixed,0.3813611209392547
+CP,Fixed-mask MC,42,g_nll,ID,fitted,0.2329135702124663
+CP,Fixed-mask MC,42,g_nll,ID,fixed,0.4878597004073007
+CP,Fixed-mask MC,42,g_nll,OOD,fitted,2.7063136398792267
+CP,Fixed-mask MC,42,g_nll,OOD,fixed,4.55976531902949
+CP,Fixed-mask MC,42,h_drift,,,0.00438231555745
+CP,Fixed-mask MC,42,h_drift_final,,,0.0045920886099338
+CP,Fixed-mask MC,42,ic_noise_scale,,fitted,0.2471743094166911
+CP,Fixed-mask MC,42,mask_variance,ID,,0.0158945523815783
+CP,Fixed-mask MC,42,mask_variance,OOD,,0.1562086502247947
+CP,Fixed-mask MC,42,mse,ID,,0.1089842739914144
+CP,Fixed-mask MC,42,mse,OOD,,0.9714525938034058
+CP,Fixed-mask MC,42,nll_masks_only,ID,,0.9553830714098044
+CP,Fixed-mask MC,42,nll_masks_only,OOD,,5.891769369443257
+CP,Fixed-mask MC,42,phys_e_drift,ID,,0.1481560239272971
+CP,Fixed-mask MC,42,phys_e_drift,OOD,,0.8054324403497721
+CP,Fixed-mask MC,42,spearman_rho,OOD,,0.7142857142857143
+CP,Fixed-mask MC,42,var_alea,ID,,0.0775060802020521
+CP,Fixed-mask MC,42,var_alea,OOD,,0.1066022812009182
+CP,Fixed-mask MC,42,var_epi,ID,,0.0213129926229359
+CP,Fixed-mask MC,42,var_epi,OOD,,0.1399987784482664
+CP,Fixed-mask MC,42,var_ratio,OOD,,1.313281262568896
+CP,Fixed-mask MC,43,alpha,ID,fitted,0.2276114551614115
+CP,Fixed-mask MC,43,alpha,OOD,fitted,0.5932971059136192
+CP,Fixed-mask MC,43,cov90_err,ID,fitted,0.0100446496691022
+CP,Fixed-mask MC,43,cov90_err,ID,fixed,0.1512797645160129
+CP,Fixed-mask MC,43,cov90_err,OOD,fitted,0.2837118148803711
+CP,Fixed-mask MC,43,cov90_err,OOD,fixed,0.3865451405445734
+CP,Fixed-mask MC,43,g_nll,ID,fitted,0.2190409606056554
+CP,Fixed-mask MC,43,g_nll,ID,fixed,0.464001107428755
+CP,Fixed-mask MC,43,g_nll,OOD,fitted,2.5026845236619315
+CP,Fixed-mask MC,43,g_nll,OOD,fixed,4.1152894496917725
+CP,Fixed-mask MC,43,h_drift,,,0.0043631873559206
+CP,Fixed-mask MC,43,h_drift_final,,,0.0044434262905269
+CP,Fixed-mask MC,43,ic_noise_scale,,fitted,0.2491248475719862
+CP,Fixed-mask MC,43,mask_variance,ID,,0.0236467708614777
+CP,Fixed-mask MC,43,mask_variance,OOD,,0.1483059466137724
+CP,Fixed-mask MC,43,mse,ID,,0.1143830924161842
+CP,Fixed-mask MC,43,mse,OOD,,0.999996691942215
+CP,Fixed-mask MC,43,nll_masks_only,ID,,0.9709087716681616
+CP,Fixed-mask MC,43,nll_masks_only,OOD,,5.472703615824382
+CP,Fixed-mask MC,43,phys_e_drift,ID,,0.1769203325969326
+CP,Fixed-mask MC,43,phys_e_drift,OOD,,0.9410162553185204
+CP,Fixed-mask MC,43,spearman_rho,OOD,,0.7142857142857143
+CP,Fixed-mask MC,43,var_alea,ID,,0.0782438982110992
+CP,Fixed-mask MC,43,var_alea,OOD,,0.099128083894974
+CP,Fixed-mask MC,43,var_epi,ID,,0.0230573170049426
+CP,Fixed-mask MC,43,var_epi,OOD,,0.1446077865311654
+CP,Fixed-mask MC,43,var_ratio,OOD,,1.4587973543842236
+CP,Fixed-mask MC,44,alpha,ID,fitted,0.2005755349477403
+CP,Fixed-mask MC,44,alpha,OOD,fitted,0.4260157277485074
+CP,Fixed-mask MC,44,cov90_err,ID,fitted,0.019732141494751
+CP,Fixed-mask MC,44,cov90_err,ID,fixed,0.162485122680664
+CP,Fixed-mask MC,44,cov90_err,OOD,fitted,0.3470069458087286
+CP,Fixed-mask MC,44,cov90_err,OOD,fixed,0.4636909703413645
+CP,Fixed-mask MC,44,g_nll,ID,fitted,0.2401441984942981
+CP,Fixed-mask MC,44,g_nll,ID,fixed,0.5124989790575846
+CP,Fixed-mask MC,44,g_nll,OOD,fitted,3.073005795478821
+CP,Fixed-mask MC,44,g_nll,OOD,fixed,5.363362054030101
+CP,Fixed-mask MC,44,h_drift,,,0.0043052669148892
+CP,Fixed-mask MC,44,h_drift_final,,,0.0047039862722158
+CP,Fixed-mask MC,44,ic_noise_scale,,fitted,0.2489586652956575
+CP,Fixed-mask MC,44,mask_variance,ID,,0.0193600091839672
+CP,Fixed-mask MC,44,mask_variance,OOD,,0.0731586526005955
+CP,Fixed-mask MC,44,mse,ID,,0.1104417884988444
+CP,Fixed-mask MC,44,mse,OOD,,1.111542950073878
+CP,Fixed-mask MC,44,nll_masks_only,ID,,0.9687448250395913
+CP,Fixed-mask MC,44,nll_masks_only,OOD,,6.245973904927571
+CP,Fixed-mask MC,44,phys_e_drift,ID,,0.1629975158155519
+CP,Fixed-mask MC,44,phys_e_drift,OOD,,0.8739786863583566
+CP,Fixed-mask MC,44,spearman_rho,OOD,,0.7142857142857143
+CP,Fixed-mask MC,44,var_alea,ID,,0.0785278635018763
+CP,Fixed-mask MC,44,var_alea,OOD,,0.1019248747540591
+CP,Fixed-mask MC,44,var_epi,ID,,0.019702634731303
+CP,Fixed-mask MC,44,var_epi,OOD,,0.0756494590412761
+CP,Fixed-mask MC,44,var_ratio,OOD,,0.7422080156960258
+CP,Fixed-mask MC,45,alpha,ID,fitted,0.189311483723598
+CP,Fixed-mask MC,45,alpha,OOD,fitted,0.5534197540347118
+CP,Fixed-mask MC,45,cov90_err,ID,fitted,0.0126339350427899
+CP,Fixed-mask MC,45,cov90_err,ID,fixed,0.1596309542655944
+CP,Fixed-mask MC,45,cov90_err,OOD,fitted,0.2909617960453033
+CP,Fixed-mask MC,45,cov90_err,OOD,fixed,0.3940937558809916
+CP,Fixed-mask MC,45,g_nll,ID,fitted,0.2305393101913588
+CP,Fixed-mask MC,45,g_nll,ID,fixed,0.538096757871764
+CP,Fixed-mask MC,45,g_nll,OOD,fitted,2.846524953842163
+CP,Fixed-mask MC,45,g_nll,OOD,fixed,5.040400544802348
+CP,Fixed-mask MC,45,h_drift,,,0.0042422539088875
+CP,Fixed-mask MC,45,h_drift_final,,,0.0038125340826809
+CP,Fixed-mask MC,45,ic_noise_scale,,fitted,0.2517363074491396
+CP,Fixed-mask MC,45,mask_variance,ID,,0.0146594021658775
+CP,Fixed-mask MC,45,mask_variance,OOD,,0.1448177871436385
+CP,Fixed-mask MC,45,mse,ID,,0.1171001605689525
+CP,Fixed-mask MC,45,mse,OOD,,1.1037031014760337
+CP,Fixed-mask MC,45,nll_masks_only,ID,,1.0380774844171743
+CP,Fixed-mask MC,45,nll_masks_only,OOD,,6.153851290543874
+CP,Fixed-mask MC,45,phys_e_drift,ID,,0.1615031846896632
+CP,Fixed-mask MC,45,phys_e_drift,OOD,,0.9613002083372276
+CP,Fixed-mask MC,45,spearman_rho,OOD,,0.7142857142857143
+CP,Fixed-mask MC,45,var_alea,ID,,0.0809513169975834
+CP,Fixed-mask MC,45,var_alea,OOD,,0.1086146716079405
+CP,Fixed-mask MC,45,var_epi,ID,,0.0189037017578362
+CP,Fixed-mask MC,45,var_epi,OOD,,0.1345995605244474
+CP,Fixed-mask MC,45,var_ratio,OOD,,1.2392392163215564
+CP,Fixed-mask MC,46,alpha,ID,fitted,0.2273484670602463
+CP,Fixed-mask MC,46,alpha,OOD,fitted,0.4887529405518463
+CP,Fixed-mask MC,46,cov90_err,ID,fitted,0.0084523797035217
+CP,Fixed-mask MC,46,cov90_err,ID,fixed,0.146824402468545
+CP,Fixed-mask MC,46,cov90_err,OOD,fitted,0.2943159679571787
+CP,Fixed-mask MC,46,cov90_err,OOD,fixed,0.4025590360164642
+CP,Fixed-mask MC,46,g_nll,ID,fitted,0.2180948555469513
+CP,Fixed-mask MC,46,g_nll,ID,fixed,0.428916524563517
+CP,Fixed-mask MC,46,g_nll,OOD,fitted,2.6872061590353646
+CP,Fixed-mask MC,46,g_nll,OOD,fixed,4.536437173684438
+CP,Fixed-mask MC,46,h_drift,,,0.0043263983447104
+CP,Fixed-mask MC,46,h_drift_final,,,0.0039226012770086
+CP,Fixed-mask MC,46,ic_noise_scale,,fitted,0.2500041860611883
+CP,Fixed-mask MC,46,mask_variance,ID,,0.0280337526347965
+CP,Fixed-mask MC,46,mask_variance,OOD,,0.1811645344152289
+CP,Fixed-mask MC,46,mse,ID,,0.112336803227663
+CP,Fixed-mask MC,46,mse,OOD,,1.0177452315886817
+CP,Fixed-mask MC,46,nll_masks_only,ID,,0.9855704166527304
+CP,Fixed-mask MC,46,nll_masks_only,OOD,,6.260609130064647
+CP,Fixed-mask MC,46,phys_e_drift,ID,,0.1541912220192323
+CP,Fixed-mask MC,46,phys_e_drift,OOD,,0.9568994028513222
+CP,Fixed-mask MC,46,spearman_rho,OOD,,0.7142857142857143
+CP,Fixed-mask MC,46,var_alea,ID,,0.0797917436249544
+CP,Fixed-mask MC,46,var_alea,OOD,,0.1061280729887292
+CP,Fixed-mask MC,46,var_epi,ID,,0.0234782820247275
+CP,Fixed-mask MC,46,var_epi,OOD,,0.1014585938241521
+CP,Fixed-mask MC,46,var_ratio,OOD,,0.9560014703642744
+CP,Fixed-mask MC,47,alpha,ID,fitted,0.1814353779144908
+CP,Fixed-mask MC,47,alpha,OOD,fitted,0.5571553533767244
+CP,Fixed-mask MC,47,cov90_err,ID,fitted,0.0144702434539795
+CP,Fixed-mask MC,47,cov90_err,ID,fixed,0.1622470191546848
+CP,Fixed-mask MC,47,cov90_err,OOD,fitted,0.2933367977539698
+CP,Fixed-mask MC,47,cov90_err,OOD,fixed,0.3999791681766509
+CP,Fixed-mask MC,47,g_nll,ID,fitted,0.2192394509911537
+CP,Fixed-mask MC,47,g_nll,ID,fixed,0.4754094524042947
+CP,Fixed-mask MC,47,g_nll,OOD,fitted,2.754163751999537
+CP,Fixed-mask MC,47,g_nll,OOD,fixed,4.661401649316152
+CP,Fixed-mask MC,47,h_drift,,,0.0043233980424702
+CP,Fixed-mask MC,47,h_drift_final,,,0.0042112398892641
+CP,Fixed-mask MC,47,ic_noise_scale,,fitted,0.2502293091756359
+CP,Fixed-mask MC,47,mask_variance,ID,,0.0207380970295057
+CP,Fixed-mask MC,47,mask_variance,OOD,,0.0957252868151259
+CP,Fixed-mask MC,47,mse,ID,,0.1098503938743046
+CP,Fixed-mask MC,47,mse,OOD,,1.0537791699171066
+CP,Fixed-mask MC,47,nll_masks_only,ID,,0.9949808511550404
+CP,Fixed-mask MC,47,nll_masks_only,OOD,,6.628276387850444
+CP,Fixed-mask MC,47,phys_e_drift,ID,,0.1401869268144232
+CP,Fixed-mask MC,47,phys_e_drift,OOD,,0.8143691531027601
+CP,Fixed-mask MC,47,spearman_rho,OOD,,0.942857142857143
+CP,Fixed-mask MC,47,var_alea,ID,,0.0807965667542415
+CP,Fixed-mask MC,47,var_alea,OOD,,0.1092180739674997
+CP,Fixed-mask MC,47,var_epi,ID,,0.0179086112784848
+CP,Fixed-mask MC,47,var_epi,OOD,,0.1374103425670478
+CP,Fixed-mask MC,47,var_ratio,OOD,,1.258128234416011
+CP,Fixed-mask MC,48,alpha,ID,fitted,0.1883976243007815
+CP,Fixed-mask MC,48,alpha,OOD,fitted,0.4953850902741653
+CP,Fixed-mask MC,48,cov90_err,ID,fitted,0.0125446472849164
+CP,Fixed-mask MC,48,cov90_err,ID,fixed,0.1607053620474679
+CP,Fixed-mask MC,48,cov90_err,OOD,fitted,0.3057708332935969
+CP,Fixed-mask MC,48,cov90_err,OOD,fixed,0.4164374907811483
+CP,Fixed-mask MC,48,g_nll,ID,fitted,0.2322236400629793
+CP,Fixed-mask MC,48,g_nll,ID,fixed,0.5001496310744967
+CP,Fixed-mask MC,48,g_nll,OOD,fitted,2.830544829368592
+CP,Fixed-mask MC,48,g_nll,OOD,fixed,4.943201979001363
+CP,Fixed-mask MC,48,h_drift,,,0.0043130792677402
+CP,Fixed-mask MC,48,h_drift_final,,,0.0041818567086011
+CP,Fixed-mask MC,48,ic_noise_scale,,fitted,0.2536660327539826
+CP,Fixed-mask MC,48,mask_variance,ID,,0.0122381600192758
+CP,Fixed-mask MC,48,mask_variance,OOD,,0.0576153384932016
+CP,Fixed-mask MC,48,mse,ID,,0.1185430405395371
+CP,Fixed-mask MC,48,mse,OOD,,1.0202691505352657
+CP,Fixed-mask MC,48,nll_masks_only,ID,,1.0780849403568675
+CP,Fixed-mask MC,48,nll_masks_only,OOD,,6.76932414372762
+CP,Fixed-mask MC,48,phys_e_drift,ID,,0.1565628856903001
+CP,Fixed-mask MC,48,phys_e_drift,OOD,,0.8024490755673378
+CP,Fixed-mask MC,48,spearman_rho,OOD,,0.7142857142857143
+CP,Fixed-mask MC,48,var_alea,ID,,0.0821634278256327
+CP,Fixed-mask MC,48,var_alea,OOD,,0.0995697997684695
+CP,Fixed-mask MC,48,var_epi,ID,,0.0190726334350882
+CP,Fixed-mask MC,48,var_epi,OOD,,0.0977485866869909
+CP,Fixed-mask MC,48,var_ratio,OOD,,0.9817091820440194
+CP,Fixed-mask MC,49,alpha,ID,fitted,0.2031471542653585
+CP,Fixed-mask MC,49,alpha,OOD,fitted,0.4188927076939242
+CP,Fixed-mask MC,49,cov90_err,ID,fitted,0.0128571374075753
+CP,Fixed-mask MC,49,cov90_err,ID,fixed,0.15658928666796
+CP,Fixed-mask MC,49,cov90_err,OOD,fitted,0.3274999996026357
+CP,Fixed-mask MC,49,cov90_err,OOD,fixed,0.4457777728637059
+CP,Fixed-mask MC,49,g_nll,ID,fitted,0.2177381558077676
+CP,Fixed-mask MC,49,g_nll,ID,fixed,0.4570515858275549
+CP,Fixed-mask MC,49,g_nll,OOD,fitted,2.906130452950796
+CP,Fixed-mask MC,49,g_nll,OOD,fixed,5.128370185693105
+CP,Fixed-mask MC,49,h_drift,,,0.0042201518081128
+CP,Fixed-mask MC,49,h_drift_final,,,0.0039682505652308
+CP,Fixed-mask MC,49,ic_noise_scale,,fitted,0.2513400719317077
+CP,Fixed-mask MC,49,mask_variance,ID,,0.0117941011311643
+CP,Fixed-mask MC,49,mask_variance,OOD,,0.0732309172340368
+CP,Fixed-mask MC,49,mse,ID,,0.1131791355354445
+CP,Fixed-mask MC,49,mse,OOD,,1.0165153046449025
+CP,Fixed-mask MC,49,nll_masks_only,ID,,1.008302663053785
+CP,Fixed-mask MC,49,nll_masks_only,OOD,,6.416293303171794
+CP,Fixed-mask MC,49,phys_e_drift,ID,,0.1484869737177202
+CP,Fixed-mask MC,49,phys_e_drift,OOD,,0.8294820988237709
+CP,Fixed-mask MC,49,spearman_rho,OOD,,0.942857142857143
+CP,Fixed-mask MC,49,var_alea,ID,,0.0797545518973712
+CP,Fixed-mask MC,49,var_alea,OOD,,0.0992543146132863
+CP,Fixed-mask MC,49,var_epi,ID,,0.0203323742198885
+CP,Fixed-mask MC,49,var_epi,OOD,,0.0715477316308829
+CP,Fixed-mask MC,49,var_ratio,OOD,,0.7208526088729389
+CP,Fixed-mask MC,50,alpha,ID,fitted,0.1804320075497152
+CP,Fixed-mask MC,50,alpha,OOD,fitted,0.5263938733477794
+CP,Fixed-mask MC,50,cov90_err,ID,fitted,0.0227529730115618
+CP,Fixed-mask MC,50,cov90_err,ID,fixed,0.1626785738127572
+CP,Fixed-mask MC,50,cov90_err,OOD,fitted,0.3080381890137991
+CP,Fixed-mask MC,50,cov90_err,OOD,fixed,0.4105902800957361
+CP,Fixed-mask MC,50,g_nll,ID,fitted,0.2326988875865936
+CP,Fixed-mask MC,50,g_nll,ID,fixed,0.4986199353422437
+CP,Fixed-mask MC,50,g_nll,OOD,fitted,2.866911689440409
+CP,Fixed-mask MC,50,g_nll,OOD,fixed,4.752713759740193
+CP,Fixed-mask MC,50,h_drift,,,0.0043495303019881
+CP,Fixed-mask MC,50,h_drift_final,,,0.0040093572810292
+CP,Fixed-mask MC,50,ic_noise_scale,,fitted,0.2442039750859905
+CP,Fixed-mask MC,50,mask_variance,ID,,0.0152320667794628
+CP,Fixed-mask MC,50,mask_variance,OOD,,0.1431330893251854
+CP,Fixed-mask MC,50,mse,ID,,0.1221465047981057
+CP,Fixed-mask MC,50,mse,OOD,,1.0212036569913228
+CP,Fixed-mask MC,50,nll_masks_only,ID,,0.8931821507534811
+CP,Fixed-mask MC,50,nll_masks_only,OOD,,5.098748942216237
+CP,Fixed-mask MC,50,phys_e_drift,ID,,0.1580995600169178
+CP,Fixed-mask MC,50,phys_e_drift,OOD,,0.9624272165221194
+CP,Fixed-mask MC,50,spearman_rho,OOD,,0.7142857142857143
+CP,Fixed-mask MC,50,var_alea,ID,,0.0767309559931432
+CP,Fixed-mask MC,50,var_alea,OOD,,0.102695247824882
+CP,Fixed-mask MC,50,var_epi,ID,,0.0168927051307357
+CP,Fixed-mask MC,50,var_epi,OOD,,0.1141415751081401
+CP,Fixed-mask MC,50,var_ratio,OOD,,1.1114591719256242
+CP,Fixed-mask MC,51,alpha,ID,fitted,0.2124379580081087
+CP,Fixed-mask MC,51,alpha,OOD,fitted,0.6110868175785243
+CP,Fixed-mask MC,51,cov90_err,ID,fitted,0.0023422735077994
+CP,Fixed-mask MC,51,cov90_err,ID,fixed,0.1463184526988437
+CP,Fixed-mask MC,51,cov90_err,OOD,fitted,0.2697256992260615
+CP,Fixed-mask MC,51,cov90_err,OOD,fixed,0.3708194484313329
+CP,Fixed-mask MC,51,g_nll,ID,fitted,0.2008120539997305
+CP,Fixed-mask MC,51,g_nll,ID,fixed,0.408984111888068
+CP,Fixed-mask MC,51,g_nll,OOD,fitted,2.565881748994192
+CP,Fixed-mask MC,51,g_nll,OOD,fixed,4.289821147918701
+CP,Fixed-mask MC,51,h_drift,,,0.0043701839167624
+CP,Fixed-mask MC,51,h_drift_final,,,0.0044407902285456
+CP,Fixed-mask MC,51,ic_noise_scale,,fitted,0.2538677731986071
+CP,Fixed-mask MC,51,mask_variance,ID,,0.0139595228574321
+CP,Fixed-mask MC,51,mask_variance,OOD,,0.1403484323014646
+CP,Fixed-mask MC,51,mse,ID,,0.1077279751854283
+CP,Fixed-mask MC,51,mse,OOD,,0.999722902973493
+CP,Fixed-mask MC,51,nll_masks_only,ID,,1.112761794722506
+CP,Fixed-mask MC,51,nll_masks_only,OOD,,7.138814965883891
+CP,Fixed-mask MC,51,phys_e_drift,ID,,0.1650585663521346
+CP,Fixed-mask MC,51,phys_e_drift,OOD,,0.8521174963437242
+CP,Fixed-mask MC,51,spearman_rho,OOD,,0.7142857142857143
+CP,Fixed-mask MC,51,var_alea,ID,,0.0831806479869904
+CP,Fixed-mask MC,51,var_alea,OOD,,0.1106538931622777
+CP,Fixed-mask MC,51,var_epi,ID,,0.0224372507332311
+CP,Fixed-mask MC,51,var_epi,OOD,,0.1738669155007701
+CP,Fixed-mask MC,51,var_ratio,OOD,,1.5712679466757515
+CP,Fresh-mask MC,42,alpha,ID,fitted,0.0073919648847058
+CP,Fresh-mask MC,42,alpha,OOD,fitted,0.0319678187128802
+CP,Fresh-mask MC,42,cov90_err,ID,fitted,0.0129553522382463
+CP,Fresh-mask MC,42,cov90_err,ID,fixed,0.2351517873150961
+CP,Fresh-mask MC,42,cov90_err,OOD,fitted,0.3164826373259226
+CP,Fresh-mask MC,42,cov90_err,OOD,fixed,0.5657013893127442
+CP,Fresh-mask MC,42,g_nll,ID,dropout-only,102.03218732561383
+CP,Fresh-mask MC,42,g_nll,ID,fitted,0.2715281442339931
+CP,Fresh-mask MC,42,g_nll,ID,fixed,1.0824076260656252
+CP,Fresh-mask MC,42,g_nll,OOD,fitted,3.255691409111023
+CP,Fresh-mask MC,42,g_nll,OOD,fixed,14.344249486923218
+CP,Fresh-mask MC,42,h_drift,,,0.1622474774718284
+CP,Fresh-mask MC,42,h_drift_final,,,0.1873712420463562
+CP,Fresh-mask MC,42,ic_noise_scale,,fitted,0.3316566796372726
+CP,Fresh-mask MC,42,mask_variance,ID,,0.0008477383805099
+CP,Fresh-mask MC,42,mask_variance,OOD,,0.0057474586923243
+CP,Fresh-mask MC,42,mse,ID,,0.1144902078168732
+CP,Fresh-mask MC,42,mse,OOD,,1.1094860682884853
+CP,Fresh-mask MC,42,nll_masks_only,ID,,4.063487555299487
+CP,Fresh-mask MC,42,nll_masks_only,OOD,,26.50244092941284
+CP,Fresh-mask MC,42,phys_e_drift,ID,,0.141719595470017
+CP,Fresh-mask MC,42,phys_e_drift,OOD,,0.8079540185736679
+CP,Fresh-mask MC,42,spearman_rho,OOD,,0.8857142857142858
+CP,Fresh-mask MC,42,var_alea,ID,,0.1415636311027719
+CP,Fresh-mask MC,42,var_alea,OOD,,0.1975135271860466
+CP,Fresh-mask MC,42,var_epi,ID,,0.0010542261930628
+CP,Fresh-mask MC,42,var_epi,OOD,,0.006522589592042
+CP,Fresh-mask MC,42,var_ratio,OOD,,0.0330235082374796
+CP,Fresh-mask MC,43,alpha,ID,fitted,0.007887453221067
+CP,Fresh-mask MC,43,alpha,OOD,fitted,0.0375986503229298
+CP,Fresh-mask MC,43,cov90_err,ID,fitted,0.0128452454294475
+CP,Fresh-mask MC,43,cov90_err,ID,fixed,0.2332142744745526
+CP,Fresh-mask MC,43,cov90_err,OOD,fitted,0.3179965207974116
+CP,Fresh-mask MC,43,cov90_err,OOD,fixed,0.5622187495231629
+CP,Fresh-mask MC,43,g_nll,ID,dropout-only,102.0047743661063
+CP,Fresh-mask MC,43,g_nll,ID,fitted,0.2714587731419929
+CP,Fresh-mask MC,43,g_nll,ID,fixed,1.0647187126534323
+CP,Fresh-mask MC,43,g_nll,OOD,fitted,3.209580421447754
+CP,Fresh-mask MC,43,g_nll,OOD,fixed,13.68057902654012
+CP,Fresh-mask MC,43,h_drift,,,0.1626101166009902
+CP,Fresh-mask MC,43,h_drift_final,,,0.1847934067249298
+CP,Fresh-mask MC,43,ic_noise_scale,,fitted,0.3305469709636839
+CP,Fresh-mask MC,43,mask_variance,ID,,0.0008869502714837
+CP,Fresh-mask MC,43,mask_variance,OOD,,0.0064697444944057
+CP,Fresh-mask MC,43,mse,ID,,0.1140612864068576
+CP,Fresh-mask MC,43,mse,OOD,,1.0545466939608257
+CP,Fresh-mask MC,43,nll_masks_only,ID,,3.976235670702798
+CP,Fresh-mask MC,43,nll_masks_only,OOD,,23.971349557240803
+CP,Fresh-mask MC,43,phys_e_drift,ID,,0.1403056839380364
+CP,Fresh-mask MC,43,phys_e_drift,OOD,,0.810458607453052
+CP,Fresh-mask MC,43,spearman_rho,OOD,,0.8857142857142858
+CP,Fresh-mask MC,43,var_alea,ID,,0.1410494981643722
+CP,Fresh-mask MC,43,var_alea,OOD,,0.1858931202354208
+CP,Fresh-mask MC,43,var_epi,ID,,0.0011213660408171
+CP,Fresh-mask MC,43,var_epi,OOD,,0.0072623863500557
+CP,Fresh-mask MC,43,var_ratio,OOD,,0.0390675369850077
+CP,Fresh-mask MC,44,alpha,ID,fitted,0.0080466472445975
+CP,Fresh-mask MC,44,alpha,OOD,fitted,0.0368506338996897
+CP,Fresh-mask MC,44,cov90_err,ID,fitted,0.0102232115609305
+CP,Fresh-mask MC,44,cov90_err,ID,fixed,0.2346785562379019
+CP,Fresh-mask MC,44,cov90_err,OOD,fitted,0.3204166481892267
+CP,Fresh-mask MC,44,cov90_err,OOD,fixed,0.5666458298762639
+CP,Fresh-mask MC,44,g_nll,ID,dropout-only,100.03691210065568
+CP,Fresh-mask MC,44,g_nll,ID,fitted,0.2727307971300823
+CP,Fresh-mask MC,44,g_nll,ID,fixed,1.0531913116574287
+CP,Fresh-mask MC,44,g_nll,OOD,fitted,3.311557869116465
+CP,Fresh-mask MC,44,g_nll,OOD,fixed,13.987081050872805
+CP,Fresh-mask MC,44,h_drift,,,0.1652307018637657
+CP,Fresh-mask MC,44,h_drift_final,,,0.1879130005836486
+CP,Fresh-mask MC,44,ic_noise_scale,,fitted,0.3267450304433891
+CP,Fresh-mask MC,44,mask_variance,ID,,0.0008977118165842
+CP,Fresh-mask MC,44,mask_variance,OOD,,0.0069505913909208
+CP,Fresh-mask MC,44,mse,ID,,0.1164717019668647
+CP,Fresh-mask MC,44,mse,OOD,,1.1241864462693532
+CP,Fresh-mask MC,44,nll_masks_only,ID,,4.057652073247092
+CP,Fresh-mask MC,44,nll_masks_only,OOD,,24.21376816431681
+CP,Fresh-mask MC,44,phys_e_drift,ID,,0.1413365328146296
+CP,Fresh-mask MC,44,phys_e_drift,OOD,,0.8129779766891548
+CP,Fresh-mask MC,44,spearman_rho,OOD,,0.8857142857142858
+CP,Fresh-mask MC,44,var_alea,ID,,0.1388479100143254
+CP,Fresh-mask MC,44,var_alea,OOD,,0.2026315483534227
+CP,Fresh-mask MC,44,var_epi,ID,,0.0011263232786415
+CP,Fresh-mask MC,44,var_epi,OOD,,0.0077527964692878
+CP,Fresh-mask MC,44,var_ratio,OOD,,0.0382605597809757
+CP,Fresh-mask MC,45,alpha,ID,fitted,0.0072109883048892
+CP,Fresh-mask MC,45,alpha,OOD,fitted,0.0276990646986301
+CP,Fresh-mask MC,45,cov90_err,ID,fitted,0.0147470167704991
+CP,Fresh-mask MC,45,cov90_err,ID,fixed,0.2350029800619397
+CP,Fresh-mask MC,45,cov90_err,OOD,fitted,0.3257187445958456
+CP,Fresh-mask MC,45,cov90_err,OOD,fixed,0.5781041671832402
+CP,Fresh-mask MC,45,g_nll,ID,dropout-only,102.9029061453683
+CP,Fresh-mask MC,45,g_nll,ID,fitted,0.2869847367650696
+CP,Fresh-mask MC,45,g_nll,ID,fixed,1.0709464422294073
+CP,Fresh-mask MC,45,g_nll,OOD,fitted,3.262494723002116
+CP,Fresh-mask MC,45,g_nll,OOD,fixed,15.215417623519896
+CP,Fresh-mask MC,45,h_drift,,,0.1525275632739067
+CP,Fresh-mask MC,45,h_drift_final,,,0.1754345595836639
+CP,Fresh-mask MC,45,ic_noise_scale,,fitted,0.3399510357093924
+CP,Fresh-mask MC,45,mask_variance,ID,,0.00084367538994
+CP,Fresh-mask MC,45,mask_variance,OOD,,0.004828185064055
+CP,Fresh-mask MC,45,mse,ID,,0.1225274567093167
+CP,Fresh-mask MC,45,mse,OOD,,1.1247090448935826
+CP,Fresh-mask MC,45,nll_masks_only,ID,,4.040375798940659
+CP,Fresh-mask MC,45,nll_masks_only,OOD,,26.62929058074951
+CP,Fresh-mask MC,45,phys_e_drift,ID,,0.1470969212245181
+CP,Fresh-mask MC,45,phys_e_drift,OOD,,0.845136948855374
+CP,Fresh-mask MC,45,spearman_rho,OOD,,0.942857142857143
+CP,Fresh-mask MC,45,var_alea,ID,,0.1492716744610477
+CP,Fresh-mask MC,45,var_alea,OOD,,0.192645416055624
+CP,Fresh-mask MC,45,var_epi,ID,,0.0010842145572824
+CP,Fresh-mask MC,45,var_epi,OOD,,0.0054881134528224
+CP,Fresh-mask MC,45,var_ratio,OOD,,0.0284881600880541
+CP,Fresh-mask MC,46,alpha,ID,fitted,0.0072057104458737
+CP,Fresh-mask MC,46,alpha,OOD,fitted,0.0318126199886518
+CP,Fresh-mask MC,46,cov90_err,ID,fitted,0.0170148883547099
+CP,Fresh-mask MC,46,cov90_err,ID,fixed,0.2328184570584978
+CP,Fresh-mask MC,46,cov90_err,OOD,fitted,0.3017291665077209
+CP,Fresh-mask MC,46,cov90_err,OOD,fixed,0.5541215231021245
+CP,Fresh-mask MC,46,g_nll,ID,dropout-only,104.45672498430524
+CP,Fresh-mask MC,46,g_nll,ID,fitted,0.2653313484042883
+CP,Fresh-mask MC,46,g_nll,ID,fixed,1.0454419095601355
+CP,Fresh-mask MC,46,g_nll,OOD,fitted,3.083836317062378
+CP,Fresh-mask MC,46,g_nll,OOD,fixed,13.816939115524292
+CP,Fresh-mask MC,46,h_drift,,,0.1624978423118591
+CP,Fresh-mask MC,46,h_drift_final,,,0.1847625911235809
+CP,Fresh-mask MC,46,ic_noise_scale,,fitted,0.3339735314061491
+CP,Fresh-mask MC,46,mask_variance,ID,,0.0008488227850046
+CP,Fresh-mask MC,46,mask_variance,OOD,,0.0057168744930649
+CP,Fresh-mask MC,46,mse,ID,,0.109273361308234
+CP,Fresh-mask MC,46,mse,OOD,,1.0548959126075108
+CP,Fresh-mask MC,46,nll_masks_only,ID,,4.0378583414214
+CP,Fresh-mask MC,46,nll_masks_only,OOD,,24.35717185338338
+CP,Fresh-mask MC,46,phys_e_drift,ID,,0.1342531913880548
+CP,Fresh-mask MC,46,phys_e_drift,OOD,,0.8072317442030488
+CP,Fresh-mask MC,46,spearman_rho,OOD,,0.8857142857142858
+CP,Fresh-mask MC,46,var_alea,ID,,0.1447881164127895
+CP,Fresh-mask MC,46,var_alea,OOD,,0.197096126757392
+CP,Fresh-mask MC,46,var_epi,ID,,0.00105087353327
+CP,Fresh-mask MC,46,var_epi,OOD,,0.0064761680550872
+CP,Fresh-mask MC,46,var_ratio,OOD,,0.0328579163965959
+CP,Fresh-mask MC,47,alpha,ID,fitted,0.0071977926423412
+CP,Fresh-mask MC,47,alpha,OOD,fitted,0.0295171973093402
+CP,Fresh-mask MC,47,cov90_err,ID,fitted,0.0078244056020463
+CP,Fresh-mask MC,47,cov90_err,ID,fixed,0.2364106970173972
+CP,Fresh-mask MC,47,cov90_err,OOD,fitted,0.3423888971408209
+CP,Fresh-mask MC,47,cov90_err,OOD,fixed,0.5856562445561091
+CP,Fresh-mask MC,47,g_nll,ID,dropout-only,112.46110044206893
+CP,Fresh-mask MC,47,g_nll,ID,fitted,0.2791036556341818
+CP,Fresh-mask MC,47,g_nll,ID,fixed,1.092067421214389
+CP,Fresh-mask MC,47,g_nll,OOD,fitted,3.656496087710064
+CP,Fresh-mask MC,47,g_nll,OOD,fixed,16.36181966463725
+CP,Fresh-mask MC,47,h_drift,,,0.145874111354351
+CP,Fresh-mask MC,47,h_drift_final,,,0.1687123268842697
+CP,Fresh-mask MC,47,ic_noise_scale,,fitted,0.3278250025611977
+CP,Fresh-mask MC,47,mask_variance,ID,,0.0008083871209465
+CP,Fresh-mask MC,47,mask_variance,OOD,,0.0053063329601249
+CP,Fresh-mask MC,47,mse,ID,,0.1173940939562661
+CP,Fresh-mask MC,47,mse,OOD,,1.2620672086874645
+CP,Fresh-mask MC,47,nll_masks_only,ID,,4.0633489063807895
+CP,Fresh-mask MC,47,nll_masks_only,OOD,,29.482405344645183
+CP,Fresh-mask MC,47,phys_e_drift,ID,,0.1508052705518283
+CP,Fresh-mask MC,47,phys_e_drift,OOD,,1.0573739843248502
+CP,Fresh-mask MC,47,spearman_rho,OOD,,0.942857142857143
+CP,Fresh-mask MC,47,var_alea,ID,,0.1404118973701627
+CP,Fresh-mask MC,47,var_alea,OOD,,0.199463171527842
+CP,Fresh-mask MC,47,var_epi,ID,,0.00101798295199
+CP,Fresh-mask MC,47,var_epi,OOD,,0.0060666647297724
+CP,Fresh-mask MC,47,var_ratio,OOD,,0.0304149617360597
+CP,Fresh-mask MC,48,alpha,ID,fitted,0.007563916617467
+CP,Fresh-mask MC,48,alpha,OOD,fitted,0.0351158707716536
+CP,Fresh-mask MC,48,cov90_err,ID,fitted,0.0128333415303911
+CP,Fresh-mask MC,48,cov90_err,ID,fixed,0.2348541642938341
+CP,Fresh-mask MC,48,cov90_err,OOD,fitted,0.3286388953526815
+CP,Fresh-mask MC,48,cov90_err,OOD,fixed,0.572583336631457
+CP,Fresh-mask MC,48,g_nll,ID,dropout-only,109.45439420427594
+CP,Fresh-mask MC,48,g_nll,ID,fitted,0.2853888429235667
+CP,Fresh-mask MC,48,g_nll,ID,fixed,1.0813463652240378
+CP,Fresh-mask MC,48,g_nll,OOD,fitted,3.3781917492548623
+CP,Fresh-mask MC,48,g_nll,OOD,fixed,14.762657642364502
+CP,Fresh-mask MC,48,h_drift,,,0.1656947955489158
+CP,Fresh-mask MC,48,h_drift_final,,,0.1890044182538986
+CP,Fresh-mask MC,48,ic_noise_scale,,fitted,0.3357133976843026
+CP,Fresh-mask MC,48,mask_variance,ID,,0.0008850801734988
+CP,Fresh-mask MC,48,mask_variance,OOD,,0.0059076446361081
+CP,Fresh-mask MC,48,mse,ID,,0.1220466899020331
+CP,Fresh-mask MC,48,mse,OOD,,1.1073395957549412
+CP,Fresh-mask MC,48,nll_masks_only,ID,,4.210828461817333
+CP,Fresh-mask MC,48,nll_masks_only,OOD,,25.80171998341878
+CP,Fresh-mask MC,48,phys_e_drift,ID,,0.1416174529744151
+CP,Fresh-mask MC,48,phys_e_drift,OOD,,0.9462977096111068
+CP,Fresh-mask MC,48,spearman_rho,OOD,,0.8857142857142858
+CP,Fresh-mask MC,48,var_alea,ID,,0.1462597606635013
+CP,Fresh-mask MC,48,var_alea,OOD,,0.1822214320601773
+CP,Fresh-mask MC,48,var_epi,ID,,0.0011147283464128
+CP,Fresh-mask MC,48,var_epi,OOD,,0.0066317437153498
+CP,Fresh-mask MC,48,var_ratio,OOD,,0.036393873324186
+CP,Fresh-mask MC,49,alpha,ID,fitted,0.0073578924168977
+CP,Fresh-mask MC,49,alpha,OOD,fitted,0.0295983096084403
+CP,Fresh-mask MC,49,cov90_err,ID,fitted,0.0081309522901263
+CP,Fresh-mask MC,49,cov90_err,ID,fixed,0.2400000078337532
+CP,Fresh-mask MC,49,cov90_err,OOD,fitted,0.3158645669619242
+CP,Fresh-mask MC,49,cov90_err,OOD,fixed,0.5642118046681086
+CP,Fresh-mask MC,49,g_nll,ID,dropout-only,108.58386502947126
+CP,Fresh-mask MC,49,g_nll,ID,fitted,0.2933553283634994
+CP,Fresh-mask MC,49,g_nll,ID,fixed,1.1053458281925743
+CP,Fresh-mask MC,49,g_nll,OOD,fitted,3.158872405687968
+CP,Fresh-mask MC,49,g_nll,OOD,fixed,14.2715794245402
+CP,Fresh-mask MC,49,h_drift,,,0.1485361084342003
+CP,Fresh-mask MC,49,h_drift_final,,,0.1699604332447052
+CP,Fresh-mask MC,49,ic_noise_scale,,fitted,0.3354855292396373
+CP,Fresh-mask MC,49,mask_variance,ID,,0.0008495037047052
+CP,Fresh-mask MC,49,mask_variance,OOD,,0.0049572721739314
+CP,Fresh-mask MC,49,mse,ID,,0.1257518178650311
+CP,Fresh-mask MC,49,mse,OOD,,1.049686362346013
+CP,Fresh-mask MC,49,nll_masks_only,ID,,4.184137352875301
+CP,Fresh-mask MC,49,nll_masks_only,OOD,,25.807180881500244
+CP,Fresh-mask MC,49,phys_e_drift,ID,,0.1452584490790729
+CP,Fresh-mask MC,49,phys_e_drift,OOD,,0.855544778731266
+CP,Fresh-mask MC,49,spearman_rho,OOD,,0.942857142857143
+CP,Fresh-mask MC,49,var_alea,ID,,0.1449932394437083
+CP,Fresh-mask MC,49,var_alea,OOD,,0.1834887575005939
+CP,Fresh-mask MC,49,var_epi,ID,,0.001074752570795
+CP,Fresh-mask MC,49,var_epi,OOD,,0.0055966071658214
+CP,Fresh-mask MC,49,var_ratio,OOD,,0.0305010903232225
+CP,Fresh-mask MC,50,alpha,ID,fitted,0.0071646259299945
+CP,Fresh-mask MC,50,alpha,OOD,fitted,0.0346519626366265
+CP,Fresh-mask MC,50,cov90_err,ID,fitted,0.0131547553198677
+CP,Fresh-mask MC,50,cov90_err,ID,fixed,0.2328898761953626
+CP,Fresh-mask MC,50,cov90_err,OOD,fitted,0.3113055517276129
+CP,Fresh-mask MC,50,cov90_err,OOD,fixed,0.5594201376040776
+CP,Fresh-mask MC,50,g_nll,ID,dropout-only,108.16217422485352
+CP,Fresh-mask MC,50,g_nll,ID,fitted,0.2511988533660769
+CP,Fresh-mask MC,50,g_nll,ID,fixed,1.0144233011773651
+CP,Fresh-mask MC,50,g_nll,OOD,fitted,3.1696959137916565
+CP,Fresh-mask MC,50,g_nll,OOD,fixed,13.338445027669271
+CP,Fresh-mask MC,50,h_drift,,,0.1485346883535385
+CP,Fresh-mask MC,50,h_drift_final,,,0.1683312177658081
+CP,Fresh-mask MC,50,ic_noise_scale,,fitted,0.324838561590374
+CP,Fresh-mask MC,50,mask_variance,ID,,0.0007801633790477
+CP,Fresh-mask MC,50,mask_variance,OOD,,0.0058791320376349
+CP,Fresh-mask MC,50,mse,ID,,0.1074167835925306
+CP,Fresh-mask MC,50,mse,OOD,,1.0256871084372203
+CP,Fresh-mask MC,50,nll_masks_only,ID,,3.8664485471589214
+CP,Fresh-mask MC,50,nll_masks_only,OOD,,24.29550298055013
+CP,Fresh-mask MC,50,phys_e_drift,ID,,0.1420544047966824
+CP,Fresh-mask MC,50,phys_e_drift,OOD,,0.7483612270568764
+CP,Fresh-mask MC,50,spearman_rho,OOD,,0.8857142857142858
+CP,Fresh-mask MC,50,var_alea,ID,,0.1367901047058555
+CP,Fresh-mask MC,50,var_alea,OOD,,0.1877369019494308
+CP,Fresh-mask MC,50,var_epi,ID,,0.0009871222931196
+CP,Fresh-mask MC,50,var_epi,OOD,,0.0067389706717961
+CP,Fresh-mask MC,50,var_ratio,OOD,,0.035895823366742
+CP,Fresh-mask MC,51,alpha,ID,fitted,0.0082748946788714
+CP,Fresh-mask MC,51,alpha,OOD,fitted,0.0313266518374368
+CP,Fresh-mask MC,51,cov90_err,ID,fitted,0.0094047631536211
+CP,Fresh-mask MC,51,cov90_err,ID,fixed,0.2329910678522927
+CP,Fresh-mask MC,51,cov90_err,OOD,fitted,0.3286770870288213
+CP,Fresh-mask MC,51,cov90_err,OOD,fixed,0.5671423663695653
+CP,Fresh-mask MC,51,g_nll,ID,dropout-only,98.1008595057896
+CP,Fresh-mask MC,51,g_nll,ID,fitted,0.2678561748138495
+CP,Fresh-mask MC,51,g_nll,ID,fixed,1.031547619828156
+CP,Fresh-mask MC,51,g_nll,OOD,fitted,3.4904144207636514
+CP,Fresh-mask MC,51,g_nll,OOD,fixed,14.750980377197266
+CP,Fresh-mask MC,51,h_drift,,,0.1544452488422393
+CP,Fresh-mask MC,51,h_drift_final,,,0.17612244784832
+CP,Fresh-mask MC,51,ic_noise_scale,,fitted,0.3258048372684656
+CP,Fresh-mask MC,51,mask_variance,ID,,0.0009129672101529
+CP,Fresh-mask MC,51,mask_variance,OOD,,0.0045941767314353
+CP,Fresh-mask MC,51,mse,ID,,0.1196214764245918
+CP,Fresh-mask MC,51,mse,OOD,,1.0528982877731323
+CP,Fresh-mask MC,51,nll_masks_only,ID,,3.876523047685623
+CP,Fresh-mask MC,51,nll_masks_only,OOD,,27.15603748957316
+CP,Fresh-mask MC,51,phys_e_drift,ID,,0.1450938941023949
+CP,Fresh-mask MC,51,phys_e_drift,OOD,,0.8373841297555038
+CP,Fresh-mask MC,51,spearman_rho,OOD,,0.942857142857143
+CP,Fresh-mask MC,51,var_alea,ID,,0.1369612533159905
+CP,Fresh-mask MC,51,var_alea,OOD,,0.1610796015122548
+CP,Fresh-mask MC,51,var_epi,ID,,0.0011427964666772
+CP,Fresh-mask MC,51,var_epi,OOD,,0.0052092736981555
+CP,Fresh-mask MC,51,var_ratio,OOD,,0.0323397478591308
+CP,Variational,42,alpha,ID,fitted,0.0976291254848252
+CP,Variational,42,alpha,OOD,fitted,0.2341329171225975
+CP,Variational,42,cov90_err,ID,fitted,0.0149017895971026
+CP,Variational,42,cov90_err,ID,fixed,0.2559077467237199
+CP,Variational,42,cov90_err,OOD,fitted,0.276131941874822
+CP,Variational,42,cov90_err,OOD,fixed,0.4682187428077062
+CP,Variational,42,g_nll,ID,fitted,0.452992276421615
+CP,Variational,42,g_nll,ID,fixed,1.114064236836774
+CP,Variational,42,g_nll,OOD,fitted,2.9443933566411338
+CP,Variational,42,g_nll,OOD,fixed,7.281057198842366
+CP,Variational,42,h_drift,,,0.5361652970314026
+CP,Variational,42,h_drift_final,,,0.6805837512016296
+CP,Variational,42,ic_noise_scale,,fitted,0.3390642904149057
+CP,Variational,42,mask_variance,ID,,0.0132881579852998
+CP,Variational,42,mask_variance,OOD,,0.0374224646237947
+CP,Variational,42,mse,ID,,0.1801385240895407
+CP,Variational,42,mse,OOD,,1.103866885105769
+CP,Variational,42,nll_masks_only,ID,,1.8540029312883104
+CP,Variational,42,nll_masks_only,OOD,,9.156957070032757
+CP,Variational,42,phys_e_drift,ID,,0.3421760746409893
+CP,Variational,42,phys_e_drift,OOD,,1.567997453515
+CP,Variational,42,spearman_rho,OOD,,0.8285714285714287
+CP,Variational,42,var_alea,ID,,0.1422283893953477
+CP,Variational,42,var_alea,OOD,,0.1404667589959331
+CP,Variational,42,var_epi,ID,,0.0153879448771476
+CP,Variational,42,var_epi,OOD,,0.0429420362589722
+CP,Variational,42,var_ratio,OOD,,0.3057095968179597
+CP,Variational,43,alpha,ID,fitted,0.0881994603926284
+CP,Variational,43,alpha,OOD,fitted,0.2048256905183444
+CP,Variational,43,cov90_err,ID,fitted,0.0107529827526637
+CP,Variational,43,cov90_err,ID,fixed,0.2998541661671229
+CP,Variational,43,cov90_err,OOD,fitted,0.2367708325386047
+CP,Variational,43,cov90_err,OOD,fixed,0.467718744277954
+CP,Variational,43,g_nll,ID,fitted,0.544792217867715
+CP,Variational,43,g_nll,ID,fixed,1.387636429497174
+CP,Variational,43,g_nll,OOD,fitted,2.447924812634786
+CP,Variational,43,g_nll,OOD,fixed,6.964944322903951
+CP,Variational,43,h_drift,,,0.5792890906333923
+CP,Variational,43,h_drift_final,,,0.6696320295333862
+CP,Variational,43,ic_noise_scale,,fitted,0.381686182698381
+CP,Variational,43,mask_variance,ID,,0.0137840614137724
+CP,Variational,43,mask_variance,OOD,,0.04032337438252
+CP,Variational,43,mse,ID,,0.2335073011262076
+CP,Variational,43,mse,OOD,,1.092425247033437
+CP,Variational,43,nll_masks_only,ID,,2.3005408474377225
+CP,Variational,43,nll_masks_only,OOD,,8.762587865193685
+CP,Variational,43,phys_e_drift,ID,,0.3591559329673762
+CP,Variational,43,phys_e_drift,OOD,,1.3414841644328868
+CP,Variational,43,spearman_rho,OOD,,0.8285714285714287
+CP,Variational,43,var_alea,ID,,0.1881370107783907
+CP,Variational,43,var_alea,OOD,,0.1852646300868419
+CP,Variational,43,var_epi,ID,,0.0181986981908143
+CP,Variational,43,var_epi,OOD,,0.047721556561478
+CP,Variational,43,var_ratio,OOD,,0.257585900444725
+CP,Variational,44,alpha,ID,fitted,0.1040847161427485
+CP,Variational,44,alpha,OOD,fitted,0.2554569279923012
+CP,Variational,44,cov90_err,ID,fitted,0.0368095278739929
+CP,Variational,44,cov90_err,ID,fixed,0.2806755883353097
+CP,Variational,44,cov90_err,OOD,fitted,0.2776562511920929
+CP,Variational,44,cov90_err,OOD,fixed,0.469364587465922
+CP,Variational,44,g_nll,ID,fitted,0.5092544172491346
+CP,Variational,44,g_nll,ID,fixed,1.2198393430028642
+CP,Variational,44,g_nll,OOD,fitted,2.8712580601374307
+CP,Variational,44,g_nll,OOD,fixed,6.98770531018575
+CP,Variational,44,h_drift,,,0.564048433303833
+CP,Variational,44,h_drift_final,,,0.6655575633049011
+CP,Variational,44,ic_noise_scale,,fitted,0.3287057543964917
+CP,Variational,44,mask_variance,ID,,0.0147050274558563
+CP,Variational,44,mask_variance,OOD,,0.0331839227701647
+CP,Variational,44,mse,ID,,0.2148592833961759
+CP,Variational,44,mse,OOD,,1.0925589005152383
+CP,Variational,44,nll_masks_only,ID,,2.008378335407802
+CP,Variational,44,nll_masks_only,OOD,,9.182358503341677
+CP,Variational,44,phys_e_drift,ID,,0.3208557947959725
+CP,Variational,44,phys_e_drift,OOD,,1.33091277292214
+CP,Variational,44,spearman_rho,OOD,,0.8285714285714287
+CP,Variational,44,var_alea,ID,,0.139346946359842
+CP,Variational,44,var_alea,OOD,,0.1369024105276072
+CP,Variational,44,var_epi,ID,,0.016188904931701
+CP,Variational,44,var_epi,OOD,,0.0469719893220117
+CP,Variational,44,var_ratio,OOD,,0.3431056410255063
+CP,Variational,45,alpha,ID,fitted,0.1259532440982963
+CP,Variational,45,alpha,OOD,fitted,0.2661871782924172
+CP,Variational,45,cov90_err,ID,fitted,0.0363630975995745
+CP,Variational,45,cov90_err,ID,fixed,0.3123750073569161
+CP,Variational,45,cov90_err,OOD,fitted,0.2321215311686197
+CP,Variational,45,cov90_err,OOD,fixed,0.4232569475968679
+CP,Variational,45,g_nll,ID,fitted,0.6445902032511575
+CP,Variational,45,g_nll,ID,fixed,1.587244940655572
+CP,Variational,45,g_nll,OOD,fitted,2.509405851364136
+CP,Variational,45,g_nll,OOD,fixed,6.141566832860311
+CP,Variational,45,h_drift,,,0.6952302813529968
+CP,Variational,45,h_drift_final,,,0.8550509929656982
+CP,Variational,45,ic_noise_scale,,fitted,0.3778545607013197
+CP,Variational,45,mask_variance,ID,,0.0216143281981528
+CP,Variational,45,mask_variance,OOD,,0.0500644112037399
+CP,Variational,45,mse,ID,,0.2473299152084759
+CP,Variational,45,mse,OOD,,1.124496042728424
+CP,Variational,45,nll_masks_only,ID,,2.267381497791835
+CP,Variational,45,nll_masks_only,OOD,,7.960501670837402
+CP,Variational,45,phys_e_drift,ID,,0.4578057475526054
+CP,Variational,45,phys_e_drift,OOD,,1.4347487953493452
+CP,Variational,45,spearman_rho,OOD,,0.7142857142857143
+CP,Variational,45,var_alea,ID,,0.1765860155540491
+CP,Variational,45,var_alea,OOD,,0.170666611026785
+CP,Variational,45,var_epi,ID,,0.0254466724706041
+CP,Variational,45,var_epi,OOD,,0.0619085170960021
+CP,Variational,45,var_ratio,OOD,,0.3627453356197833
+CP,Variational,46,alpha,ID,fitted,0.0524036109652577
+CP,Variational,46,alpha,OOD,fitted,0.126781212150079
+CP,Variational,46,cov90_err,ID,fitted,0.0120773724147251
+CP,Variational,46,cov90_err,ID,fixed,0.3015714313302721
+CP,Variational,46,cov90_err,OOD,fitted,0.2901458382606506
+CP,Variational,46,cov90_err,OOD,fixed,0.5311111102501551
+CP,Variational,46,g_nll,ID,fitted,0.4817440254347665
+CP,Variational,46,g_nll,ID,fixed,1.4332732749836783
+CP,Variational,46,g_nll,OOD,fitted,2.955080290635427
+CP,Variational,46,g_nll,OOD,fixed,9.808559974034628
+CP,Variational,46,h_drift,,,0.3766450107097626
+CP,Variational,46,h_drift_final,,,0.4570060133934021
+CP,Variational,46,ic_noise_scale,,fitted,0.3630615766406749
+CP,Variational,46,mask_variance,ID,,0.0081132220433568
+CP,Variational,46,mask_variance,OOD,,0.0208310015752153
+CP,Variational,46,mse,ID,,0.1992895986352648
+CP,Variational,46,mse,OOD,,1.1252537667751312
+CP,Variational,46,nll_masks_only,ID,,2.6940350277083263
+CP,Variational,46,nll_masks_only,OOD,,13.12502392133077
+CP,Variational,46,phys_e_drift,ID,,0.2831001085543946
+CP,Variational,46,phys_e_drift,OOD,,1.406793154033314
+CP,Variational,46,spearman_rho,OOD,,1.0
+CP,Variational,46,var_alea,ID,,0.1672113713195835
+CP,Variational,46,var_alea,OOD,,0.1738274334323315
+CP,Variational,46,var_epi,ID,,0.009247058930358
+CP,Variational,46,var_epi,OOD,,0.0252377216593693
+CP,Variational,46,var_ratio,OOD,,0.1451883696435868
+CP,Variational,47,alpha,ID,fitted,0.0619854290807357
+CP,Variational,47,alpha,OOD,fitted,0.1383002635440376
+CP,Variational,47,cov90_err,ID,fitted,0.0279851283345904
+CP,Variational,47,cov90_err,ID,fixed,0.3021011931555611
+CP,Variational,47,cov90_err,OOD,fitted,0.3118888924519221
+CP,Variational,47,cov90_err,OOD,fixed,0.531947914759318
+CP,Variational,47,g_nll,ID,fitted,0.5088730092559542
+CP,Variational,47,g_nll,ID,fixed,1.4813084048884255
+CP,Variational,47,g_nll,OOD,fitted,3.353488882382711
+CP,Variational,47,g_nll,OOD,fixed,10.347891012827557
+CP,Variational,47,h_drift,,,0.3866585850715637
+CP,Variational,47,h_drift_final,,,0.4414084434509277
+CP,Variational,47,ic_noise_scale,,fitted,0.3473375347853266
+CP,Variational,47,mask_variance,ID,,0.007873720221095
+CP,Variational,47,mask_variance,OOD,,0.0208834853907257
+CP,Variational,47,mse,ID,,0.198723951620715
+CP,Variational,47,mse,OOD,,1.186709354321162
+CP,Variational,47,nll_masks_only,ID,,2.6506836669785634
+CP,Variational,47,nll_masks_only,OOD,,14.296307563781738
+CP,Variational,47,phys_e_drift,ID,,0.3090243562043075
+CP,Variational,47,phys_e_drift,OOD,,1.878043353573337
+CP,Variational,47,spearman_rho,OOD,,0.8857142857142858
+CP,Variational,47,var_alea,ID,,0.1506687886469647
+CP,Variational,47,var_alea,OOD,,0.1526719713768955
+CP,Variational,47,var_epi,ID,,0.0099564226429918
+CP,Variational,47,var_epi,OOD,,0.0245034006440032
+CP,Variational,47,var_ratio,OOD,,0.1604970475131461
+CP,Variational,48,alpha,ID,fitted,0.1199506708877971
+CP,Variational,48,alpha,OOD,fitted,0.2640186557644157
+CP,Variational,48,cov90_err,ID,fitted,0.0297976119177681
+CP,Variational,48,cov90_err,ID,fixed,0.3147499970027378
+CP,Variational,48,cov90_err,OOD,fitted,0.2262465298175812
+CP,Variational,48,cov90_err,OOD,fixed,0.4308124969402949
+CP,Variational,48,g_nll,ID,fitted,0.6561330131122044
+CP,Variational,48,g_nll,ID,fixed,1.6317455513136727
+CP,Variational,48,g_nll,OOD,fitted,2.398963570594788
+CP,Variational,48,g_nll,OOD,fixed,6.226896683375041
+CP,Variational,48,h_drift,,,0.6995521306991577
+CP,Variational,48,h_drift_final,,,0.8985081195831299
+CP,Variational,48,ic_noise_scale,,fitted,0.3853213459034992
+CP,Variational,48,mask_variance,ID,,0.019469662066594
+CP,Variational,48,mask_variance,OOD,,0.0501810677223285
+CP,Variational,48,mse,ID,,0.2649349974734442
+CP,Variational,48,mse,OOD,,1.1133434573809309
+CP,Variational,48,nll_masks_only,ID,,2.42536153112139
+CP,Variational,48,nll_masks_only,OOD,,7.313004732131958
+CP,Variational,48,phys_e_drift,ID,,0.4041692939924017
+CP,Variational,48,phys_e_drift,OOD,,1.2753667309668697
+CP,Variational,48,spearman_rho,OOD,,0.4857142857142857
+CP,Variational,48,var_alea,ID,,0.1871486099521356
+CP,Variational,48,var_alea,OOD,,0.1788983770673789
+CP,Variational,48,var_epi,ID,,0.0255083443357926
+CP,Variational,48,var_epi,OOD,,0.0641762313701338
+CP,Variational,48,var_ratio,OOD,,0.358730092593087
+CP,Variational,49,alpha,ID,fitted,0.0672317516926398
+CP,Variational,49,alpha,OOD,fitted,0.1710606222481077
+CP,Variational,49,cov90_err,ID,fitted,0.0183630994388035
+CP,Variational,49,cov90_err,ID,fixed,0.2654404836041587
+CP,Variational,49,cov90_err,OOD,fitted,0.2966874976952871
+CP,Variational,49,cov90_err,OOD,fixed,0.5078472187121709
+CP,Variational,49,g_nll,ID,fitted,0.399295228932585
+CP,Variational,49,g_nll,ID,fixed,1.1068218097622906
+CP,Variational,49,g_nll,OOD,fitted,3.0844106872876487
+CP,Variational,49,g_nll,OOD,fixed,8.988178412119547
+CP,Variational,49,h_drift,,,0.3832216024398803
+CP,Variational,49,h_drift_final,,,0.4511310994625092
+CP,Variational,49,ic_noise_scale,,fitted,0.3241161790294358
+CP,Variational,49,mask_variance,ID,,0.0079786629341632
+CP,Variational,49,mask_variance,OOD,,0.0208492629166881
+CP,Variational,49,mse,ID,,0.163800373673439
+CP,Variational,49,mse,OOD,,1.0370508035024006
+CP,Variational,49,nll_masks_only,ID,,2.009633971112115
+CP,Variational,49,nll_masks_only,OOD,,12.855057875315348
+CP,Variational,49,phys_e_drift,ID,,0.2431768358207626
+CP,Variational,49,phys_e_drift,OOD,,1.4663183143751235
+CP,Variational,49,spearman_rho,OOD,,1.0
+CP,Variational,49,var_alea,ID,,0.1300521154807918
+CP,Variational,49,var_alea,OOD,,0.1343190149947777
+CP,Variational,49,var_epi,ID,,0.0093738520269892
+CP,Variational,49,var_epi,OOD,,0.0277181841054204
+CP,Variational,49,var_ratio,OOD,,0.2063608351095944
+CP,Variational,50,alpha,ID,fitted,0.0950686951010325
+CP,Variational,50,alpha,OOD,fitted,0.2262860464135535
+CP,Variational,50,cov90_err,ID,fitted,0.026723221370152
+CP,Variational,50,cov90_err,ID,fixed,0.2807976160730634
+CP,Variational,50,cov90_err,OOD,fitted,0.270249996582667
+CP,Variational,50,cov90_err,OOD,fixed,0.477062502503395
+CP,Variational,50,g_nll,ID,fitted,0.5389040921415601
+CP,Variational,50,g_nll,ID,fixed,1.412163219447913
+CP,Variational,50,g_nll,OOD,fitted,2.9294148484865823
+CP,Variational,50,g_nll,OOD,fixed,7.758647839228312
+CP,Variational,50,h_drift,,,0.5436042845249176
+CP,Variational,50,h_drift_final,,,0.6671116828918457
+CP,Variational,50,ic_noise_scale,,fitted,0.3535191549080307
+CP,Variational,50,mask_variance,ID,,0.0136294077910464
+CP,Variational,50,mask_variance,OOD,,0.0298554661794233
+CP,Variational,50,mse,ID,,0.2067784305129732
+CP,Variational,50,mse,OOD,,1.1765065689881642
+CP,Variational,50,nll_masks_only,ID,,2.246736692530768
+CP,Variational,50,nll_masks_only,OOD,,10.023799260457356
+CP,Variational,50,phys_e_drift,ID,,0.3704619994852494
+CP,Variational,50,phys_e_drift,OOD,,1.5895927413682256
+CP,Variational,50,spearman_rho,OOD,,1.0
+CP,Variational,50,var_alea,ID,,0.1563140723662114
+CP,Variational,50,var_alea,OOD,,0.1539489378988435
+CP,Variational,50,var_epi,ID,,0.016421771249745
+CP,Variational,50,var_epi,OOD,,0.0450250332764649
+CP,Variational,50,var_ratio,OOD,,0.2924673199502673
+CP,Variational,51,alpha,ID,fitted,0.1097356870647339
+CP,Variational,51,alpha,OOD,fitted,0.2436894753615027
+CP,Variational,51,cov90_err,ID,fitted,0.0321517910276141
+CP,Variational,51,cov90_err,ID,fixed,0.2534702403204781
+CP,Variational,51,cov90_err,OOD,fitted,0.2928541640440623
+CP,Variational,51,cov90_err,OOD,fixed,0.4644409755865732
+CP,Variational,51,g_nll,ID,fitted,0.438276717705386
+CP,Variational,51,g_nll,ID,fixed,1.0225166923233442
+CP,Variational,51,g_nll,OOD,fitted,3.2177043557167053
+CP,Variational,51,g_nll,OOD,fixed,7.196509599685669
+CP,Variational,51,h_drift,,,0.5313289403915405
+CP,Variational,51,h_drift_final,,,0.6673303008079529
+CP,Variational,51,ic_noise_scale,,fitted,0.3093989603861975
+CP,Variational,51,mask_variance,ID,,0.013022149189152
+CP,Variational,51,mask_variance,OOD,,0.0355668189161914
+CP,Variational,51,mse,ID,,0.1834944582411221
+CP,Variational,51,mse,OOD,,1.0618332078059514
+CP,Variational,51,nll_masks_only,ID,,1.780443372470992
+CP,Variational,51,nll_masks_only,OOD,,9.64327828089396
+CP,Variational,51,phys_e_drift,ID,,0.3185285561855202
+CP,Variational,51,phys_e_drift,OOD,,1.3164158311129264
+CP,Variational,51,spearman_rho,OOD,,0.942857142857143
+CP,Variational,51,var_alea,ID,,0.1239865948149314
+CP,Variational,51,var_alea,OOD,,0.1211577139056416
+CP,Variational,51,var_epi,ID,,0.0152828255284929
+CP,Variational,51,var_epi,OOD,,0.0390380125303389
+CP,Variational,51,var_ratio,OOD,,0.3222082298510681
+SC,Concrete,42,alpha,ID,fitted,0.0301909118717856
+SC,Concrete,42,alpha,OOD,fitted,0.0622417537308691
+SC,Concrete,42,cov90_err,ID,fitted,0.0843516925970713
+SC,Concrete,42,cov90_err,ID,fixed,0.2242613000174363
+SC,Concrete,42,cov90_err,OOD,fitted,0.5449819911271334
+SC,Concrete,42,cov90_err,OOD,fixed,0.6558506362140178
+SC,Concrete,42,g_nll,ID,fitted,1.7880559130144926
+SC,Concrete,42,g_nll,ID,fixed,5.061759172892198
+SC,Concrete,42,g_nll,OOD,fitted,15.94825975894928
+SC,Concrete,42,g_nll,OOD,fixed,40.79511721134186
+SC,Concrete,42,h_drift,,,1.6487014293670654
+SC,Concrete,42,h_drift_final,,,1.592770767211914
+SC,Concrete,42,ic_noise_scale,,fitted,0.2449760249048545
+SC,Concrete,42,mse,ID,,0.6454954288279017
+SC,Concrete,42,mse,OOD,,4.408849501609803
+SC,Concrete,42,nll_masks_only,ID,,13.172517154365778
+SC,Concrete,42,nll_masks_only,OOD,,86.89776253700256
+SC,Concrete,42,phys_e_drift,ID,,0.8640821067849511
+SC,Concrete,42,phys_e_drift,OOD,,3.971342487936951
+SC,Concrete,42,var_alea,ID,,0.1424345011512438
+SC,Concrete,42,var_alea,OOD,,0.14330176692456
+SC,Concrete,42,var_epi,ID,,0.0044340969005133
+SC,Concrete,42,var_epi,OOD,,0.0095113568146188
+SC,Concrete,42,var_ratio,OOD,,0.0663729207165048
+SC,Concrete,43,alpha,ID,fitted,0.0278334207652266
+SC,Concrete,43,alpha,OOD,fitted,0.0617460881260468
+SC,Concrete,43,cov90_err,ID,fitted,0.0817683617273966
+SC,Concrete,43,cov90_err,ID,fixed,0.2256956174969673
+SC,Concrete,43,cov90_err,OOD,fitted,0.5429078400135041
+SC,Concrete,43,cov90_err,OOD,fixed,0.6543389819562435
+SC,Concrete,43,g_nll,ID,fitted,1.6823548564027684
+SC,Concrete,43,g_nll,ID,fixed,4.79668219195058
+SC,Concrete,43,g_nll,OOD,fitted,15.950260227918625
+SC,Concrete,43,g_nll,OOD,fixed,41.44314975738526
+SC,Concrete,43,h_drift,,,1.6318471431732178
+SC,Concrete,43,h_drift_final,,,1.792828345298767
+SC,Concrete,43,ic_noise_scale,,fitted,0.2459809617745222
+SC,Concrete,43,mse,ID,,0.6356177723656098
+SC,Concrete,43,mse,OOD,,4.400489088892937
+SC,Concrete,43,nll_masks_only,ID,,12.801340663433075
+SC,Concrete,43,nll_masks_only,OOD,,88.903045129776
+SC,Concrete,43,phys_e_drift,ID,,0.8548097435734554
+SC,Concrete,43,phys_e_drift,OOD,,3.9144441388056
+SC,Concrete,43,var_alea,ID,,0.1435592751950025
+SC,Concrete,43,var_alea,OOD,,0.144935232028365
+SC,Concrete,43,var_epi,ID,,0.0041101451094921
+SC,Concrete,43,var_epi,OOD,,0.0095381255501706
+SC,Concrete,43,var_ratio,OOD,,0.0658095717423899
+SC,Concrete,44,alpha,ID,fitted,0.0367078048383131
+SC,Concrete,44,alpha,OOD,fitted,0.0757643266211627
+SC,Concrete,44,cov90_err,ID,fitted,0.0999689266085624
+SC,Concrete,44,cov90_err,ID,fixed,0.2145254254341125
+SC,Concrete,44,cov90_err,OOD,fitted,0.5743855927139521
+SC,Concrete,44,cov90_err,OOD,fixed,0.6562309317290783
+SC,Concrete,44,g_nll,ID,fitted,1.8199580956172816
+SC,Concrete,44,g_nll,ID,fixed,4.212152743762514
+SC,Concrete,44,g_nll,OOD,fitted,19.9151194691658
+SC,Concrete,44,g_nll,OOD,fixed,41.39080436229706
+SC,Concrete,44,h_drift,,,1.7174919605255128
+SC,Concrete,44,h_drift_final,,,1.8628855705261231
+SC,Concrete,44,ic_noise_scale,,fitted,0.2174703096769394
+SC,Concrete,44,mse,ID,,0.6116682140156626
+SC,Concrete,44,mse,OOD,,4.209938147664071
+SC,Concrete,44,nll_masks_only,ID,,10.987255290150642
+SC,Concrete,44,nll_masks_only,OOD,,87.79170975685119
+SC,Concrete,44,phys_e_drift,ID,,0.8491823197589473
+SC,Concrete,44,phys_e_drift,OOD,,3.860351556601926
+SC,Concrete,44,var_alea,ID,,0.1112776940067608
+SC,Concrete,44,var_alea,OOD,,0.1079393973574042
+SC,Concrete,44,var_epi,ID,,0.0042404162464662
+SC,Concrete,44,var_epi,OOD,,0.0088483446292229
+SC,Concrete,44,var_ratio,OOD,,0.0819751160915295
+SC,Concrete,45,alpha,ID,fitted,0.0333062772798985
+SC,Concrete,45,alpha,OOD,fitted,0.0748543571845734
+SC,Concrete,45,cov90_err,ID,fitted,0.0800007050236066
+SC,Concrete,45,cov90_err,ID,fixed,0.2557733009258906
+SC,Concrete,45,cov90_err,OOD,fitted,0.5113877087831498
+SC,Concrete,45,cov90_err,OOD,fixed,0.6520222447812557
+SC,Concrete,45,g_nll,ID,fitted,1.6040297534151855
+SC,Concrete,45,g_nll,ID,fixed,5.329883555470345
+SC,Concrete,45,g_nll,OOD,fitted,11.994334936141968
+SC,Concrete,45,g_nll,OOD,fixed,37.07741293907166
+SC,Concrete,45,h_drift,,,1.937181329727173
+SC,Concrete,45,h_drift_final,,,1.935447907447815
+SC,Concrete,45,ic_noise_scale,,fitted,0.2804796570518508
+SC,Concrete,45,mse,ID,,0.7427068588634332
+SC,Concrete,45,mse,OOD,,4.356103053689003
+SC,Concrete,45,nll_masks_only,ID,,12.685799898207188
+SC,Concrete,45,nll_masks_only,OOD,,75.22871332168579
+SC,Concrete,45,phys_e_drift,ID,,0.9553141374016054
+SC,Concrete,45,phys_e_drift,OOD,,3.923246152296079
+SC,Concrete,45,var_alea,ID,,0.185117495059967
+SC,Concrete,45,var_alea,OOD,,0.1851360656321048
+SC,Concrete,45,var_epi,ID,,0.0063780021271667
+SC,Concrete,45,var_epi,OOD,,0.0149795238103251
+SC,Concrete,45,var_ratio,OOD,,0.0809108898321944
+SC,Concrete,46,alpha,ID,fitted,0.0377900030437655
+SC,Concrete,46,alpha,OOD,fitted,0.0862749077034539
+SC,Concrete,46,cov90_err,ID,fitted,0.0921306540568669
+SC,Concrete,46,cov90_err,ID,fixed,0.2517266968886057
+SC,Concrete,46,cov90_err,OOD,fitted,0.5323813542723657
+SC,Concrete,46,cov90_err,OOD,fixed,0.6503654647618532
+SC,Concrete,46,g_nll,ID,fitted,1.8009380602588256
+SC,Concrete,46,g_nll,ID,fixed,5.290258489139766
+SC,Concrete,46,g_nll,OOD,fitted,14.116771912574768
+SC,Concrete,46,g_nll,OOD,fixed,37.562528467178346
+SC,Concrete,46,h_drift,,,2.2065127372741697
+SC,Concrete,46,h_drift_final,,,2.24065682888031
+SC,Concrete,46,ic_noise_scale,,fitted,0.2570451110146587
+SC,Concrete,46,mse,ID,,0.6851146781196197
+SC,Concrete,46,mse,OOD,,4.446625226736069
+SC,Concrete,46,nll_masks_only,ID,,12.968959483504296
+SC,Concrete,46,nll_masks_only,OOD,,77.17423639297485
+SC,Concrete,46,phys_e_drift,ID,,0.9485038756631334
+SC,Concrete,46,phys_e_drift,OOD,,4.203997974220346
+SC,Concrete,46,var_alea,ID,,0.1566817878435055
+SC,Concrete,46,var_alea,OOD,,0.157571174390614
+SC,Concrete,46,var_epi,ID,,0.0061535478307632
+SC,Concrete,46,var_epi,OOD,,0.0148780400602844
+SC,Concrete,46,var_ratio,OOD,,0.0944210774453092
+SC,Concrete,47,alpha,ID,fitted,0.0313869989867054
+SC,Concrete,47,alpha,OOD,fitted,0.0639146061864969
+SC,Concrete,47,cov90_err,ID,fitted,0.1024131367603937
+SC,Concrete,47,cov90_err,ID,fixed,0.2418524019420146
+SC,Concrete,47,cov90_err,OOD,fitted,0.5596822030842304
+SC,Concrete,47,cov90_err,OOD,fixed,0.6592266958206892
+SC,Concrete,47,g_nll,ID,fitted,1.9825591162623213
+SC,Concrete,47,g_nll,ID,fixed,5.242749449934733
+SC,Concrete,47,g_nll,OOD,fitted,17.87474551796913
+SC,Concrete,47,g_nll,OOD,fixed,42.831635808944704
+SC,Concrete,47,h_drift,,,1.7104960680007937
+SC,Concrete,47,h_drift_final,,,1.820516836643219
+SC,Concrete,47,ic_noise_scale,,fitted,0.2361802846878046
+SC,Concrete,47,mse,ID,,0.6729941419015328
+SC,Concrete,47,mse,OOD,,4.393615189194679
+SC,Concrete,47,nll_masks_only,ID,,13.45742769340674
+SC,Concrete,47,nll_masks_only,OOD,,90.31185450553896
+SC,Concrete,47,phys_e_drift,ID,,0.8871448490314946
+SC,Concrete,47,phys_e_drift,OOD,,3.8795141126279193
+SC,Concrete,47,var_alea,ID,,0.1315147038549184
+SC,Concrete,47,var_alea,OOD,,0.1308128502219915
+SC,Concrete,47,var_epi,ID,,0.0042616110586095
+SC,Concrete,47,var_epi,OOD,,0.0089317191159352
+SC,Concrete,47,var_ratio,OOD,,0.068278606427258
+SC,Concrete,48,alpha,ID,fitted,0.0281647195414957
+SC,Concrete,48,alpha,OOD,fitted,0.055638555561275
+SC,Concrete,48,cov90_err,ID,fitted,0.0807824820280075
+SC,Concrete,48,cov90_err,ID,fixed,0.227210450420777
+SC,Concrete,48,cov90_err,OOD,fitted,0.5399364396929741
+SC,Concrete,48,cov90_err,OOD,fixed,0.6553019043058157
+SC,Concrete,48,g_nll,ID,fitted,1.70638550073539
+SC,Concrete,48,g_nll,ID,fixed,5.012971311698978
+SC,Concrete,48,g_nll,OOD,fitted,15.597219914197922
+SC,Concrete,48,g_nll,OOD,fixed,41.82453618049622
+SC,Concrete,48,h_drift,,,1.5012084364891052
+SC,Concrete,48,h_drift_final,,,1.5379597187042235
+SC,Concrete,48,ic_noise_scale,,fitted,0.2504461337436055
+SC,Concrete,48,mse,ID,,0.6757828440517187
+SC,Concrete,48,mse,OOD,,4.376571640372276
+SC,Concrete,48,nll_masks_only,ID,,13.265006816387176
+SC,Concrete,48,nll_masks_only,OOD,,89.91513533592224
+SC,Concrete,48,phys_e_drift,ID,,0.8865321207092368
+SC,Concrete,48,phys_e_drift,OOD,,3.8878994400642135
+SC,Concrete,48,var_alea,ID,,0.1476266278574863
+SC,Concrete,48,var_alea,OOD,,0.1485650798305868
+SC,Concrete,48,var_epi,ID,,0.004278361419953
+SC,Concrete,48,var_epi,OOD,,0.0087529478223586
+SC,Concrete,48,var_ratio,OOD,,0.0589165894996313
+SC,Concrete,49,alpha,ID,fitted,0.0343154859768558
+SC,Concrete,49,alpha,OOD,fitted,0.0724888188747325
+SC,Concrete,49,cov90_err,ID,fitted,0.0806906764705975
+SC,Concrete,49,cov90_err,ID,fixed,0.2222344654301802
+SC,Concrete,49,cov90_err,OOD,fitted,0.5375847466289998
+SC,Concrete,49,cov90_err,OOD,fixed,0.6489131350070239
+SC,Concrete,49,g_nll,ID,fitted,1.724954433417103
+SC,Concrete,49,g_nll,ID,fixed,4.869256688146076
+SC,Concrete,49,g_nll,OOD,fitted,15.27095445394516
+SC,Concrete,49,g_nll,OOD,fixed,39.04009647369385
+SC,Concrete,49,h_drift,,,1.7811249256134034
+SC,Concrete,49,h_drift_final,,,1.8636043310165404
+SC,Concrete,49,ic_noise_scale,,fitted,0.2459875629543036
+SC,Concrete,49,mse,ID,,0.6438320162395637
+SC,Concrete,49,mse,OOD,,4.369533282518387
+SC,Concrete,49,nll_masks_only,ID,,12.509625781327486
+SC,Concrete,49,nll_masks_only,OOD,,82.7488570690155
+SC,Concrete,49,phys_e_drift,ID,,0.8942198674385923
+SC,Concrete,49,phys_e_drift,OOD,,3.9364129836024793
+SC,Concrete,49,var_alea,ID,,0.1424260997523863
+SC,Concrete,49,var_alea,OOD,,0.1431578826159238
+SC,Concrete,49,var_epi,ID,,0.0050610947548799
+SC,Concrete,49,var_epi,OOD,,0.0111883781399228
+SC,Concrete,49,var_ratio,OOD,,0.0781541186239806
+SC,Concrete,50,alpha,ID,fitted,0.0288672533401112
+SC,Concrete,50,alpha,OOD,fitted,0.060322148221298
+SC,Concrete,50,cov90_err,ID,fitted,0.072539547085762
+SC,Concrete,50,cov90_err,ID,fixed,0.2351461897293726
+SC,Concrete,50,cov90_err,OOD,fitted,0.5170836865901947
+SC,Concrete,50,cov90_err,OOD,fixed,0.6482595346868039
+SC,Concrete,50,g_nll,ID,fitted,1.5926472481927096
+SC,Concrete,50,g_nll,ID,fixed,5.117691036317653
+SC,Concrete,50,g_nll,OOD,fitted,13.31501557826996
+SC,Concrete,50,g_nll,OOD,fixed,39.41120617389679
+SC,Concrete,50,h_drift,,,1.7150973200798034
+SC,Concrete,50,h_drift_final,,,1.7262835264205934
+SC,Concrete,50,ic_noise_scale,,fitted,0.2672271745425144
+SC,Concrete,50,mse,ID,,0.652133854602774
+SC,Concrete,50,mse,OOD,,4.3849371612072
+SC,Concrete,50,nll_masks_only,ID,,13.01915410955747
+SC,Concrete,50,nll_masks_only,OOD,,81.92657136917114
+SC,Concrete,50,phys_e_drift,ID,,0.9038761690145716
+SC,Concrete,50,phys_e_drift,OOD,,3.92841524191025
+SC,Concrete,50,var_alea,ID,,0.1690187996874252
+SC,Concrete,50,var_alea,OOD,,0.1705492081120609
+SC,Concrete,50,var_epi,ID,,0.0050241416805268
+SC,Concrete,50,var_epi,OOD,,0.0109483208434539
+SC,Concrete,50,var_ratio,OOD,,0.0641944982603509
+SC,Concrete,51,alpha,ID,fitted,0.0239058413149752
+SC,Concrete,51,alpha,OOD,fitted,0.0480729203896379
+SC,Concrete,51,cov90_err,ID,fitted,0.0793389841914177
+SC,Concrete,51,cov90_err,ID,fixed,0.2503481614092985
+SC,Concrete,51,cov90_err,OOD,fitted,0.5246949151158333
+SC,Concrete,51,cov90_err,OOD,fixed,0.6575646195560694
+SC,Concrete,51,g_nll,ID,fitted,1.590390118335684
+SC,Concrete,51,g_nll,ID,fixed,5.201146781401864
+SC,Concrete,51,g_nll,OOD,fitted,13.86323457956314
+SC,Concrete,51,g_nll,OOD,fixed,43.090726709365846
+SC,Concrete,51,h_drift,,,1.4739940643310547
+SC,Concrete,51,h_drift_final,,,1.2412543773651123
+SC,Concrete,51,ic_noise_scale,,fitted,0.2713548908906272
+SC,Concrete,51,mse,ID,,0.7004902917891741
+SC,Concrete,51,mse,OOD,,4.356295105814934
+SC,Concrete,51,nll_masks_only,ID,,13.465125323832035
+SC,Concrete,51,nll_masks_only,OOD,,92.1316349029541
+SC,Concrete,51,phys_e_drift,ID,,0.8821074222223564
+SC,Concrete,51,phys_e_drift,OOD,,3.881259935756363
+SC,Concrete,51,var_alea,ID,,0.1734954137355089
+SC,Concrete,51,var_alea,OOD,,0.1726227099075913
+SC,Concrete,51,var_epi,ID,,0.004249132927119
+SC,Concrete,51,var_epi,OOD,,0.0087175561748153
+SC,Concrete,51,var_ratio,OOD,,0.0505006333145971
+SC,Deep ensemble,42,alpha,ID,fitted,0.0506811614590928
+SC,Deep ensemble,42,alpha,OOD,fitted,0.2711745743075414
+SC,Deep ensemble,42,cov90_err,ID,fitted,0.0844173734386761
+SC,Deep ensemble,42,cov90_err,ID,fixed,0.1987464686234792
+SC,Deep ensemble,42,cov90_err,OOD,fitted,0.5738495774567127
+SC,Deep ensemble,42,cov90_err,OOD,fixed,0.651137712597847
+SC,Deep ensemble,42,g_nll,ID,fitted,1.575622833970313
+SC,Deep ensemble,42,g_nll,ID,fixed,3.812387409588943
+SC,Deep ensemble,42,g_nll,OOD,fitted,17.24352695941925
+SC,Deep ensemble,42,g_nll,OOD,fixed,35.619532346725464
+SC,Deep ensemble,42,h_drift,,,0.10576175153255463
+SC,Deep ensemble,42,h_drift_final,,,0.07736077085137368
+SC,Deep ensemble,42,ic_noise_scale,,fitted,0.2155050100031057
+SC,Deep ensemble,42,mse,ID,,0.5383587274079521
+SC,Deep ensemble,42,mse,OOD,,4.105176612734795
+SC,Deep ensemble,42,nll_masks_only,ID,,21.25285207629204
+SC,Deep ensemble,42,nll_masks_only,OOD,,129.42852354049683
+SC,Deep ensemble,42,phys_e_drift,ID,,0.6744540097128212
+SC,Deep ensemble,42,phys_e_drift,OOD,,4.309426544543542
+SC,Deep ensemble,42,var_alea,ID,,0.111101643120249
+SC,Deep ensemble,42,var_alea,OOD,,0.1074931686744093
+SC,Deep ensemble,42,var_epi,ID,,0.0059313689824193
+SC,Deep ensemble,42,var_epi,OOD,,0.0399950567429186
+SC,Deep ensemble,42,var_ratio,OOD,,0.372070683524656
+SC,Deterministic,42,cov90_err,ID,fitted,0.0830035358667373
+SC,Deterministic,42,cov90_err,ID,fixed,0.285530367741982
+SC,Deterministic,42,cov90_err,OOD,fitted,0.593162077665329
+SC,Deterministic,42,cov90_err,OOD,fixed,0.717453389801085
+SC,Deterministic,42,g_nll,ID,fitted,1.3479544192173003
+SC,Deterministic,42,g_nll,ID,fixed,5.129339051960657
+SC,Deterministic,42,g_nll,OOD,fitted,19.671049320697783
+SC,Deterministic,42,g_nll,OOD,fixed,70.8547972202301
+SC,Deterministic,42,h_drift,,,0.1066371418535709
+SC,Deterministic,42,h_drift_final,,,0.0821665994822979
+SC,Deterministic,42,ic_noise_scale,,fitted,0.2579939177954448
+SC,Deterministic,42,mse,ID,,0.5322929963469505
+SC,Deterministic,42,mse,OOD,,4.599483373761177
+SC,Deterministic,42,phys_e_drift,ID,,0.6453079988397021
+SC,Deterministic,42,phys_e_drift,OOD,,6.619623253800872
+SC,Deterministic,42,var_alea,ID,,0.1588455942769844
+SC,Deterministic,42,var_alea,OOD,,0.1583339059725403
+SC,Deterministic,43,cov90_err,ID,fitted,0.0779908200105031
+SC,Deterministic,43,cov90_err,ID,fixed,0.2896786724527675
+SC,Deterministic,43,cov90_err,OOD,fitted,0.5791239410638809
+SC,Deterministic,43,cov90_err,OOD,fixed,0.7113072024658322
+SC,Deterministic,43,g_nll,ID,fitted,1.2909389113022671
+SC,Deterministic,43,g_nll,ID,fixed,5.132789827964734
+SC,Deterministic,43,g_nll,OOD,fitted,17.402335512638093
+SC,Deterministic,43,g_nll,OOD,fixed,67.6207248210907
+SC,Deterministic,43,h_drift,,,0.1064093887805938
+SC,Deterministic,43,h_drift_final,,,0.076724100112915
+SC,Deterministic,43,ic_noise_scale,,fitted,0.2659363917592192
+SC,Deterministic,43,mse,ID,,0.5365061497315764
+SC,Deterministic,43,mse,OOD,,4.513320669531822
+SC,Deterministic,43,phys_e_drift,ID,,0.6553256237434919
+SC,Deterministic,43,phys_e_drift,OOD,,4.922885188940538
+SC,Deterministic,43,var_alea,ID,,0.1694301854819059
+SC,Deterministic,43,var_alea,OOD,,0.167599569261074
+SC,Deterministic,44,cov90_err,ID,fitted,0.0837429384390513
+SC,Deterministic,44,cov90_err,ID,fixed,0.2713919495542843
+SC,Deterministic,44,cov90_err,OOD,fitted,0.5923697043210268
+SC,Deterministic,44,cov90_err,OOD,fixed,0.7079491520300507
+SC,Deterministic,44,g_nll,ID,fitted,1.4231106884467104
+SC,Deterministic,44,g_nll,ID,fixed,5.043278972113815
+SC,Deterministic,44,g_nll,OOD,fitted,19.39247781634331
+SC,Deterministic,44,g_nll,OOD,fixed,65.48065717220307
+SC,Deterministic,44,h_drift,,,0.1065438844263553
+SC,Deterministic,44,h_drift_final,,,0.0794788889586925
+SC,Deterministic,44,ic_noise_scale,,fitted,0.2465209956297032
+SC,Deterministic,44,mse,ID,,0.5274114286527037
+SC,Deterministic,44,mse,OOD,,4.404814818501473
+SC,Deterministic,44,phys_e_drift,ID,,0.6350409850641019
+SC,Deterministic,44,phys_e_drift,OOD,,4.385518265056952
+SC,Deterministic,44,var_alea,ID,,0.1451094763974348
+SC,Deterministic,44,var_alea,OOD,,0.1435229923576116
+SC,Deterministic,45,cov90_err,ID,fitted,0.0828622827927272
+SC,Deterministic,45,cov90_err,ID,fixed,0.2830473139882086
+SC,Deterministic,45,cov90_err,OOD,fitted,0.5841345340013504
+SC,Deterministic,45,cov90_err,OOD,fixed,0.7088389825075865
+SC,Deterministic,45,g_nll,ID,fitted,1.321874211363805
+SC,Deterministic,45,g_nll,ID,fixed,4.975174354443637
+SC,Deterministic,45,g_nll,OOD,fitted,18.17893109917641
+SC,Deterministic,45,g_nll,OOD,fixed,66.0689091205597
+SC,Deterministic,45,h_drift,,,0.1067511975765228
+SC,Deterministic,45,h_drift_final,,,0.0798362351953983
+SC,Deterministic,45,ic_noise_scale,,fitted,0.2560098827972476
+SC,Deterministic,45,mse,ID,,0.5323458919301629
+SC,Deterministic,45,mse,OOD,,4.432186937332153
+SC,Deterministic,45,phys_e_drift,ID,,0.6446987666693479
+SC,Deterministic,45,phys_e_drift,OOD,,4.965590818093462
+SC,Deterministic,45,var_alea,ID,,0.1566525449355443
+SC,Deterministic,45,var_alea,OOD,,0.1554117938503622
+SC,Deterministic,46,cov90_err,ID,fitted,0.0789844666918119
+SC,Deterministic,46,cov90_err,ID,fixed,0.2730854541063308
+SC,Deterministic,46,cov90_err,OOD,fitted,0.5795847460627557
+SC,Deterministic,46,cov90_err,OOD,fixed,0.7019915252923965
+SC,Deterministic,46,g_nll,ID,fitted,1.3549598231727336
+SC,Deterministic,46,g_nll,ID,fixed,5.009667765028038
+SC,Deterministic,46,g_nll,OOD,fitted,17.722573852539064
+SC,Deterministic,46,g_nll,OOD,fixed,63.593366622924805
+SC,Deterministic,46,h_drift,,,0.1063555233180522
+SC,Deterministic,46,h_drift_final,,,0.0775976337492466
+SC,Deterministic,46,ic_noise_scale,,fitted,0.2526971285669349
+SC,Deterministic,46,mse,ID,,0.522379242690901
+SC,Deterministic,46,mse,OOD,,4.301892295479775
+SC,Deterministic,46,phys_e_drift,ID,,0.6341953466851166
+SC,Deterministic,46,phys_e_drift,OOD,,4.604809215564032
+SC,Deterministic,46,var_alea,ID,,0.1524644952267408
+SC,Deterministic,46,var_alea,OOD,,0.1499777732416987
+SC,Deterministic,47,cov90_err,ID,fitted,0.0836553677916527
+SC,Deterministic,47,cov90_err,ID,fixed,0.2781490107377369
+SC,Deterministic,47,cov90_err,OOD,fitted,0.5898940697312356
+SC,Deterministic,47,cov90_err,OOD,fixed,0.7103993635624647
+SC,Deterministic,47,g_nll,ID,fitted,1.4305089896088854
+SC,Deterministic,47,g_nll,ID,fixed,5.233267481687168
+SC,Deterministic,47,g_nll,OOD,fitted,18.58153303861618
+SC,Deterministic,47,g_nll,OOD,fixed,66.13775639533996
+SC,Deterministic,47,h_drift,,,0.1069004379212856
+SC,Deterministic,47,h_drift_final,,,0.0813532844185829
+SC,Deterministic,47,ic_noise_scale,,fitted,0.2527185163637508
+SC,Deterministic,47,mse,ID,,0.5393843055392306
+SC,Deterministic,47,mse,OOD,,4.406951498985291
+SC,Deterministic,47,phys_e_drift,ID,,0.6419468213745572
+SC,Deterministic,47,phys_e_drift,OOD,,4.472378948645543
+SC,Deterministic,47,var_alea,ID,,0.1518716568748156
+SC,Deterministic,47,var_alea,OOD,,0.1511065194383263
+SC,Deterministic,48,cov90_err,ID,fitted,0.0848269800345102
+SC,Deterministic,48,cov90_err,ID,fixed,0.2698022581636906
+SC,Deterministic,48,cov90_err,OOD,fitted,0.5838792361319065
+SC,Deterministic,48,cov90_err,OOD,fixed,0.6993061440065503
+SC,Deterministic,48,g_nll,ID,fitted,1.4123192781989928
+SC,Deterministic,48,g_nll,ID,fixed,4.91807843533461
+SC,Deterministic,48,g_nll,OOD,fitted,18.539718919992445
+SC,Deterministic,48,g_nll,OOD,fixed,61.75624401569367
+SC,Deterministic,48,h_drift,,,0.1063883632421493
+SC,Deterministic,48,h_drift_final,,,0.0785992801189422
+SC,Deterministic,48,ic_noise_scale,,fitted,0.2434549959063473
+SC,Deterministic,48,mse,ID,,0.5189891615261634
+SC,Deterministic,48,mse,OOD,,4.321950981020928
+SC,Deterministic,48,phys_e_drift,ID,,0.6367833516040622
+SC,Deterministic,48,phys_e_drift,OOD,,4.484071086302479
+SC,Deterministic,48,var_alea,ID,,0.141393669322133
+SC,Deterministic,48,var_alea,OOD,,0.1397812638431787
+SC,Deterministic,49,cov90_err,ID,fitted,0.0868481611212095
+SC,Deterministic,49,cov90_err,ID,fixed,0.2735233061015605
+SC,Deterministic,49,cov90_err,OOD,fitted,0.6002161029726267
+SC,Deterministic,49,cov90_err,OOD,fixed,0.7133495749905705
+SC,Deterministic,49,g_nll,ID,fitted,1.4377239672156672
+SC,Deterministic,49,g_nll,ID,fixed,5.033493156886349
+SC,Deterministic,49,g_nll,OOD,fitted,20.59033780097961
+SC,Deterministic,49,g_nll,OOD,fixed,67.7020400762558
+SC,Deterministic,49,h_drift,,,0.1066273123025894
+SC,Deterministic,49,h_drift_final,,,0.0813912235200405
+SC,Deterministic,49,ic_noise_scale,,fitted,0.2446966812062126
+SC,Deterministic,49,mse,ID,,0.5247672993068894
+SC,Deterministic,49,mse,OOD,,4.503916409611702
+SC,Deterministic,49,phys_e_drift,ID,,0.6468516968003308
+SC,Deterministic,49,phys_e_drift,OOD,,4.578824476926793
+SC,Deterministic,49,var_alea,ID,,0.1426749483992655
+SC,Deterministic,49,var_alea,OOD,,0.1416452987119555
+SC,Deterministic,50,cov90_err,ID,fitted,0.0801045194268227
+SC,Deterministic,50,cov90_err,ID,fixed,0.2756101695199807
+SC,Deterministic,50,cov90_err,OOD,fitted,0.5776663154363633
+SC,Deterministic,50,cov90_err,OOD,fixed,0.7012722443789243
+SC,Deterministic,50,g_nll,ID,fitted,1.336466881268037
+SC,Deterministic,50,g_nll,ID,fixed,4.943633797757017
+SC,Deterministic,50,g_nll,OOD,fitted,17.311729514598845
+SC,Deterministic,50,g_nll,OOD,fixed,62.12613065242768
+SC,Deterministic,50,h_drift,,,0.1058943711221218
+SC,Deterministic,50,h_drift_final,,,0.0765973187983036
+SC,Deterministic,50,ic_noise_scale,,fitted,0.2525443792241673
+SC,Deterministic,50,mse,ID,,0.5283243448783954
+SC,Deterministic,50,mse,OOD,,4.360464406013489
+SC,Deterministic,50,phys_e_drift,ID,,0.6450782102128463
+SC,Deterministic,50,phys_e_drift,OOD,,4.6817514435305805
+SC,Deterministic,50,var_alea,ID,,0.1526607688516378
+SC,Deterministic,50,var_alea,OOD,,0.1522689348086714
+SC,Deterministic,51,cov90_err,ID,fitted,0.0786772583921751
+SC,Deterministic,51,cov90_err,ID,fixed,0.2806426564852395
+SC,Deterministic,51,cov90_err,OOD,fitted,0.5938781753182412
+SC,Deterministic,51,cov90_err,OOD,fixed,0.7177531771361828
+SC,Deterministic,51,g_nll,ID,fitted,1.349059600579494
+SC,Deterministic,51,g_nll,ID,fixed,5.135641210883235
+SC,Deterministic,51,g_nll,OOD,fitted,19.0508862555027
+SC,Deterministic,51,g_nll,OOD,fixed,70.03715708255768
+SC,Deterministic,51,h_drift,,,0.1059065356850624
+SC,Deterministic,51,h_drift_final,,,0.0774794369935989
+SC,Deterministic,51,ic_noise_scale,,fitted,0.2583481169894168
+SC,Deterministic,51,mse,ID,,0.5284068205704292
+SC,Deterministic,51,mse,OOD,,4.568634149432183
+SC,Deterministic,51,phys_e_drift,ID,,0.6539783561801783
+SC,Deterministic,51,phys_e_drift,OOD,,5.783766240976316
+SC,Deterministic,51,var_alea,ID,,0.1588177560518185
+SC,Deterministic,51,var_alea,OOD,,0.1571076253429054
+SC,Fixed-mask MC,42,alpha,ID,fitted,0.8199524645270607
+SC,Fixed-mask MC,42,alpha,OOD,fitted,0.8485587992442518
+SC,Fixed-mask MC,42,cov90_err,ID,fitted,0.0737697705626487
+SC,Fixed-mask MC,42,cov90_err,ID,fixed,0.1122895486156145
+SC,Fixed-mask MC,42,cov90_err,OOD,fitted,0.5307828400284051
+SC,Fixed-mask MC,42,cov90_err,OOD,fixed,0.5224523328244686
+SC,Fixed-mask MC,42,g_nll,ID,fitted,1.1533911464114983
+SC,Fixed-mask MC,42,g_nll,ID,fixed,1.1414010836121935
+SC,Fixed-mask MC,42,g_nll,OOD,fitted,12.068800747394562
+SC,Fixed-mask MC,42,g_nll,OOD,fixed,11.72540711760521
+SC,Fixed-mask MC,42,h_drift,,,0.1066332831978797
+SC,Fixed-mask MC,42,h_drift_final,,,0.0957527808845043
+SC,Fixed-mask MC,42,ic_noise_scale,,fitted,0.1279594895058473
+SC,Fixed-mask MC,42,mse,ID,,0.6657372735440731
+SC,Fixed-mask MC,42,mse,OOD,,4.007368394732476
+SC,Fixed-mask MC,42,nll_masks_only,ID,,1.6021167164149424
+SC,Fixed-mask MC,42,nll_masks_only,OOD,,16.53701241016388
+SC,Fixed-mask MC,42,phys_e_drift,ID,,0.7786594626826508
+SC,Fixed-mask MC,42,phys_e_drift,OOD,,4.217414345631469
+SC,Fixed-mask MC,42,var_alea,ID,,0.0366554133594035
+SC,Fixed-mask MC,42,var_alea,OOD,,0.0362992904148995
+SC,Fixed-mask MC,42,var_epi,ID,,0.1669320073910057
+SC,Fixed-mask MC,42,var_epi,OOD,,0.2033930141478777
+SC,Fixed-mask MC,42,var_ratio,OOD,,5.603222868080977
+SC,Fixed-mask MC,43,alpha,ID,fitted,0.7997363019817362
+SC,Fixed-mask MC,43,alpha,OOD,fitted,0.8255853785044442
+SC,Fixed-mask MC,43,cov90_err,ID,fitted,0.0758884161710738
+SC,Fixed-mask MC,43,cov90_err,ID,fixed,0.1019908185799916
+SC,Fixed-mask MC,43,cov90_err,OOD,fitted,0.5376822024583816
+SC,Fixed-mask MC,43,cov90_err,OOD,fixed,0.527174785733223
+SC,Fixed-mask MC,43,g_nll,ID,fitted,0.9406655876664444
+SC,Fixed-mask MC,43,g_nll,ID,fixed,0.9101562450717514
+SC,Fixed-mask MC,43,g_nll,OOD,fitted,12.863505518436432
+SC,Fixed-mask MC,43,g_nll,OOD,fixed,12.311977034807205
+SC,Fixed-mask MC,43,h_drift,,,0.1103058047592639
+SC,Fixed-mask MC,43,h_drift_final,,,0.1076870523393154
+SC,Fixed-mask MC,43,ic_noise_scale,,fitted,0.1259849152620934
+SC,Fixed-mask MC,43,mse,ID,,0.5919499267513554
+SC,Fixed-mask MC,43,mse,OOD,,4.073229441046715
+SC,Fixed-mask MC,43,nll_masks_only,ID,,1.3145324183783182
+SC,Fixed-mask MC,43,nll_masks_only,OOD,,17.45490473508835
+SC,Fixed-mask MC,43,phys_e_drift,ID,,0.728976008285198
+SC,Fixed-mask MC,43,phys_e_drift,OOD,,3.943321674463376
+SC,Fixed-mask MC,43,var_alea,ID,,0.0358411455837388
+SC,Fixed-mask MC,43,var_alea,OOD,,0.0363347211852669
+SC,Fixed-mask MC,43,var_epi,ID,,0.1431286124822993
+SC,Fixed-mask MC,43,var_epi,OOD,,0.1719891043845564
+SC,Fixed-mask MC,43,var_ratio,OOD,,4.733464267073967
+SC,Fixed-mask MC,44,alpha,ID,fitted,0.802114385544902
+SC,Fixed-mask MC,44,alpha,OOD,fitted,0.8236358311359461
+SC,Fixed-mask MC,44,cov90_err,ID,fitted,0.0773057907819748
+SC,Fixed-mask MC,44,cov90_err,ID,fixed,0.0934456253051757
+SC,Fixed-mask MC,44,cov90_err,OOD,fitted,0.5295360170304775
+SC,Fixed-mask MC,44,cov90_err,OOD,fixed,0.5243305094540119
+SC,Fixed-mask MC,44,g_nll,ID,fitted,0.8544537794727755
+SC,Fixed-mask MC,44,g_nll,ID,fixed,0.848535996202069
+SC,Fixed-mask MC,44,g_nll,OOD,fitted,11.276542258262634
+SC,Fixed-mask MC,44,g_nll,OOD,fixed,11.27677031159401
+SC,Fixed-mask MC,44,h_drift,,,0.1077950216829776
+SC,Fixed-mask MC,44,h_drift_final,,,0.1070049330592155
+SC,Fixed-mask MC,44,ic_noise_scale,,fitted,0.132544131115329
+SC,Fixed-mask MC,44,mse,ID,,0.6002382737894852
+SC,Fixed-mask MC,44,mse,OOD,,3.93833389878273
+SC,Fixed-mask MC,44,nll_masks_only,ID,,1.2489180149820944
+SC,Fixed-mask MC,44,nll_masks_only,OOD,,15.981834995746611
+SC,Fixed-mask MC,44,phys_e_drift,ID,,0.7724929416238747
+SC,Fixed-mask MC,44,phys_e_drift,OOD,,3.980262185684405
+SC,Fixed-mask MC,44,var_alea,ID,,0.0385427330931027
+SC,Fixed-mask MC,44,var_alea,OOD,,0.0387934016063808
+SC,Fixed-mask MC,44,var_epi,ID,,0.1562300562237699
+SC,Fixed-mask MC,44,var_epi,OOD,,0.1811685206834226
+SC,Fixed-mask MC,44,var_ratio,OOD,,4.670085972909973
+SC,Fixed-mask MC,45,alpha,ID,fitted,0.7623949209171914
+SC,Fixed-mask MC,45,alpha,OOD,fitted,0.7941082255397869
+SC,Fixed-mask MC,45,cov90_err,ID,fitted,0.0752379919091861
+SC,Fixed-mask MC,45,cov90_err,ID,fixed,0.1022987271348634
+SC,Fixed-mask MC,45,cov90_err,OOD,fitted,0.5436122879385948
+SC,Fixed-mask MC,45,cov90_err,OOD,fixed,0.537409957498312
+SC,Fixed-mask MC,45,g_nll,ID,fitted,0.8737941577176874
+SC,Fixed-mask MC,45,g_nll,ID,fixed,0.8678781156719196
+SC,Fixed-mask MC,45,g_nll,OOD,fitted,12.35806092619896
+SC,Fixed-mask MC,45,g_nll,OOD,fixed,12.383957147598268
+SC,Fixed-mask MC,45,h_drift,,,0.1047463744878769
+SC,Fixed-mask MC,45,h_drift_final,,,0.1022680729627609
+SC,Fixed-mask MC,45,ic_noise_scale,,fitted,0.1315454154884607
+SC,Fixed-mask MC,45,mse,ID,,0.577162658299009
+SC,Fixed-mask MC,45,mse,OOD,,3.9861094087362288
+SC,Fixed-mask MC,45,nll_masks_only,ID,,1.2997500574837129
+SC,Fixed-mask MC,45,nll_masks_only,OOD,,17.705981886386873
+SC,Fixed-mask MC,45,phys_e_drift,ID,,0.7464134009057668
+SC,Fixed-mask MC,45,phys_e_drift,OOD,,3.981022317024345
+SC,Fixed-mask MC,45,var_alea,ID,,0.0386290472932159
+SC,Fixed-mask MC,45,var_alea,OOD,,0.038183123897761
+SC,Fixed-mask MC,45,var_epi,ID,,0.1239476427435874
+SC,Fixed-mask MC,45,var_epi,OOD,,0.1472692769952118
+SC,Fixed-mask MC,45,var_ratio,OOD,,3.856920596374966
+SC,Fixed-mask MC,46,alpha,ID,fitted,0.8274195293038906
+SC,Fixed-mask MC,46,alpha,OOD,fitted,0.8758048304914174
+SC,Fixed-mask MC,46,cov90_err,ID,fitted,0.0621779690186182
+SC,Fixed-mask MC,46,cov90_err,ID,fixed,0.1058432201544442
+SC,Fixed-mask MC,46,cov90_err,OOD,fitted,0.4941451273858547
+SC,Fixed-mask MC,46,cov90_err,OOD,fixed,0.4864300839602947
+SC,Fixed-mask MC,46,g_nll,ID,fitted,0.995829826516759
+SC,Fixed-mask MC,46,g_nll,ID,fixed,0.972626790474169
+SC,Fixed-mask MC,46,g_nll,OOD,fitted,10.55638805925846
+SC,Fixed-mask MC,46,g_nll,OOD,fixed,10.126360964775085
+SC,Fixed-mask MC,46,h_drift,,,0.1083374746143817
+SC,Fixed-mask MC,46,h_drift_final,,,0.0976267628371715
+SC,Fixed-mask MC,46,ic_noise_scale,,fitted,0.127441637808376
+SC,Fixed-mask MC,46,mse,ID,,0.6184647416695952
+SC,Fixed-mask MC,46,mse,OOD,,3.991466069221497
+SC,Fixed-mask MC,46,nll_masks_only,ID,,1.3158356677119931
+SC,Fixed-mask MC,46,nll_masks_only,OOD,,13.921366035938265
+SC,Fixed-mask MC,46,phys_e_drift,ID,,0.7855755691135207
+SC,Fixed-mask MC,46,phys_e_drift,OOD,,4.389496412699196
+SC,Fixed-mask MC,46,var_alea,ID,,0.0358853719818094
+SC,Fixed-mask MC,46,var_alea,OOD,,0.0361818605102598
+SC,Fixed-mask MC,46,var_epi,ID,,0.1720487693324685
+SC,Fixed-mask MC,46,var_epi,OOD,,0.2551487979479133
+SC,Fixed-mask MC,46,var_ratio,OOD,,7.0518429497444615
+SC,Fixed-mask MC,47,alpha,ID,fitted,0.8327367983738726
+SC,Fixed-mask MC,47,alpha,OOD,fitted,0.854532805127139
+SC,Fixed-mask MC,47,cov90_err,ID,fitted,0.0753502830862998
+SC,Fixed-mask MC,47,cov90_err,ID,fixed,0.1045190634330113
+SC,Fixed-mask MC,47,cov90_err,OOD,fitted,0.5202108044177294
+SC,Fixed-mask MC,47,cov90_err,OOD,fixed,0.5132055096328259
+SC,Fixed-mask MC,47,g_nll,ID,fitted,1.0498984011549812
+SC,Fixed-mask MC,47,g_nll,ID,fixed,1.0325539629595974
+SC,Fixed-mask MC,47,g_nll,OOD,fitted,11.372088289260864
+SC,Fixed-mask MC,47,g_nll,OOD,fixed,11.11928614974022
+SC,Fixed-mask MC,47,h_drift,,,0.1080607622861862
+SC,Fixed-mask MC,47,h_drift_final,,,0.1002207785844802
+SC,Fixed-mask MC,47,ic_noise_scale,,fitted,0.1294369805679272
+SC,Fixed-mask MC,47,mse,ID,,0.6090553595374028
+SC,Fixed-mask MC,47,mse,OOD,,3.978784865140915
+SC,Fixed-mask MC,47,nll_masks_only,ID,,1.4559687786735591
+SC,Fixed-mask MC,47,nll_masks_only,OOD,,15.649838852882386
+SC,Fixed-mask MC,47,phys_e_drift,ID,,0.7952138859454942
+SC,Fixed-mask MC,47,phys_e_drift,OOD,,4.248738632864236
+SC,Fixed-mask MC,47,var_alea,ID,,0.0367668676190077
+SC,Fixed-mask MC,47,var_alea,OOD,,0.0371891650371253
+SC,Fixed-mask MC,47,var_epi,ID,,0.1830475760934253
+SC,Fixed-mask MC,47,var_epi,OOD,,0.2184641117695719
+SC,Fixed-mask MC,47,var_ratio,OOD,,5.874402169327623
+SC,Fixed-mask MC,48,alpha,ID,fitted,0.7788504231714245
+SC,Fixed-mask MC,48,alpha,OOD,fitted,0.816600081624815
+SC,Fixed-mask MC,48,cov90_err,ID,fitted,0.0724929362535476
+SC,Fixed-mask MC,48,cov90_err,ID,fixed,0.1045720340808231
+SC,Fixed-mask MC,48,cov90_err,OOD,fitted,0.527594279870391
+SC,Fixed-mask MC,48,cov90_err,OOD,fixed,0.5218114387243986
+SC,Fixed-mask MC,48,g_nll,ID,fitted,0.9971183484497792
+SC,Fixed-mask MC,48,g_nll,ID,fixed,0.9968049616451026
+SC,Fixed-mask MC,48,g_nll,OOD,fitted,12.101277941465378
+SC,Fixed-mask MC,48,g_nll,OOD,fixed,11.964225548505784
+SC,Fixed-mask MC,48,h_drift,,,0.1080039136111736
+SC,Fixed-mask MC,48,h_drift_final,,,0.1094243884086609
+SC,Fixed-mask MC,48,ic_noise_scale,,fitted,0.1309379745246213
+SC,Fixed-mask MC,48,mse,ID,,0.6035289324820041
+SC,Fixed-mask MC,48,mse,OOD,,4.06415286064148
+SC,Fixed-mask MC,48,nll_masks_only,ID,,1.458509363028376
+SC,Fixed-mask MC,48,nll_masks_only,OOD,,17.04391497373581
+SC,Fixed-mask MC,48,phys_e_drift,ID,,0.7893519359290179
+SC,Fixed-mask MC,48,phys_e_drift,OOD,,4.004378654696449
+SC,Fixed-mask MC,48,var_alea,ID,,0.0382269553219278
+SC,Fixed-mask MC,48,var_alea,OOD,,0.0388927243649959
+SC,Fixed-mask MC,48,var_epi,ID,,0.1346287013341982
+SC,Fixed-mask MC,48,var_epi,OOD,,0.1731723883654922
+SC,Fixed-mask MC,48,var_ratio,OOD,,4.452565131213854
+SC,Fixed-mask MC,49,alpha,ID,fitted,0.8298295170141848
+SC,Fixed-mask MC,49,alpha,OOD,fitted,0.8586282128508081
+SC,Fixed-mask MC,49,cov90_err,ID,fitted,0.0639251410961151
+SC,Fixed-mask MC,49,cov90_err,ID,fixed,0.0995586174726485
+SC,Fixed-mask MC,49,cov90_err,OOD,fitted,0.5177319921553135
+SC,Fixed-mask MC,49,cov90_err,OOD,fixed,0.5095921620726586
+SC,Fixed-mask MC,49,g_nll,ID,fitted,0.7821982711970729
+SC,Fixed-mask MC,49,g_nll,ID,fixed,0.7637147140844415
+SC,Fixed-mask MC,49,g_nll,OOD,fitted,10.228207552433014
+SC,Fixed-mask MC,49,g_nll,OOD,fixed,10.002050119638444
+SC,Fixed-mask MC,49,h_drift,,,0.1074238583445549
+SC,Fixed-mask MC,49,h_drift_final,,,0.1068699061870575
+SC,Fixed-mask MC,49,ic_noise_scale,,fitted,0.1287939766360364
+SC,Fixed-mask MC,49,mse,ID,,0.598651333960394
+SC,Fixed-mask MC,49,mse,OOD,,3.956251937150955
+SC,Fixed-mask MC,49,nll_masks_only,ID,,1.05365890377628
+SC,Fixed-mask MC,49,nll_masks_only,OOD,,13.53567032814026
+SC,Fixed-mask MC,49,phys_e_drift,ID,,0.8077288999432555
+SC,Fixed-mask MC,49,phys_e_drift,OOD,,3.984710847217265
+SC,Fixed-mask MC,49,var_alea,ID,,0.0361782268931467
+SC,Fixed-mask MC,49,var_alea,OOD,,0.0358400472905486
+SC,Fixed-mask MC,49,var_epi,ID,,0.1764216685667634
+SC,Fixed-mask MC,49,var_epi,OOD,,0.2176762165501714
+SC,Fixed-mask MC,49,var_ratio,OOD,,6.073547135290046
+SC,Fixed-mask MC,50,alpha,ID,fitted,0.8210055367907296
+SC,Fixed-mask MC,50,alpha,OOD,fitted,0.8437268338239583
+SC,Fixed-mask MC,50,cov90_err,ID,fitted,0.0760706196228663
+SC,Fixed-mask MC,50,cov90_err,ID,fixed,0.105272600352764
+SC,Fixed-mask MC,50,cov90_err,OOD,fitted,0.5202531769871712
+SC,Fixed-mask MC,50,cov90_err,OOD,fixed,0.5154692806303501
+SC,Fixed-mask MC,50,g_nll,ID,fitted,1.006562850989091
+SC,Fixed-mask MC,50,g_nll,ID,fixed,0.9987809187810248
+SC,Fixed-mask MC,50,g_nll,OOD,fitted,11.099488830566406
+SC,Fixed-mask MC,50,g_nll,OOD,fixed,11.026343804597854
+SC,Fixed-mask MC,50,h_drift,,,0.1073289774358272
+SC,Fixed-mask MC,50,h_drift_final,,,0.1076093345880508
+SC,Fixed-mask MC,50,ic_noise_scale,,fitted,0.1325012249264635
+SC,Fixed-mask MC,50,mse,ID,,0.6181382831806937
+SC,Fixed-mask MC,50,mse,OOD,,4.006489342451095
+SC,Fixed-mask MC,50,nll_masks_only,ID,,1.3992546822875738
+SC,Fixed-mask MC,50,nll_masks_only,OOD,,15.417512053251269
+SC,Fixed-mask MC,50,phys_e_drift,ID,,0.7766737643690538
+SC,Fixed-mask MC,50,phys_e_drift,OOD,,3.9642895745736513
+SC,Fixed-mask MC,50,var_alea,ID,,0.0384209708621104
+SC,Fixed-mask MC,50,var_alea,OOD,,0.0389570944476872
+SC,Fixed-mask MC,50,var_epi,ID,,0.1762279639331002
+SC,Fixed-mask MC,50,var_epi,OOD,,0.2103313496336341
+SC,Fixed-mask MC,50,var_ratio,OOD,,5.399051254093743
+SC,Fixed-mask MC,51,alpha,ID,fitted,0.7554607681466612
+SC,Fixed-mask MC,51,alpha,OOD,fitted,0.7910440219243295
+SC,Fixed-mask MC,51,cov90_err,ID,fitted,0.0961440697312355
+SC,Fixed-mask MC,51,cov90_err,ID,fixed,0.1113778259356816
+SC,Fixed-mask MC,51,cov90_err,OOD,fitted,0.5501684300601483
+SC,Fixed-mask MC,51,cov90_err,OOD,fixed,0.5426197025924921
+SC,Fixed-mask MC,51,g_nll,ID,fitted,1.2350607707786063
+SC,Fixed-mask MC,51,g_nll,ID,fixed,1.2101063396199607
+SC,Fixed-mask MC,51,g_nll,OOD,fitted,13.868551337718964
+SC,Fixed-mask MC,51,g_nll,OOD,fixed,13.529446160793304
+SC,Fixed-mask MC,51,h_drift,,,0.106968642771244
+SC,Fixed-mask MC,51,h_drift_final,,,0.1020946688950061
+SC,Fixed-mask MC,51,ic_noise_scale,,fitted,0.1295751238215068
+SC,Fixed-mask MC,51,mse,ID,,0.6486857920264204
+SC,Fixed-mask MC,51,mse,OOD,,4.101353451609612
+SC,Fixed-mask MC,51,nll_masks_only,ID,,1.7991076331284903
+SC,Fixed-mask MC,51,nll_masks_only,OOD,,19.571346282958984
+SC,Fixed-mask MC,51,phys_e_drift,ID,,0.7516593432503259
+SC,Fixed-mask MC,51,phys_e_drift,OOD,,3.965749727980606
+SC,Fixed-mask MC,51,var_alea,ID,,0.0375393912506599
+SC,Fixed-mask MC,51,var_alea,OOD,,0.037711752206087
+SC,Fixed-mask MC,51,var_epi,ID,,0.1159713193463782
+SC,Fixed-mask MC,51,var_epi,OOD,,0.1427652676589786
+SC,Fixed-mask MC,51,var_ratio,OOD,,3.7856970124006826
+SC,Fresh-mask MC,42,alpha,ID,fitted,0.0157027642006465
+SC,Fresh-mask MC,42,alpha,OOD,fitted,0.0464800993399321
+SC,Fresh-mask MC,42,cov90_err,ID,fitted,0.00095268090566
+SC,Fresh-mask MC,42,cov90_err,ID,fixed,0.249035308510065
+SC,Fresh-mask MC,42,cov90_err,OOD,fitted,0.355791312456131
+SC,Fresh-mask MC,42,cov90_err,OOD,fixed,0.6362711876630783
+SC,Fresh-mask MC,42,g_nll,ID,fitted,1.0570761024951936
+SC,Fresh-mask MC,42,g_nll,ID,fixed,5.914806893949087
+SC,Fresh-mask MC,42,g_nll,OOD,fitted,4.904228726029396
+SC,Fresh-mask MC,42,g_nll,OOD,fixed,34.67702897787094
+SC,Fresh-mask MC,42,h_drift,,,1.841615891456604
+SC,Fresh-mask MC,42,h_drift_final,,,1.932824540138245
+SC,Fresh-mask MC,42,ic_noise_scale,,fitted,0.4825937267233227
+SC,Fresh-mask MC,42,mse,ID,,0.7170107179010908
+SC,Fresh-mask MC,42,mse,OOD,,4.485596308112145
+SC,Fresh-mask MC,42,nll_masks_only,ID,,16.15042915344238
+SC,Fresh-mask MC,42,nll_masks_only,OOD,,54.72370101213456
+SC,Fresh-mask MC,42,phys_e_drift,ID,,1.130395647746502
+SC,Fresh-mask MC,42,phys_e_drift,OOD,,4.79217555736957
+SC,Fresh-mask MC,42,var_alea,ID,,0.565347213546435
+SC,Fresh-mask MC,42,var_alea,OOD,,0.5760374598205089
+SC,Fresh-mask MC,42,var_epi,ID,,0.0090191394051846
+SC,Fresh-mask MC,42,var_epi,OOD,,0.0280794122256338
+SC,Fresh-mask MC,42,var_ratio,OOD,,0.0487458094034079
+SC,Fresh-mask MC,43,alpha,ID,fitted,0.0148603190006952
+SC,Fresh-mask MC,43,alpha,OOD,fitted,0.0444444471891697
+SC,Fresh-mask MC,43,cov90_err,ID,fitted,0.006240114569664
+SC,Fresh-mask MC,43,cov90_err,ID,fixed,0.2333601678411166
+SC,Fresh-mask MC,43,cov90_err,OOD,fitted,0.3415349595248699
+SC,Fresh-mask MC,43,cov90_err,OOD,fixed,0.6269650433212519
+SC,Fresh-mask MC,43,g_nll,ID,fitted,1.0177279661099117
+SC,Fresh-mask MC,43,g_nll,ID,fixed,5.678568917264541
+SC,Fresh-mask MC,43,g_nll,OOD,fitted,4.61487295627594
+SC,Fresh-mask MC,43,g_nll,OOD,fixed,33.99548588395119
+SC,Fresh-mask MC,43,h_drift,,,1.7296622037887572
+SC,Fresh-mask MC,43,h_drift_final,,,1.8453364610672
+SC,Fresh-mask MC,43,ic_noise_scale,,fitted,0.4932472622722311
+SC,Fresh-mask MC,43,mse,ID,,0.6984401335939765
+SC,Fresh-mask MC,43,mse,OOD,,4.411333301663399
+SC,Fresh-mask MC,43,nll_masks_only,ID,,16.330116506417593
+SC,Fresh-mask MC,43,nll_masks_only,OOD,,55.23763345479965
+SC,Fresh-mask MC,43,phys_e_drift,ID,,1.111213297616326
+SC,Fresh-mask MC,43,phys_e_drift,OOD,,4.63694190367797
+SC,Fresh-mask MC,43,var_alea,ID,,0.5900791808962822
+SC,Fresh-mask MC,43,var_alea,OOD,,0.6034786075353622
+SC,Fresh-mask MC,43,var_epi,ID,,0.0089010371147499
+SC,Fresh-mask MC,43,var_epi,OOD,,0.0280687742575537
+SC,Fresh-mask MC,43,var_ratio,OOD,,0.0465116309129631
+SC,Fresh-mask MC,44,alpha,ID,fitted,0.015643017115821
+SC,Fresh-mask MC,44,alpha,OOD,fitted,0.0465240786042625
+SC,Fresh-mask MC,44,cov90_err,ID,fitted,0.0031998584667841
+SC,Fresh-mask MC,44,cov90_err,ID,fixed,0.2417302253345648
+SC,Fresh-mask MC,44,cov90_err,OOD,fitted,0.3451620824635029
+SC,Fresh-mask MC,44,cov90_err,OOD,fixed,0.6288675844669342
+SC,Fresh-mask MC,44,g_nll,ID,fitted,1.038290796180566
+SC,Fresh-mask MC,44,g_nll,ID,fixed,5.788863667271411
+SC,Fresh-mask MC,44,g_nll,OOD,fitted,4.6691435247659685
+SC,Fresh-mask MC,44,g_nll,OOD,fixed,34.09723858833313
+SC,Fresh-mask MC,44,h_drift,,,1.829397678375244
+SC,Fresh-mask MC,44,h_drift_final,,,1.9315302133560184
+SC,Fresh-mask MC,44,ic_noise_scale,,fitted,0.4906667858053051
+SC,Fresh-mask MC,44,mse,ID,,0.7192720960825681
+SC,Fresh-mask MC,44,mse,OOD,,4.458295187354088
+SC,Fresh-mask MC,44,nll_masks_only,ID,,16.150903324286144
+SC,Fresh-mask MC,44,nll_masks_only,OOD,,54.44083909988403
+SC,Fresh-mask MC,44,phys_e_drift,ID,,1.1296060970710835
+SC,Fresh-mask MC,44,phys_e_drift,OOD,,4.558767733101584
+SC,Fresh-mask MC,44,var_alea,ID,,0.585112435122331
+SC,Fresh-mask MC,44,var_alea,OOD,,0.5970549434423447
+SC,Fresh-mask MC,44,var_epi,ID,,0.009298378531821
+SC,Fresh-mask MC,44,var_epi,OOD,,0.0291328081773826
+SC,Fresh-mask MC,44,var_ratio,OOD,,0.048794183010053
+SC,Fresh-mask MC,45,alpha,ID,fitted,0.014530458057764
+SC,Fresh-mask MC,45,alpha,OOD,fitted,0.0444120300911242
+SC,Fresh-mask MC,45,cov90_err,ID,fitted,0.0160536736249923
+SC,Fresh-mask MC,45,cov90_err,ID,fixed,0.227996468792359
+SC,Fresh-mask MC,45,cov90_err,OOD,fitted,0.3447595328092575
+SC,Fresh-mask MC,45,cov90_err,OOD,fixed,0.630137712135911
+SC,Fresh-mask MC,45,g_nll,ID,fitted,0.9412063603599866
+SC,Fresh-mask MC,45,g_nll,ID,fixed,4.782603763695806
+SC,Fresh-mask MC,45,g_nll,OOD,fitted,4.6117873102426525
+SC,Fresh-mask MC,45,g_nll,OOD,fixed,33.186648440361026
+SC,Fresh-mask MC,45,h_drift,,,1.7653375387191772
+SC,Fresh-mask MC,45,h_drift_final,,,1.866334795951844
+SC,Fresh-mask MC,45,ic_noise_scale,,fitted,0.4858607426791661
+SC,Fresh-mask MC,45,mse,ID,,0.618749517823259
+SC,Fresh-mask MC,45,mse,OOD,,4.372575172781945
+SC,Fresh-mask MC,45,nll_masks_only,ID,,14.45183269182841
+SC,Fresh-mask MC,45,nll_masks_only,OOD,,52.4101359128952
+SC,Fresh-mask MC,45,phys_e_drift,ID,,1.08236984931553
+SC,Fresh-mask MC,45,phys_e_drift,OOD,,4.423177271370476
+SC,Fresh-mask MC,45,var_alea,ID,,0.5633487770954768
+SC,Fresh-mask MC,45,var_alea,OOD,,0.5681573748588562
+SC,Fresh-mask MC,45,var_epi,ID,,0.008306411744949
+SC,Fresh-mask MC,45,var_epi,OOD,,0.0264057556429178
+SC,Fresh-mask MC,45,var_ratio,OOD,,0.0464761293461652
+SC,Fresh-mask MC,46,alpha,ID,fitted,0.0163639267709041
+SC,Fresh-mask MC,46,alpha,OOD,fitted,0.0506241460797854
+SC,Fresh-mask MC,46,cov90_err,ID,fitted,0.0024053663015365
+SC,Fresh-mask MC,46,cov90_err,ID,fixed,0.2491899713873863
+SC,Fresh-mask MC,46,cov90_err,OOD,fitted,0.3667870745062828
+SC,Fresh-mask MC,46,cov90_err,OOD,fixed,0.6434332627803088
+SC,Fresh-mask MC,46,g_nll,ID,fitted,1.0223236774404845
+SC,Fresh-mask MC,46,g_nll,ID,fixed,5.691896127734799
+SC,Fresh-mask MC,46,g_nll,OOD,fitted,5.07449631690979
+SC,Fresh-mask MC,46,g_nll,OOD,fixed,34.415764302015305
+SC,Fresh-mask MC,46,h_drift,,,1.6636984586715695
+SC,Fresh-mask MC,46,h_drift_final,,,1.780563521385193
+SC,Fresh-mask MC,46,ic_noise_scale,,fitted,0.474469613765082
+SC,Fresh-mask MC,46,mse,ID,,0.6699857170383136
+SC,Fresh-mask MC,46,mse,OOD,,4.505984950065613
+SC,Fresh-mask MC,46,nll_masks_only,ID,,16.401765322685243
+SC,Fresh-mask MC,46,nll_masks_only,OOD,,56.12504667043686
+SC,Fresh-mask MC,46,phys_e_drift,ID,,1.1447393555902474
+SC,Fresh-mask MC,46,phys_e_drift,OOD,,5.030656726709162
+SC,Fresh-mask MC,46,var_alea,ID,,0.5469235767920811
+SC,Fresh-mask MC,46,var_alea,OOD,,0.5659709386527538
+SC,Fresh-mask MC,46,var_epi,ID,,0.0090987079505187
+SC,Fresh-mask MC,46,var_epi,OOD,,0.0301796125917462
+SC,Fresh-mask MC,46,var_ratio,OOD,,0.0533236082113796
+SC,Fresh-mask MC,47,alpha,ID,fitted,0.014053730357464
+SC,Fresh-mask MC,47,alpha,OOD,fitted,0.0440310753092062
+SC,Fresh-mask MC,47,cov90_err,ID,fitted,0.0159894029299417
+SC,Fresh-mask MC,47,cov90_err,ID,fixed,0.2343086155752341
+SC,Fresh-mask MC,47,cov90_err,OOD,fitted,0.3443792380392552
+SC,Fresh-mask MC,47,cov90_err,OOD,fixed,0.6332002110779286
+SC,Fresh-mask MC,47,g_nll,ID,fitted,0.9581083377202352
+SC,Fresh-mask MC,47,g_nll,ID,fixed,5.003141352130721
+SC,Fresh-mask MC,47,g_nll,OOD,fitted,4.611858677864075
+SC,Fresh-mask MC,47,g_nll,OOD,fixed,33.939722168445584
+SC,Fresh-mask MC,47,h_drift,,,1.686967658996582
+SC,Fresh-mask MC,47,h_drift_final,,,1.7922369718551636
+SC,Fresh-mask MC,47,ic_noise_scale,,fitted,0.4947488483201734
+SC,Fresh-mask MC,47,mse,ID,,0.6140790460010369
+SC,Fresh-mask MC,47,mse,OOD,,4.405457201600075
+SC,Fresh-mask MC,47,nll_masks_only,ID,,14.971613959471386
+SC,Fresh-mask MC,47,nll_masks_only,OOD,,54.59209841489792
+SC,Fresh-mask MC,47,phys_e_drift,ID,,1.0966982517314638
+SC,Fresh-mask MC,47,phys_e_drift,OOD,,4.457943860528423
+SC,Fresh-mask MC,47,var_alea,ID,,0.5869340221087138
+SC,Fresh-mask MC,47,var_alea,OOD,,0.5940750308334828
+SC,Fresh-mask MC,47,var_epi,ID,,0.0083661886436553
+SC,Fresh-mask MC,47,var_epi,OOD,,0.0273625656089279
+SC,Fresh-mask MC,47,var_ratio,OOD,,0.0460591073328539
+SC,Fresh-mask MC,48,alpha,ID,fitted,0.0148548777267404
+SC,Fresh-mask MC,48,alpha,OOD,fitted,0.046102388464326
+SC,Fresh-mask MC,48,cov90_err,ID,fitted,0.0195169508457183
+SC,Fresh-mask MC,48,cov90_err,ID,fixed,0.1955204834540685
+SC,Fresh-mask MC,48,cov90_err,OOD,fitted,0.350877121090889
+SC,Fresh-mask MC,48,cov90_err,OOD,fixed,0.6280805088579655
+SC,Fresh-mask MC,48,g_nll,ID,fitted,0.9020024672150612
+SC,Fresh-mask MC,48,g_nll,ID,fixed,4.522944907587953
+SC,Fresh-mask MC,48,g_nll,OOD,fitted,4.791559970378875
+SC,Fresh-mask MC,48,g_nll,OOD,fixed,33.17485347390175
+SC,Fresh-mask MC,48,h_drift,,,1.555647325515747
+SC,Fresh-mask MC,48,h_drift_final,,,1.6521608591079713
+SC,Fresh-mask MC,48,ic_noise_scale,,fitted,0.4731795805473593
+SC,Fresh-mask MC,48,mse,ID,,0.5869875912865002
+SC,Fresh-mask MC,48,mse,OOD,,4.349592217803002
+SC,Fresh-mask MC,48,nll_masks_only,ID,,14.900213543574017
+SC,Fresh-mask MC,48,nll_masks_only,OOD,,54.43216807842255
+SC,Fresh-mask MC,48,phys_e_drift,ID,,1.0686850845201126
+SC,Fresh-mask MC,48,phys_e_drift,OOD,,4.371311814376432
+SC,Fresh-mask MC,48,var_alea,ID,,0.536086738606294
+SC,Fresh-mask MC,48,var_alea,OOD,,0.5442853815853596
+SC,Fresh-mask MC,48,var_epi,ID,,0.0080835835988788
+SC,Fresh-mask MC,48,var_epi,OOD,,0.0263056074298219
+SC,Fresh-mask MC,48,var_ratio,OOD,,0.0483305418808064
+SC,Fresh-mask MC,49,alpha,ID,fitted,0.0149482794677047
+SC,Fresh-mask MC,49,alpha,OOD,fitted,0.0463977907971785
+SC,Fresh-mask MC,49,cov90_err,ID,fitted,0.0185854524374008
+SC,Fresh-mask MC,49,cov90_err,ID,fixed,0.2053100275496641
+SC,Fresh-mask MC,49,cov90_err,OOD,fitted,0.3481228783726692
+SC,Fresh-mask MC,49,cov90_err,OOD,fixed,0.632224578037858
+SC,Fresh-mask MC,49,g_nll,ID,fitted,0.912964334587256
+SC,Fresh-mask MC,49,g_nll,ID,fixed,4.553711332691212
+SC,Fresh-mask MC,49,g_nll,OOD,fitted,4.639602568745613
+SC,Fresh-mask MC,49,g_nll,OOD,fixed,32.430904453992845
+SC,Fresh-mask MC,49,h_drift,,,1.7495532989501954
+SC,Fresh-mask MC,49,h_drift_final,,,1.847974228858948
+SC,Fresh-mask MC,49,ic_noise_scale,,fitted,0.4777669159665295
+SC,Fresh-mask MC,49,mse,ID,,0.5882387297227979
+SC,Fresh-mask MC,49,mse,OOD,,4.389706671237946
+SC,Fresh-mask MC,49,nll_masks_only,ID,,14.154413183530172
+SC,Fresh-mask MC,49,nll_masks_only,OOD,,52.273992204666136
+SC,Fresh-mask MC,49,phys_e_drift,ID,,1.0728133107028373
+SC,Fresh-mask MC,49,phys_e_drift,OOD,,4.744748044677124
+SC,Fresh-mask MC,49,var_alea,ID,,0.5465489024917285
+SC,Fresh-mask MC,49,var_alea,OOD,,0.5588640511035919
+SC,Fresh-mask MC,49,var_epi,ID,,0.0082939459593034
+SC,Fresh-mask MC,49,var_epi,OOD,,0.0271916917525231
+SC,Fresh-mask MC,49,var_ratio,OOD,,0.0486552887036257
+SC,Fresh-mask MC,50,alpha,ID,fitted,0.016910595793121
+SC,Fresh-mask MC,50,alpha,OOD,fitted,0.0495942934310231
+SC,Fresh-mask MC,50,cov90_err,ID,fitted,0.0061814934015274
+SC,Fresh-mask MC,50,cov90_err,ID,fixed,0.2228764161467552
+SC,Fresh-mask MC,50,cov90_err,OOD,fitted,0.3530730918049812
+SC,Fresh-mask MC,50,cov90_err,OOD,fixed,0.6326207607984543
+SC,Fresh-mask MC,50,g_nll,ID,fitted,1.0049463550249735
+SC,Fresh-mask MC,50,g_nll,ID,fixed,5.505031478653351
+SC,Fresh-mask MC,50,g_nll,OOD,fitted,4.752827033400536
+SC,Fresh-mask MC,50,g_nll,OOD,fixed,33.48378115296364
+SC,Fresh-mask MC,50,h_drift,,,1.940489506721497
+SC,Fresh-mask MC,50,h_drift_final,,,2.053138494491577
+SC,Fresh-mask MC,50,ic_noise_scale,,fitted,0.4813712494670603
+SC,Fresh-mask MC,50,mse,ID,,0.6838764276355505
+SC,Fresh-mask MC,50,mse,OOD,,4.436019665002823
+SC,Fresh-mask MC,50,nll_masks_only,ID,,15.4541353225708
+SC,Fresh-mask MC,50,nll_masks_only,OOD,,54.54116855859756
+SC,Fresh-mask MC,50,phys_e_drift,ID,,1.149547534285804
+SC,Fresh-mask MC,50,phys_e_drift,OOD,,4.612551557088215
+SC,Fresh-mask MC,50,var_alea,ID,,0.561509641011556
+SC,Fresh-mask MC,50,var_alea,OOD,,0.5726170241832733
+SC,Fresh-mask MC,50,var_epi,ID,,0.0096587986122661
+SC,Fresh-mask MC,50,var_epi,OOD,,0.0298804358229971
+SC,Fresh-mask MC,50,var_ratio,OOD,,0.0521822344796957
+SC,Fresh-mask MC,51,alpha,ID,fitted,0.0149956952384387
+SC,Fresh-mask MC,51,alpha,OOD,fitted,0.0454747274822819
+SC,Fresh-mask MC,51,cov90_err,ID,fitted,0.0134738723436991
+SC,Fresh-mask MC,51,cov90_err,ID,fixed,0.2106631308794021
+SC,Fresh-mask MC,51,cov90_err,OOD,fitted,0.3700455516576767
+SC,Fresh-mask MC,51,cov90_err,OOD,fixed,0.6467182204127312
+SC,Fresh-mask MC,51,g_nll,ID,fitted,0.9431843280792236
+SC,Fresh-mask MC,51,g_nll,ID,fixed,4.767080947146072
+SC,Fresh-mask MC,51,g_nll,OOD,fitted,5.116029152274132
+SC,Fresh-mask MC,51,g_nll,OOD,fixed,34.9634747505188
+SC,Fresh-mask MC,51,h_drift,,,1.7454797983169557
+SC,Fresh-mask MC,51,h_drift_final,,,1.8409557342529297
+SC,Fresh-mask MC,51,ic_noise_scale,,fitted,0.4722185189480412
+SC,Fresh-mask MC,51,mse,ID,,0.6391400647660096
+SC,Fresh-mask MC,51,mse,OOD,,4.423732924461365
+SC,Fresh-mask MC,51,nll_masks_only,ID,,14.327269967397054
+SC,Fresh-mask MC,51,nll_masks_only,OOD,,53.3733405828476
+SC,Fresh-mask MC,51,phys_e_drift,ID,,1.0619439511100153
+SC,Fresh-mask MC,51,phys_e_drift,OOD,,4.341191284608923
+SC,Fresh-mask MC,51,var_alea,ID,,0.5313210929433505
+SC,Fresh-mask MC,51,var_alea,OOD,,0.5307998530566692
+SC,Fresh-mask MC,51,var_epi,ID,,0.0080888267645301
+SC,Fresh-mask MC,51,var_epi,OOD,,0.0252879408857551
+SC,Fresh-mask MC,51,var_ratio,OOD,,0.0476411979772258
+SC,Variational,42,alpha,ID,fitted,0.2490159495146796
+SC,Variational,42,alpha,OOD,fitted,0.4275397741518452
+SC,Variational,42,cov90_err,ID,fitted,0.1132394100228946
+SC,Variational,42,cov90_err,ID,fixed,0.2822824892401694
+SC,Variational,42,cov90_err,OOD,fitted,0.4325614400207996
+SC,Variational,42,cov90_err,OOD,fixed,0.555498941987753
+SC,Variational,42,g_nll,ID,fitted,1.6974471390247343
+SC,Variational,42,g_nll,ID,fixed,3.956811914841334
+SC,Variational,42,g_nll,OOD,fitted,7.313416892290116
+SC,Variational,42,g_nll,OOD,fixed,17.73515580892563
+SC,Variational,42,h_drift,,,4.4594573974609375
+SC,Variational,42,h_drift_final,,,5.105846881866455
+SC,Variational,42,ic_noise_scale,,fitted,0.3203038203452396
+SC,Variational,42,mse,ID,,1.656675430883964
+SC,Variational,42,mse,OOD,,4.408309230208397
+SC,Variational,42,nll_masks_only,ID,,5.750713363041481
+SC,Variational,42,nll_masks_only,OOD,,25.086603224277496
+SC,Variational,42,phys_e_drift,ID,,3.340498901885831
+SC,Variational,42,phys_e_drift,OOD,,7.818404504014565
+SC,Variational,42,var_alea,ID,,0.2720666562517484
+SC,Variational,42,var_alea,OOD,,0.2450421992689371
+SC,Variational,42,var_epi,ID,,0.0902135494009901
+SC,Variational,42,var_epi,OOD,,0.1830088481307029
+SC,Variational,42,var_ratio,OOD,,0.7468462521014525
+SC,Variational,43,alpha,ID,fitted,0.3271552312074797
+SC,Variational,43,alpha,OOD,fitted,0.4806882639924501
+SC,Variational,43,cov90_err,ID,fitted,0.1532062103350957
+SC,Variational,43,cov90_err,ID,fixed,0.2851016943653423
+SC,Variational,43,cov90_err,OOD,fitted,0.4871620744466782
+SC,Variational,43,cov90_err,OOD,fixed,0.5789078380912542
+SC,Variational,43,g_nll,ID,fitted,1.98313566694657
+SC,Variational,43,g_nll,ID,fixed,3.722066956013441
+SC,Variational,43,g_nll,OOD,fitted,9.316091042757034
+SC,Variational,43,g_nll,OOD,fixed,17.46178947687149
+SC,Variational,43,h_drift,,,4.290782785415649
+SC,Variational,43,h_drift_final,,,4.709441089630127
+SC,Variational,43,ic_noise_scale,,fitted,0.2644041584552098
+SC,Variational,43,mse,ID,,1.619985754787922
+SC,Variational,43,mse,OOD,,4.429061606526375
+SC,Variational,43,nll_masks_only,ID,,5.2375363101561865
+SC,Variational,43,nll_masks_only,OOD,,23.581783604621886
+SC,Variational,43,phys_e_drift,ID,,3.5221755871992184
+SC,Variational,43,phys_e_drift,OOD,,8.527112944511625
+SC,Variational,43,var_alea,ID,,0.1891533084213733
+SC,Variational,43,var_alea,OOD,,0.1672481317073106
+SC,Variational,43,var_epi,ID,,0.0919714282111574
+SC,Variational,43,var_epi,OOD,,0.154809160879813
+SC,Variational,43,var_ratio,OOD,,0.9256256515363286
+SC,Variational,44,alpha,ID,fitted,0.297478069335253
+SC,Variational,44,alpha,OOD,fitted,0.4155911199951432
+SC,Variational,44,cov90_err,ID,fitted,0.1046758462985356
+SC,Variational,44,cov90_err,ID,fixed,0.2567118639747301
+SC,Variational,44,cov90_err,OOD,fitted,0.4438993640244007
+SC,Variational,44,cov90_err,OOD,fixed,0.5680730924010277
+SC,Variational,44,g_nll,ID,fitted,1.544218336045742
+SC,Variational,44,g_nll,ID,fixed,3.015065677712361
+SC,Variational,44,g_nll,OOD,fitted,6.851440501213074
+SC,Variational,44,g_nll,OOD,fixed,14.08140799999237
+SC,Variational,44,h_drift,,,4.12602424621582
+SC,Variational,44,h_drift_final,,,5.113733100891113
+SC,Variational,44,ic_noise_scale,,fitted,0.3055612379504932
+SC,Variational,44,mse,ID,,1.7726404706637064
+SC,Variational,44,mse,OOD,,4.366612124443054
+SC,Variational,44,nll_masks_only,ID,,4.041625173886617
+SC,Variational,44,nll_masks_only,OOD,,18.3354150056839
+SC,Variational,44,phys_e_drift,ID,,3.76290706043512
+SC,Variational,44,phys_e_drift,OOD,,7.750614381874657
+SC,Variational,44,var_alea,ID,,0.2883820844193299
+SC,Variational,44,var_alea,OOD,,0.2500527173280716
+SC,Variational,44,var_epi,ID,,0.1221134059441585
+SC,Variational,44,var_epi,OOD,,0.1778201742097735
+SC,Variational,44,var_ratio,OOD,,0.7111307411887539
+SC,Variational,45,alpha,ID,fitted,0.257512892446782
+SC,Variational,45,alpha,OOD,fitted,0.4172782675586026
+SC,Variational,45,cov90_err,ID,fitted,0.1414286697904269
+SC,Variational,45,cov90_err,ID,fixed,0.2946673745910325
+SC,Variational,45,cov90_err,OOD,fitted,0.4659004256129265
+SC,Variational,45,cov90_err,OOD,fixed,0.5789057198911906
+SC,Variational,45,g_nll,ID,fitted,1.887711589038372
+SC,Variational,45,g_nll,ID,fixed,4.159792756040891
+SC,Variational,45,g_nll,OOD,fitted,8.549304038286209
+SC,Variational,45,g_nll,OOD,fixed,19.00397404432297
+SC,Variational,45,h_drift,,,3.617874240875244
+SC,Variational,45,h_drift_final,,,4.230249118804932
+SC,Variational,45,ic_noise_scale,,fitted,0.2922124753656296
+SC,Variational,45,mse,ID,,1.726676232367754
+SC,Variational,45,mse,OOD,,4.474467188119888
+SC,Variational,45,nll_masks_only,ID,,5.97697639465332
+SC,Variational,45,nll_masks_only,OOD,,26.54558863639832
+SC,Variational,45,phys_e_drift,ID,,3.187412698682848
+SC,Variational,45,phys_e_drift,OOD,,7.792423447781111
+SC,Variational,45,var_alea,ID,,0.2349931977689266
+SC,Variational,45,var_alea,OOD,,0.2116533137857913
+SC,Variational,45,var_epi,ID,,0.0815014529507607
+SC,Variational,45,var_epi,OOD,,0.1515617544064297
+SC,Variational,45,var_ratio,OOD,,0.7160849584420934
+SC,Variational,46,alpha,ID,fitted,0.1843106158628934
+SC,Variational,46,alpha,OOD,fitted,0.3561720752853639
+SC,Variational,46,cov90_err,ID,fitted,0.0856814960638682
+SC,Variational,46,cov90_err,ID,fixed,0.2902125718196232
+SC,Variational,46,cov90_err,OOD,fitted,0.3943749956786633
+SC,Variational,46,cov90_err,OOD,fixed,0.5565942779183388
+SC,Variational,46,g_nll,ID,fitted,1.5320408051212628
+SC,Variational,46,g_nll,ID,fixed,4.494342222809792
+SC,Variational,46,g_nll,OOD,fitted,5.95080503821373
+SC,Variational,46,g_nll,OOD,fixed,19.163055729866027
+SC,Variational,46,h_drift,,,3.9327056884765614
+SC,Variational,46,h_drift_final,,,4.347687292098999
+SC,Variational,46,ic_noise_scale,,fitted,0.3822020792276049
+SC,Variational,46,mse,ID,,1.6436579292019209
+SC,Variational,46,mse,OOD,,4.412474718689919
+SC,Variational,46,nll_masks_only,ID,,6.779875645041466
+SC,Variational,46,nll_masks_only,OOD,,27.889821851253508
+SC,Variational,46,phys_e_drift,ID,,3.2214415046884533
+SC,Variational,46,phys_e_drift,OOD,,7.8814326555548115
+SC,Variational,46,var_alea,ID,,0.372144320855538
+SC,Variational,46,var_alea,OOD,,0.3408438008278608
+SC,Variational,46,var_epi,ID,,0.0840885639811555
+SC,Variational,46,var_epi,OOD,,0.1885582144372165
+SC,Variational,46,var_ratio,OOD,,0.5532100451269337
+SC,Variational,47,alpha,ID,fitted,0.2710029940424621
+SC,Variational,47,alpha,OOD,fitted,0.4454293528291264
+SC,Variational,47,cov90_err,ID,fitted,0.1430282488465309
+SC,Variational,47,cov90_err,ID,fixed,0.2921560722092786
+SC,Variational,47,cov90_err,OOD,fitted,0.4706080496311188
+SC,Variational,47,cov90_err,OOD,fixed,0.5766175840049982
+SC,Variational,47,g_nll,ID,fitted,1.9511210749546688
+SC,Variational,47,g_nll,ID,fixed,4.225989659875632
+SC,Variational,47,g_nll,OOD,fitted,9.046138709783554
+SC,Variational,47,g_nll,OOD,fixed,19.069390225410466
+SC,Variational,47,h_drift,,,3.701152968406677
+SC,Variational,47,h_drift_final,,,4.602193355560303
+SC,Variational,47,ic_noise_scale,,fitted,0.281110235203482
+SC,Variational,47,mse,ID,,1.6083537593483923
+SC,Variational,47,mse,OOD,,4.393639677762986
+SC,Variational,47,nll_masks_only,ID,,6.232506897052129
+SC,Variational,47,nll_masks_only,OOD,,27.35450576543808
+SC,Variational,47,phys_e_drift,ID,,3.098460407381992
+SC,Variational,47,phys_e_drift,OOD,,7.342022655926692
+SC,Variational,47,var_alea,ID,,0.2076656897862752
+SC,Variational,47,var_alea,OOD,,0.1884889427572488
+SC,Variational,47,var_epi,ID,,0.0771992521670957
+SC,Variational,47,var_epi,OOD,,0.1513937101000919
+SC,Variational,47,var_ratio,OOD,,0.8031967705133183
+SC,Variational,48,alpha,ID,fitted,0.2162733878753508
+SC,Variational,48,alpha,OOD,fitted,0.2944933679405589
+SC,Variational,48,cov90_err,ID,fitted,0.1014872913559278
+SC,Variational,48,cov90_err,ID,fixed,0.2979583318034807
+SC,Variational,48,cov90_err,OOD,fitted,0.4371292367577553
+SC,Variational,48,cov90_err,OOD,fixed,0.5944385606795549
+SC,Variational,48,g_nll,ID,fitted,1.5201299096147218
+SC,Variational,48,g_nll,ID,fixed,3.7087015961607297
+SC,Variational,48,g_nll,OOD,fitted,6.863737642765045
+SC,Variational,48,g_nll,OOD,fixed,18.54417805671692
+SC,Variational,48,h_drift,,,3.4814969539642333
+SC,Variational,48,h_drift_final,,,4.001902675628662
+SC,Variational,48,ic_noise_scale,,fitted,0.3497205267664123
+SC,Variational,48,mse,ID,,1.7673299166063468
+SC,Variational,48,mse,OOD,,4.417242598533631
+SC,Variational,48,nll_masks_only,ID,,5.105284692843755
+SC,Variational,48,nll_masks_only,OOD,,25.385794353485107
+SC,Variational,48,phys_e_drift,ID,,3.3100093437285163
+SC,Variational,48,phys_e_drift,OOD,,7.091874461531503
+SC,Variational,48,var_alea,ID,,0.3404700564841429
+SC,Variational,48,var_alea,OOD,,0.3037006951868534
+SC,Variational,48,var_epi,ID,,0.0939544624959428
+SC,Variational,48,var_epi,OOD,,0.1267710840795188
+SC,Variational,48,var_ratio,OOD,,0.4174211191763072
+SC,Variational,49,alpha,ID,fitted,0.5679701771078752
+SC,Variational,49,alpha,OOD,fitted,0.7403142727171654
+SC,Variational,49,cov90_err,ID,fitted,0.1878827651341756
+SC,Variational,49,cov90_err,ID,fixed,0.2498898322383562
+SC,Variational,49,cov90_err,OOD,fitted,0.4723199136555195
+SC,Variational,49,cov90_err,OOD,fixed,0.5079851686954499
+SC,Variational,49,g_nll,ID,fitted,2.397110737115145
+SC,Variational,49,g_nll,ID,fixed,3.175119435042143
+SC,Variational,49,g_nll,OOD,fitted,9.555174392461776
+SC,Variational,49,g_nll,OOD,fixed,12.080429339408877
+SC,Variational,49,h_drift,,,5.519866228103638
+SC,Variational,49,h_drift_final,,,6.247215652465821
+SC,Variational,49,ic_noise_scale,,fitted,0.1916010396138024
+SC,Variational,49,mse,ID,,1.975634738057852
+SC,Variational,49,mse,OOD,,4.354919445514679
+SC,Variational,49,nll_masks_only,ID,,4.070396698017915
+SC,Variational,49,nll_masks_only,OOD,,15.220262885093687
+SC,Variational,49,phys_e_drift,ID,,4.166130067425779
+SC,Variational,49,phys_e_drift,OOD,,9.41757360997124
+SC,Variational,49,var_alea,ID,,0.11374140077581
+SC,Variational,49,var_alea,OOD,,0.0975192520767449
+SC,Variational,49,var_epi,ID,,0.1495307039469479
+SC,Variational,49,var_epi,OOD,,0.2780087104998529
+SC,Variational,49,var_ratio,OOD,,2.8508084770899145
+SC,Variational,50,alpha,ID,fitted,0.2592951063968918
+SC,Variational,50,alpha,OOD,fitted,0.3763966049768255
+SC,Variational,50,cov90_err,ID,fitted,0.120362996061643
+SC,Variational,50,cov90_err,ID,fixed,0.2993686427672702
+SC,Variational,50,cov90_err,OOD,fitted,0.445680084079504
+SC,Variational,50,cov90_err,OOD,fixed,0.583131356164813
+SC,Variational,50,g_nll,ID,fitted,1.6767740522821744
+SC,Variational,50,g_nll,ID,fixed,3.769595244526863
+SC,Variational,50,g_nll,OOD,fitted,7.148786050081253
+SC,Variational,50,g_nll,OOD,fixed,16.997111678123474
+SC,Variational,50,h_drift,,,4.130708646774292
+SC,Variational,50,h_drift_final,,,4.387809801101684
+SC,Variational,50,ic_noise_scale,,fitted,0.3313234077164552
+SC,Variational,50,mse,ID,,1.8003664322197437
+SC,Variational,50,mse,OOD,,4.4747294485569
+SC,Variational,50,nll_masks_only,ID,,5.192456339299679
+SC,Variational,50,nll_masks_only,OOD,,22.594364035129548
+SC,Variational,50,phys_e_drift,ID,,3.632087967329783
+SC,Variational,50,phys_e_drift,OOD,,8.162946443088993
+SC,Variational,50,var_alea,ID,,0.3087551482021808
+SC,Variational,50,var_alea,OOD,,0.2727966137230396
+SC,Variational,50,var_epi,ID,,0.1080844742556412
+SC,Variational,50,var_epi,OOD,,0.1646554846782237
+SC,Variational,50,var_ratio,OOD,,0.6035833159035924
+SC,Variational,51,alpha,ID,fitted,0.1824620461832358
+SC,Variational,51,alpha,OOD,fitted,0.3025744051594896
+SC,Variational,51,cov90_err,ID,fitted,0.096014832953612
+SC,Variational,51,cov90_err,ID,fixed,0.3160388402640818
+SC,Variational,51,cov90_err,OOD,fitted,0.4288156762719154
+SC,Variational,51,cov90_err,OOD,fixed,0.5972966108471155
+SC,Variational,51,g_nll,ID,fitted,1.5700078467528025
+SC,Variational,51,g_nll,ID,fixed,4.552621067563693
+SC,Variational,51,g_nll,OOD,fitted,6.512182229757309
+SC,Variational,51,g_nll,OOD,fixed,20.055939877033232
+SC,Variational,51,h_drift,,,3.846668529510498
+SC,Variational,51,h_drift_final,,,4.643959665298462
+SC,Variational,51,ic_noise_scale,,fitted,0.3822020792276049
+SC,Variational,51,mse,ID,,1.6359209696451822
+SC,Variational,51,mse,OOD,,4.569167777895927
+SC,Variational,51,nll_masks_only,ID,,6.89988713413477
+SC,Variational,51,nll_masks_only,OOD,,28.641244256496428
+SC,Variational,51,phys_e_drift,ID,,3.270259216881091
+SC,Variational,51,phys_e_drift,OOD,,10.13092910961475
+SC,Variational,51,var_alea,ID,,0.3856996322671572
+SC,Variational,51,var_alea,OOD,,0.3523658126592636
+SC,Variational,51,var_epi,ID,,0.0860822959803044
+SC,Variational,51,var_epi,OOD,,0.1528720439178868
+SC,Variational,51,var_ratio,OOD,,0.4338447103144865

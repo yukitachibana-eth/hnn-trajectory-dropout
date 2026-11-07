@@ -1,0 +1,32 @@
+\begin{table}[t]
+\centering
+\small
+\setlength{\tabcolsep}{3pt}
+\caption{TFIM (operator-structured HNN backbone) with a nested IC $\times$ mask ensemble scored with the state-preparation noise $\epsilon$ fitted per run on a validation grid ($\hat\epsilon$) and with $\epsilon$ fixed at the data's true 0.10. Columns are G-NLL, Cov90 error and the mask-ensemble variance fraction $\alpha$, in and out of distribution. TFIM has no per-step observation noise, so no measurement-noise term is added. $\hat\epsilon$ is selected from a discrete grid with step $0.05$.}
+\label{tab:tfim-noise-conventions}
+\begin{tabular}{lccccccc}
+\toprule
+ & & \multicolumn{2}{c}{G-NLL} & \multicolumn{2}{c}{Cov90 err} & \multicolumn{2}{c}{$\alpha$} \\
+\cmidrule(lr){3-4}
+\cmidrule(lr){5-6}
+\cmidrule(lr){7-8}
+Method & $\epsilon$ & ID & OOD & ID & OOD & ID & OOD \\
+\midrule
+\multicolumn{8}{l}{\textit{Fitted scale $\hat\epsilon$}} \\
+Fresh-mask MC & \makecell{0.140\\ {\footnotesize $\pm$ 0.052}} & \makecell{\textbf{$-$2.276}\\ {\footnotesize $\pm$ 0.13}} & \makecell{2.720\\ {\footnotesize $\pm$ 2.5}} & \makecell{0.0829\\ {\footnotesize $\pm$ 0.012}} & \makecell{0.222\\ {\footnotesize $\pm$ 0.084}} & \makecell{0.551\\ {\footnotesize $\pm$ 0.15}} & \makecell{0.527\\ {\footnotesize $\pm$ 0.16}} \\
+Concrete & \makecell{0.265\\ {\footnotesize $\pm$ 0.058}} & \makecell{$-$1.939\\ {\footnotesize $\pm$ 0.13}} & \makecell{0.584\\ {\footnotesize $\pm$ 1.9}} & \makecell{0.0859\\ {\footnotesize $\pm$ 0.014}} & \makecell{0.148\\ {\footnotesize $\pm$ 0.074}} & \makecell{0.211\\ {\footnotesize $\pm$ 0.050}} & \makecell{0.201\\ {\footnotesize $\pm$ 0.055}} \\
+Variational & \makecell{0.595\\ {\footnotesize $\pm$ 0.016}} & \makecell{$-$0.611\\ {\footnotesize $\pm$ 0.026}} & \makecell{$-$0.287\\ {\footnotesize $\pm$ 0.040}} & \makecell{\textbf{0.0164}\\ {\footnotesize $\pm$ 0.0076}} & \makecell{0.0925\\ {\footnotesize $\pm$ 0.012}} & \makecell{0.599\\ {\footnotesize $\pm$ 0.013}} & \makecell{0.567\\ {\footnotesize $\pm$ 0.011}} \\
+Fixed-mask MC & \makecell{0.585\\ {\footnotesize $\pm$ 0.047}} & \makecell{$-$0.994\\ {\footnotesize $\pm$ 0.047}} & \makecell{$-$0.937\\ {\footnotesize $\pm$ 0.048}} & \makecell{0.0985\\ {\footnotesize $\pm$ 6.8e-4}} & \makecell{0.0897\\ {\footnotesize $\pm$ 0.0064}} & \makecell{0.757\\ {\footnotesize $\pm$ 0.039}} & \makecell{0.768\\ {\footnotesize $\pm$ 0.034}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic} & \makecell{0.150\\ {\footnotesize $\pm$ 0}} & \makecell{$-$2.456\\ {\footnotesize $\pm$ 0.021}} & \makecell{2.395\\ {\footnotesize $\pm$ 5.5}} & \makecell{0.0282\\ {\footnotesize $\pm$ 0.0068}} & \makecell{0.197\\ {\footnotesize $\pm$ 0.091}} & \makecell{0\\ {\footnotesize $\pm$ 0}} & \makecell{0\\ {\footnotesize $\pm$ 0}} \\
+\midrule
+\multicolumn{8}{l}{\textit{True scale $\epsilon$=0.10}} \\
+Fresh-mask MC & 0.10 & \makecell{\textbf{$-$2.363}\\ {\footnotesize $\pm$ 0.023}} & \makecell{3.343\\ {\footnotesize $\pm$ 2.5}} & \makecell{0.0696\\ {\footnotesize $\pm$ 0.0042}} & \makecell{0.260\\ {\footnotesize $\pm$ 0.041}} & \makecell{0.677\\ {\footnotesize $\pm$ 0.011}} & \makecell{0.657\\ {\footnotesize $\pm$ 0.013}} \\
+Concrete & 0.10 & \makecell{$-$2.211\\ {\footnotesize $\pm$ 0.084}} & \makecell{5.339\\ {\footnotesize $\pm$ 5.0}} & \makecell{\textbf{0.0388}\\ {\footnotesize $\pm$ 0.015}} & \makecell{0.327\\ {\footnotesize $\pm$ 0.049}} & \makecell{0.624\\ {\footnotesize $\pm$ 0.049}} & \makecell{0.607\\ {\footnotesize $\pm$ 0.057}} \\
+Variational & 0.10 & \makecell{$-$0.618\\ {\footnotesize $\pm$ 0.065}} & \makecell{0.416\\ {\footnotesize $\pm$ 0.098}} & \makecell{0.115\\ {\footnotesize $\pm$ 0.020}} & \makecell{0.258\\ {\footnotesize $\pm$ 0.013}} & \makecell{0.977\\ {\footnotesize $\pm$ 0.0015}} & \makecell{0.973\\ {\footnotesize $\pm$ 0.0014}} \\
+Fixed-mask MC & 0.10 & \makecell{$-$1.350\\ {\footnotesize $\pm$ 0.055}} & \makecell{\textbf{$-$1.250}\\ {\footnotesize $\pm$ 0.11}} & \makecell{0.0858\\ {\footnotesize $\pm$ 0.0026}} & \makecell{\textbf{0.0778}\\ {\footnotesize $\pm$ 0.011}} & \makecell{0.988\\ {\footnotesize $\pm$ 0.0020}} & \makecell{0.988\\ {\footnotesize $\pm$ 0.0018}} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic} & 0.10 & \makecell{$-$2.495\\ {\footnotesize $\pm$ 0.046}} & \makecell{8.327\\ {\footnotesize $\pm$ 12}} & \makecell{0.102\\ {\footnotesize $\pm$ 0.013}} & \makecell{0.321\\ {\footnotesize $\pm$ 0.090}} & \makecell{0\\ {\footnotesize $\pm$ 0}} & \makecell{0\\ {\footnotesize $\pm$ 0}} \\
+\bottomrule
+\end{tabular}%
+\end{table}

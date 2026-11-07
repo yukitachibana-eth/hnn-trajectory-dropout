@@ -1,0 +1,41 @@
+arm,seed,mean_log_resid
+Deterministic,42,-5.370255529943492
+Deterministic,43,-5.8898507036331536
+Deterministic,44,-5.461065101871887
+Deterministic,45,-5.1231855506314705
+Deterministic,46,-5.747218622785645
+Deterministic,47,-5.1173128696628085
+Deterministic,48,-6.170716573039477
+Deterministic,49,-5.777373403224407
+Deterministic,50,-5.9381564636432325
+Deterministic,51,-5.588695255025828
+Fixed-mask per-sub-step,42,-4.130028458694759
+Fixed-mask per-sub-step,43,-3.961217955779209
+Fixed-mask per-sub-step,44,-4.266806128786303
+Fixed-mask per-sub-step,45,-3.9182012889954065
+Fixed-mask per-sub-step,46,-3.5369854368596476
+Fixed-mask per-sub-step,47,-3.985554480762138
+Fixed-mask per-sub-step,48,-4.02371252568586
+Fixed-mask per-sub-step,49,-3.8897484257053057
+Fixed-mask per-sub-step,50,-3.9323764990589836
+Fixed-mask per-sub-step,51,-3.827453248791537
+Fresh-mask MC,42,-3.9180845236743576
+Fresh-mask MC,43,-3.8773730042982755
+Fresh-mask MC,44,-3.9534158856511223
+Fresh-mask MC,45,-3.9033131123841436
+Fresh-mask MC,46,-3.9749891079605404
+Fresh-mask MC,47,-3.9102752511102072
+Fresh-mask MC,48,-3.9513368813769647
+Fresh-mask MC,49,-3.898535232932098
+Fresh-mask MC,50,-3.8900040736900867
+Fresh-mask MC,51,-3.899600352977262
+Fixed-mask per-rollout,42,-4.537345488237972
+Fixed-mask per-rollout,43,-4.054754993670276
+Fixed-mask per-rollout,44,-4.25118062976554
+Fixed-mask per-rollout,45,-4.14089433537321
+Fixed-mask per-rollout,46,-4.2891806348544765
+Fixed-mask per-rollout,47,-4.216799251945526
+Fixed-mask per-rollout,48,-4.041959274304916
+Fixed-mask per-rollout,49,-3.84668963010346
+Fixed-mask per-rollout,50,-4.1967405802589735
+Fixed-mask per-rollout,51,-4.3289647421036594

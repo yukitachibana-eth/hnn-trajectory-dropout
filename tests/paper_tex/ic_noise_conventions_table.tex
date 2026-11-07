@@ -1,0 +1,68 @@
+\begin{table}[p]
+\centering
+\small
+\setlength{\tabcolsep}{2.5pt}
+\caption{Likelihood and coverage under the two IC-noise conventions. $\hat\sigma$ denotes IC noise fitted per run on validation data, and $\sigma$=0.1 denotes IC noise fixed at the data's true value, with independent $\mathcal{N}(0,0.1^2)$ measurement noise added to the predictive samples. Cov90 err is the absolute deviation of the empirical 90\% coverage from 0.9. The NLL masks-only columns give the NLL of the mask ensemble alone plus measurement noise (no IC-noise term).}
+\label{tab:ic-noise-conventions}
+\begin{tabular}{lccccc}
+\toprule
+ &  & \multicolumn{2}{c}{G-NLL ($\hat\sigma$)} & \multicolumn{2}{c}{G-NLL ($\sigma$=0.1)} \\
+\cmidrule(lr){3-4}
+\cmidrule(lr){5-6}
+Method & $\hat\sigma$ & ID & OOD & ID & OOD \\
+\midrule
+\multicolumn{6}{l}{\emph{Coupled pendulum}} \\
+Fresh-mask MC & 0.331 {\footnotesize $\pm$0.0050} & 0.274 {\footnotesize $\pm$0.012} & 3.298 {\footnotesize $\pm$0.17} & 1.064 {\footnotesize $\pm$0.028} & 14.45 {\footnotesize $\pm$0.88} \\
+Concrete & 0.294 {\footnotesize $\pm$0.0041} & 0.267 {\footnotesize $\pm$0.0091} & 3.837 {\footnotesize $\pm$0.13} & 1.091 {\footnotesize $\pm$0.026} & 13.35 {\footnotesize $\pm$0.36} \\
+Variational & 0.351 {\footnotesize $\pm$0.026} & 0.517 {\footnotesize $\pm$0.083} & 2.871 {\footnotesize $\pm$0.32} & 1.340 {\footnotesize $\pm$0.21} & 7.770 {\footnotesize $\pm$1.5} \\
+Fixed-mask MC & 0.250 {\footnotesize $\pm$0.0029} & \textbf{0.224} {\footnotesize $\pm$0.011} & 2.774 {\footnotesize $\pm$0.17} & \textbf{0.477} {\footnotesize $\pm$0.039} & \textbf{4.739} {\footnotesize $\pm$0.39} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic} & 0.290 {\footnotesize $\pm$0.0030} & 0.273 {\footnotesize $\pm$0.0062} & 4.255 {\footnotesize $\pm$0.30} & 1.332 {\footnotesize $\pm$0.043} & 20.08 {\footnotesize $\pm$1.5} \\
+\textit{Deep ens. $\times$5} & 0.291 {\footnotesize (n=1)} & 0.261 {\footnotesize (n=1)} & 2.948 {\footnotesize (n=1)} & 1.083 {\footnotesize (n=1)} & 8.106 {\footnotesize (n=1)} \\
+\midrule
+\multicolumn{6}{l}{\emph{Spring chain}} \\
+Fresh-mask MC & 0.483 {\footnotesize $\pm$0.0083} & 0.980 {\footnotesize $\pm$0.055} & \textbf{4.779} {\footnotesize $\pm$0.19} & 5.221 {\footnotesize $\pm$0.55} & 33.84 {\footnotesize $\pm$0.77} \\
+Concrete & 0.252 {\footnotesize $\pm$0.018} & 1.729 {\footnotesize $\pm$0.12} & 15.38 {\footnotesize $\pm$2.3} & 5.013 {\footnotesize $\pm$0.33} & 40.45 {\footnotesize $\pm$2.1} \\
+Variational & 0.310 {\footnotesize $\pm$0.058} & 1.776 {\footnotesize $\pm$0.28} & 7.711 {\footnotesize $\pm$1.3} & 3.878 {\footnotesize $\pm$0.51} & 17.42 {\footnotesize $\pm$2.5} \\
+Fixed-mask MC & 0.130 {\footnotesize $\pm$0.0022} & 0.989 {\footnotesize $\pm$0.14} & 11.78 {\footnotesize $\pm$1.1} & \textbf{0.974} {\footnotesize $\pm$0.13} & \textbf{11.55} {\footnotesize $\pm$1.1} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic} & 0.253 {\footnotesize $\pm$0.0069} & 1.370 {\footnotesize $\pm$0.051} & 18.64 {\footnotesize $\pm$1.1} & 5.055 {\footnotesize $\pm$0.10} & 66.14 {\footnotesize $\pm$3.1} \\
+\textit{Deep ens. $\times$5} & 0.216 {\footnotesize (n=1)} & 1.576 {\footnotesize (n=1)} & 17.24 {\footnotesize (n=1)} & 3.812 {\footnotesize (n=1)} & 35.62 {\footnotesize (n=1)} \\
+\bottomrule
+\end{tabular}%
+\par\smallskip{\footnotesize Seeds 42--51 ($n$=10), mean $\pm$ sd over seeds. Deep ens.\ $\times$5 is a single 5-member ensemble ($n$=1). n/a = not defined for that model (e.g.\ no mask ensemble). Bold indicates the best stochastic single-model arm in a column when its paired tests in Tables~\ref{tab:effect-sizes-classical} and~\ref{tab:effect-sizes-tfim}, all of which involve Fixed-mask MC, are significant (Holm-adjusted $p<0.05$). Paired effect sizes with 95\% confidence intervals are in Table~\ref{tab:effect-sizes-classical} (classical) and Table~\ref{tab:effect-sizes-tfim} (TFIM). Deterministic and deep-ensemble rows (italic, below the dotted rule) are references and are not compared for bold.}
+\end{table}
+\begin{table}[p]
+\centering
+\small
+\setlength{\tabcolsep}{2.5pt}
+\ContinuedFloat
+\caption{Likelihood and coverage under the two IC-noise conventions (continued).}
+\begin{tabular}{lcccccc}
+\toprule
+ & \multicolumn{2}{c}{Cov90 err ($\hat\sigma$)} & \multicolumn{2}{c}{Cov90 err ($\sigma$=0.1)} & \multicolumn{2}{c}{NLL masks-only} \\
+\cmidrule(lr){2-3}
+\cmidrule(lr){4-5}
+\cmidrule(lr){6-7}
+Method & ID & OOD & ID & OOD & ID & OOD \\
+\midrule
+\multicolumn{7}{l}{\emph{Coupled pendulum}} \\
+Fresh-mask MC & 0.0119 {\footnotesize $\pm$0.0030} & 0.321 {\footnotesize $\pm$0.011} & 0.235 {\footnotesize $\pm$0.0022} & 0.568 {\footnotesize $\pm$0.0092} & 4.038 {\footnotesize $\pm$0.11} & 25.82 {\footnotesize $\pm$1.7} \\
+Concrete & 0.0152 {\footnotesize $\pm$0.0032} & 0.352 {\footnotesize $\pm$0.0082} & 0.239 {\footnotesize $\pm$0.0031} & 0.559 {\footnotesize $\pm$0.0052} & 3.209 {\footnotesize $\pm$0.061} & 27.04 {\footnotesize $\pm$1.0} \\
+Variational & 0.0246 {\footnotesize $\pm$0.0098} & 0.271 {\footnotesize $\pm$0.030} & 0.287 {\footnotesize $\pm$0.023} & 0.477 {\footnotesize $\pm$0.037} & 2.224 {\footnotesize $\pm$0.31} & 10.23 {\footnotesize $\pm$2.4} \\
+Fixed-mask MC & 0.0131 {\footnotesize $\pm$0.0057} & 0.300 {\footnotesize $\pm$0.023} & \textbf{0.157} {\footnotesize $\pm$0.0063} & \textbf{0.407} {\footnotesize $\pm$0.029} & 1.001 {\footnotesize $\pm$0.063} & 6.208 {\footnotesize $\pm$0.60} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic} & 0.0431 {\footnotesize $\pm$0.0025} & 0.402 {\footnotesize $\pm$0.018} & 0.305 {\footnotesize $\pm$0.0055} & 0.620 {\footnotesize $\pm$0.0071} & n/a & n/a \\
+\textit{Deep ens. $\times$5} & 0.0214 {\footnotesize (n=1)} & 0.284 {\footnotesize (n=1)} & 0.240 {\footnotesize (n=1)} & 0.438 {\footnotesize (n=1)} & 6.938 {\footnotesize (n=1)} & 21.42 {\footnotesize (n=1)} \\
+\midrule
+\multicolumn{7}{l}{\emph{Spring chain}} \\
+Fresh-mask MC & \textbf{0.0103} {\footnotesize $\pm$0.0072} & \textbf{0.352} {\footnotesize $\pm$0.0097} & 0.227 {\footnotesize $\pm$0.018} & 0.634 {\footnotesize $\pm$0.0066} & 15.33 {\footnotesize $\pm$0.88} & 54.22 {\footnotesize $\pm$1.2} \\
+Concrete & 0.0854 {\footnotesize $\pm$0.0096} & 0.539 {\footnotesize $\pm$0.019} & 0.235 {\footnotesize $\pm$0.014} & 0.654 {\footnotesize $\pm$0.0037} & 12.83 {\footnotesize $\pm$0.72} & 85.30 {\footnotesize $\pm$5.8} \\
+Variational & 0.125 {\footnotesize $\pm$0.031} & 0.448 {\footnotesize $\pm$0.027} & 0.286 {\footnotesize $\pm$0.020} & 0.570 {\footnotesize $\pm$0.026} & 5.529 {\footnotesize $\pm$0.99} & 24.06 {\footnotesize $\pm$4.3} \\
+Fixed-mask MC & 0.0748 {\footnotesize $\pm$0.0091} & 0.527 {\footnotesize $\pm$0.016} & \textbf{0.104} {\footnotesize $\pm$0.0054} & \textbf{0.520} {\footnotesize $\pm$0.016} & 1.395 {\footnotesize $\pm$0.20} & 16.28 {\footnotesize $\pm$1.8} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic} & 0.0821 {\footnotesize $\pm$0.0030} & 0.587 {\footnotesize $\pm$0.0076} & 0.278 {\footnotesize $\pm$0.0066} & 0.709 {\footnotesize $\pm$0.0065} & n/a & n/a \\
+\textit{Deep ens. $\times$5} & 0.0844 {\footnotesize (n=1)} & 0.574 {\footnotesize (n=1)} & 0.199 {\footnotesize (n=1)} & 0.651 {\footnotesize (n=1)} & 21.25 {\footnotesize (n=1)} & 129.43 {\footnotesize (n=1)} \\
+\bottomrule
+\end{tabular}%
+\end{table}

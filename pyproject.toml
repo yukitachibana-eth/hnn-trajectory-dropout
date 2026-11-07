@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hnnuq"
+version = "0.1.0"
+description = "Reproduction code for Trajectory-Consistent Dropout for Uncertainty Decomposition in Hamiltonian Neural Networks"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Yuki Tachibana"}, {name = "Stephen J. Roberts"}]
+dependencies = [
+    "torch==2.5.1",
+    "numpy==2.2.6",
+    "scipy==1.15.2",
+    "pandas==2.3.3",
+    "PyYAML==6.0.3",
+    "matplotlib==3.10.8",
+    "tqdm==4.67.1",
+]
+
+[project.optional-dependencies]
+test = ["pytest==9.0.2"]
+
+[tool.setuptools]
+packages = ["hnnuq", "hnnuq.data", "hnnuq.eval", "hnnuq.ledger", "hnnuq.tfim"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+markers = ["slow: end-to-end smoke run of the whole pipeline (a few minutes on CPU)"]

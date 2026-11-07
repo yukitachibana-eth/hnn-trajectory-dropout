@@ -1,0 +1,21 @@
+\begin{table}[t]
+\centering
+\small
+\setlength{\tabcolsep}{3pt}
+\caption{Efficiency comparison on the Coupled Pendulum benchmark. Relative values are normalised to the deterministic HNN. The Deep Ensemble row is extrapolated from a directly measured deterministic member under a five-member parallel assumption and is separated as a reference row. The sample counts in this table serve the inference-cost profile only. The matched sample counts behind the reported accuracy, likelihood and decomposition metrics are given in Appendix~\ref{app:protocol-lock} and Table~\ref{tab:hparams-system}.}
+\label{tab:efficiency}
+\begin{tabular}{lcccccc}
+\toprule
+Method & Models & Samples & \makecell{Train\\ time} & \makecell{Infer\\ time} & Storage & \makecell{Decomp.\\ axes} \\
+\midrule
+Fresh-mask MC & 1 & 10 & 1.044 & 1.195 & 1.000 & no \\
+Fixed-mask MC ($M$=100) & 1 & 100 & 1.050 & 1.295 & 1.000 & yes \\
+Fixed-mask MC ($M$=200) & 1 & 200 & 1.049 & 1.528 & 1.000 & yes \\
+Concrete & 1 & 10 & 1.274 & 1.330 & 1.031 & no \\
+Variational & 1 & 10 & 1.077 & 1.260 & 1.573 & no \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Det. HNN} & 1 & 1 & 1.000 & 1.000 & 1.000 & no \\
+\textit{Deep ens.\ $\times$5} & 5 & 5 & 5.000 & 5.000 & 5.000 & yes \\
+\bottomrule
+\end{tabular}%
+\end{table}

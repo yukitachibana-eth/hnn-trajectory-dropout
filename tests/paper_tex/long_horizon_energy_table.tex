@@ -1,0 +1,27 @@
+\begin{table}[p]
+\centering
+\small
+\setlength{\tabcolsep}{3pt}
+\caption{Long-horizon physical energy drift. Relative drift $|E(z_t)-E(z_1)|/|E(z_1)|$ of the true Hamiltonian along each sampled rollout at $t$=100 and $t$=1000 of 1000-step rollouts with 10 masks, mean $\pm$ sd over ten seeds. Ratios quoted in the text are means of per-seed ratios.}
+\label{tab:long-horizon-energy}
+\begin{tabular}{lcccc}
+\toprule
+ & \multicolumn{2}{c}{$T$=100} & \multicolumn{2}{c}{$T$=1000} \\
+\cmidrule(lr){2-3}
+\cmidrule(lr){4-5}
+Method & ID & OOD & ID & OOD \\
+\midrule
+\multicolumn{5}{l}{\emph{Long horizon, Spring Chain (self-referenced physical drift, ten seeds)}} \\
+Fresh-mask MC & 0.0770 {\footnotesize $\pm$0.0025} & 0.482 {\footnotesize $\pm$0.10} & 0.259 {\footnotesize $\pm$0.015} & 1.500 {\footnotesize $\pm$0.11} \\
+Fixed-mask MC & 0.0531 {\footnotesize $\pm$0.0042} & 0.406 {\footnotesize $\pm$0.044} & 0.0552 {\footnotesize $\pm$0.0032} & 0.433 {\footnotesize $\pm$0.025} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic} & 0.0329 {\footnotesize $\pm$0.0019} & 0.533 {\footnotesize $\pm$0.14} & 0.0479 {\footnotesize $\pm$0.0018} & 0.550 {\footnotesize $\pm$0.12} \\
+\midrule
+\multicolumn{5}{l}{\emph{Long horizon, Coupled Pendulum (self-referenced physical drift, ten seeds)}} \\
+Fresh-mask MC & 0.0811 {\footnotesize $\pm$0.0020} & 0.463 {\footnotesize $\pm$0.048} & 0.186 {\footnotesize $\pm$0.0040} & 0.911 {\footnotesize $\pm$0.039} \\
+Fixed-mask MC & 0.0995 {\footnotesize $\pm$0.0066} & 0.527 {\footnotesize $\pm$0.061} & 0.0963 {\footnotesize $\pm$0.0037} & 0.491 {\footnotesize $\pm$0.053} \\
+\noalign{\vskip 2.5pt}\hdashline[1pt/1pt]\noalign{\vskip 2.5pt}
+\textit{Deterministic} & 0.0656 {\footnotesize $\pm$0.0044} & 0.412 {\footnotesize $\pm$0.044} & 0.0752 {\footnotesize $\pm$0.0027} & 0.434 {\footnotesize $\pm$0.091} \\
+\bottomrule
+\end{tabular}%
+\end{table}
